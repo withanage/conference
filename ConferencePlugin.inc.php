@@ -2,8 +2,6 @@
 import('lib.pkp.classes.plugins.GenericPlugin');
 class ConferencePlugin extends GenericPlugin {
 	public function register($category, $path, $mainContextId = NULL) {
-
-
 		$success = parent::register($category, $path, $mainContextId);
 		return $success;
 
