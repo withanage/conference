@@ -7,10 +7,10 @@ class ConferencePlugin extends GenericPlugin {
 		$success = parent::register($category, $path);
 
 		if ($success && $this->getEnabled()) {
-			// Do something when the plugin is enabled
+			return true;
 		}
 
-		return $success;
+		return false;
 	}
 
 	/**
