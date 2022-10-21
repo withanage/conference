@@ -5,8 +5,10 @@ class ConferencePlugin extends GenericPlugin {
 
 		// Register the plugin even when it is not enabled
 		$success = parent::register($category, $path, $mainContextId);
-
-		return $success;
+		if ($success && $this->getEnabled($mainContextId)) {
+			return true;
+		}
+		return false;
 	}
 
 	/**
