@@ -1,3 +1,3 @@
 <?php
-require_once('TutorialExamplePlugin.inc.php');
-return new TutorialExamplePlugin();
+require_once('ConferencePlugin.inc.php');
+return new ConferencePlugin();

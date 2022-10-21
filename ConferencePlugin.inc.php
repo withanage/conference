@@ -1,6 +1,6 @@
 <?php
 import('lib.pkp.classes.plugins.GenericPlugin');
-class TutorialExamplePlugin extends GenericPlugin {
+class ConferencePlugin extends GenericPlugin {
 	public function register($category, $path, $mainContextId = NULL) {
 
 		// Register the plugin even when it is not enabled
@@ -20,7 +20,7 @@ class TutorialExamplePlugin extends GenericPlugin {
 	 * install, enable and disable plugins.
 	 */
 	public function getDisplayName() {
-		return 'Tutorial Example';
+		return 'Support Conferences';
 	}
 
 	/**
@@ -30,6 +30,6 @@ class TutorialExamplePlugin extends GenericPlugin {
 	 * install, enable and disable plugins.
 	 */
 	public function getDescription() {
-		return 'This plugin is an example created for a tutorial on how to create a plugin.';
+		return '';
 	}
 }
