@@ -3,12 +3,10 @@ import('lib.pkp.classes.plugins.GenericPlugin');
 class ConferencePlugin extends GenericPlugin {
 	public function register($category, $path, $mainContextId = NULL) {
 
-		// Register the plugin even when it is not enabled
+
 		$success = parent::register($category, $path, $mainContextId);
-		if ($success && $this->getEnabled($mainContextId)) {
-			return true;
-		}
-		return false;
+		return $success;
+
 	}
 
 	/**
