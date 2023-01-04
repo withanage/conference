@@ -1,7 +1,10 @@
 <?php
 import('lib.pkp.classes.plugins.GenericPlugin');
-class ConferencePlugin extends GenericPlugin {
-	public function register($category, $path, $mainContextId = NULL) {
+
+class ConferencePlugin extends GenericPlugin
+{
+	public function register($category, $path, $mainContextId = NULL)
+	{
 		$success = parent::register($category, $path, $mainContextId);
 		if ($success && $this->getEnabled($mainContextId)) {
 			HookRegistry::register('Templates::Editor::Issues::IssueData::AdditionalMetadata', array($this, 'metadataFieldEdit'));
@@ -24,7 +27,8 @@ class ConferencePlugin extends GenericPlugin {
 
 	}
 
-	function handleAdditionalFieldNames($hookName, $params) {
+	function handleAdditionalFieldNames($hookName, $params)
+	{
 		$fields =& $params[1];
 		$fields[] = 'conferenceDOI';
 		return false;
@@ -37,7 +41,8 @@ class ConferencePlugin extends GenericPlugin {
 	 * The name will appear in the Plugin Gallery where editors can
 	 * install, enable and disable plugins.
 	 */
-	public function getDisplayName() {
+	public function getDisplayName()
+	{
 		return 'Support Conferences';
 	}
 
@@ -47,7 +52,8 @@ class ConferencePlugin extends GenericPlugin {
 	 * The description will appear in the Plugin Gallery where editors can
 	 * install, enable and disable plugins.
 	 */
-	public function getDescription() {
+	public function getDescription()
+	{
 		return '';
 	}
 
@@ -69,7 +75,7 @@ class ConferencePlugin extends GenericPlugin {
 	function metadataFieldExecute($hookName, $params)
 	{
 		$request = $this->getRequest();
-		$requestVars  = $request->getUserVars();
+		$requestVars = $request->getUserVars();
 		$conferenceDOI = $requestVars['conferenceDOI'];
 		$issue =& $params[0]->issue;
 		if ($issue && $conferenceDOI) {
