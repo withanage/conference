@@ -8,26 +8,34 @@ class ConferencePlugin extends GenericPlugin
 		$success = parent::register($category, $path, $mainContextId);
 		if ($success && $this->getEnabled($mainContextId)) {
 			HookRegistry::register('Templates::Editor::Issues::IssueData::AdditionalMetadata', array($this, 'metadataFieldEdit'));
-			HookRegistry::register('issueform::execute', array($this, 'metadataFieldExecute'));
+			HookRegistry::register('issueform::execute', array($this, 'formExecute'));
 			HookRegistry::register('issuedao::getAdditionalFieldNames', array($this, 'handleAdditionalFieldNames'));
+			HookRegistry::register('LoadComponentHandler', array($this, 'setupHandler'));
 
 		}
 
 		HookRegistry::register('Schema::get::issue', function ($hookName, $args) {
 			$schema = $args[0];
 
-			$schema->properties->conferenceDOI = (object)[
-				'type' => 'string',
-				'apiSummary' => true,
-				'validation' => ['nullable']
-			];
+			$this->addProperties($schema);
 		});
+
 
 		return $success;
 
 	}
 
-	function handleAdditionalFieldNames($hookName, $params)
+	function setupHandler($hookName, $params) {
+		import('plugins.generic.conference.controllers.ConferenceHandler');
+			ConferenceHandler::setPlugin($this);
+	}
+
+	/***
+	 * @param $hookName
+	 * @param $params
+	 * @return false
+	 */
+	function handleAdditionalFieldNames($hookName, $params) : bool
 	{
 		$fields =& $params[1];
 		$fields[] = 'conferenceDOI';
@@ -36,23 +44,18 @@ class ConferencePlugin extends GenericPlugin
 
 
 	/**
-	 * Provide a name for this plugin
-	 *
-	 * The name will appear in the Plugin Gallery where editors can
-	 * install, enable and disable plugins.
+	 * @return string
 	 */
 	public function getDisplayName()
 	{
 		return 'Support Conferences';
 	}
 
-	/**
-	 * Provide a description for this plugin
-	 *
-	 * The description will appear in the Plugin Gallery where editors can
-	 * install, enable and disable plugins.
+
+	/***
+	 * @return string
 	 */
-	public function getDescription()
+	public function getDescription() :string
 	{
 		return '';
 	}
@@ -72,16 +75,38 @@ class ConferencePlugin extends GenericPlugin
 		return false;
 	}
 
-	function metadataFieldExecute($hookName, $params)
+
+	/**
+	 * @param $hookName
+	 * @param $params
+	 * @return bool
+	 */
+	function formExecute($hookName, $params): bool
 	{
-		$request = $this->getRequest();
-		$requestVars = $request->getUserVars();
-		$conferenceDOI = $requestVars['conferenceDOI'];
 		$issue =& $params[0]->issue;
-		if ($issue && $conferenceDOI) {
-			$issue->setData('conferenceDOI', $conferenceDOI);
+		$requestVars = $this->getRequest()->getUserVars();
+		if (array_key_exists('conferenceDOI',$requestVars)) {
+			$conferenceDOI = $requestVars['conferenceDOI'];
+
+			if ($issue && $conferenceDOI) {
+				$issue->setData('conferenceDOI', $conferenceDOI);
+			}
 		}
+		return  false;
 
 
+	}
+
+	/**
+	 * @param mixed $schema
+	 * @return void
+	 */
+	function addProperties(mixed $schema): void
+	{
+		$schema->properties->conferenceDOI = (object)[
+			'type' => 'string',
+			'apiSummary' => true,
+			'validation' => ['nullable']
+		];
 	}
 }

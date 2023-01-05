@@ -12,7 +12,7 @@ msgstr ""
 "Language: \n"
 
 msgid "plugins.generic.conference.manager.settings.conferenceDOI.title"
-msgstr "Conference DOI"
+msgstr "Conference Metadata"
 
 msgid "plugins.generic.conference.manager.settings.conferenceDOI"
 msgstr "Conference DOI  from https://projects.tib.eu/confident/"
