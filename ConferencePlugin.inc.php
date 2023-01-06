@@ -71,11 +71,8 @@ class ConferencePlugin extends GenericPlugin
 	{
 		$smarty =& $params[1];
 		$output =& $params[2];
-		$issueDao = DAORegistry::getDAO('IssueDAO'); /* @var $issueDao IssueDAO */
 
-
-		$conferenceDOI  =  $smarty->getTemplateVars('issue')->getData('conferenceDOI');
-		$smarty->assign('conferenceDOI', $conferenceDOI);
+		$smarty->assign('conferenceDOI', $smarty->getTemplateVars('issue')->getData('conferenceDOI'));
 
 		$output .= $smarty->fetch($this->getTemplateResource('metadataForm.tpl'));
 		return false;
