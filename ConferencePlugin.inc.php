@@ -11,6 +11,7 @@ class ConferencePlugin extends GenericPlugin
 			HookRegistry::register('issueform::execute', array($this, 'formExecute'));
 			HookRegistry::register('issuedao::getAdditionalFieldNames', array($this, 'handleAdditionalFieldNames'));
 			HookRegistry::register('LoadComponentHandler', array($this, 'setupHandler'));
+			HookRegistry::register('IssueHandler::view::toc', array($this, 'issueViewHandler'));
 
 		}
 
@@ -23,6 +24,14 @@ class ConferencePlugin extends GenericPlugin
 
 		return $success;
 
+	}
+	function issueViewHandler ($hookName, $params){
+		$request = Application::get()->getRequest();
+		$templateManager = TemplateManager::getManager($request);
+
+		$metadataView = $templateManager->fetch($this->getTemplateResource('metadataView.tpl'));
+		$templateManager->assign('metadataView', $metadataView );
+		return $metadataView;
 	}
 
 	function setupHandler($hookName, $params) {
@@ -73,7 +82,6 @@ class ConferencePlugin extends GenericPlugin
 		$output =& $params[2];
 
 		$smarty->assign('conferenceDOI', $smarty->getTemplateVars('issue')->getData('conferenceDOI'));
-
 		$output .= $smarty->fetch($this->getTemplateResource('metadataForm.tpl'));
 		return false;
 	}

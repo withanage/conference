@@ -15,4 +15,4 @@ msgid "plugins.generic.conference.manager.settings.conferenceDOI.title"
 msgstr "Conference Metadata"
 
 msgid "plugins.generic.conference.manager.settings.conferenceDOI"
-msgstr "Conference DOI  from https://projects.tib.eu/confident/"
+msgstr "Conference DOI  from https://projects.tib.eu/confid/"
