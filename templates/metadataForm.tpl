@@ -2,9 +2,15 @@
  * plugins/generic/conference/templates/metadataForm.tpl
  *}
 
-<div id="conferenceDOI">
-    {fbvFormSection title="plugins.generic.conference.manager.settings.conferenceDOI.title"}
-    {fbvElement type="text" id="conferenceDOI" value=$conferenceDOI  required=false label="plugins.generic.conference.manager.settings.conferenceDOI" maxlength="40" size=$fbvStyles.size.MEDIUM disabled=false}
+<div id="conferenceDate">
+    {fbvFormSection title="plugins.generic.conference.metadata.conferenceDateBegin.title"}
+    {fbvElement type="text" id="conferenceDateBegin" value=$conferenceDateBegin  required=false label="plugins.generic.conference.metadata.conferenceDateBegin"  class="datepicker"  size=$fbvStyles.size.SMALL inline=true }
+    {fbvElement type="text" id="conferenceDateBegin" value=$conferenceDateBegin  required=false label="plugins.generic.conference.metadata.conferenceDatEnd"  class="datepicker"  size=$fbvStyles.size.SMALL inline=true}
+
+
+
+
+
     {/fbvFormSection}
 </div>
 

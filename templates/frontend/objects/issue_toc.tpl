@@ -56,19 +56,6 @@
 			</div>
         {/if}
 
-		<div class="published">
-				<span class="label">
-					{translate key="submissions.published"}:
-				</span>
-			<span class="value">
-					{$issue->getDatePublished()|date_format:$dateFormatShort}
-
-                {$issue->getData('conferenceDOI')}
-
-				</span>
-		</div>
-
-
         {* PUb IDs (eg - DOI) *}
         {foreach from=$pubIdPlugins item=pubIdPlugin}
             {assign var=pubId value=$issue->getStoredPubId($pubIdPlugin->getPubIdType())}
@@ -142,3 +129,12 @@
 {/foreach}
 </div><!-- .sections -->
 </div>
+<div id="conferenceDateBegin">
+    {fbvFormSection title="plugins.generic.conference.metadata.conferenceDateBegin.title"}
+    {fbvElement type="text" id="conferenceDateBegin" value=$conferenceDateBegin  required=false label="plugins.generic.conference.metadata.conferenceDateBegin" maxlength="40" size=$fbvStyles.size.MEDIUM disabled=false}
+    {/fbvFormSection}
+</div>
+<div id="conferenceDateBegin">
+    {$issue->getData('conferenceDateBegin')}
+</div>
+

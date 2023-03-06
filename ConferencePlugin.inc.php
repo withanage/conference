@@ -2,28 +2,28 @@
 import('lib.pkp.classes.plugins.GenericPlugin');
 
 class ConferencePlugin extends GenericPlugin
+
+
 {
 	public function register($category, $path, $mainContextId = NULL)
 	{
 		$success = parent::register($category, $path, $mainContextId);
 		if ($success && $this->getEnabled($mainContextId)) {
+
 			HookRegistry::register('Templates::Editor::Issues::IssueData::AdditionalMetadata', array($this, 'metadataFieldEdit'));
 			HookRegistry::register('issueform::execute', array($this, 'formExecute'));
 			HookRegistry::register('issuedao::getAdditionalFieldNames', array($this, 'handleAdditionalFieldNames'));
 			HookRegistry::register('LoadComponentHandler', array($this, 'setupHandler'));
-			#HookRegistry::register('IssueHandler::view::toc', array($this, 'issueViewHandler'));
 			HookRegistry::register('TemplateResource::getFilename', array($this, '_overridePluginTemplates'));
 
 		}
 
 		HookRegistry::register('Schema::get::issue', function ($hookName, $args) {
 			$schema = $args[0];
-
 			$this->addProperties($schema);
 		});
 
-
-		return $success;
+	return $success;
 
 	}
 	function issueViewHandler ($hookName, $params){
@@ -48,7 +48,8 @@ class ConferencePlugin extends GenericPlugin
 	function handleAdditionalFieldNames($hookName, $params) : bool
 	{
 		$fields =& $params[1];
-		$fields[] = 'conferenceDOI';
+		$fields[] = 'conferenceDateBegin';
+		$fields[] = 'conferenceDateEnd';
 		return false;
 	}
 
@@ -82,7 +83,11 @@ class ConferencePlugin extends GenericPlugin
 		$smarty =& $params[1];
 		$output =& $params[2];
 
-		$smarty->assign('conferenceDOI', $smarty->getTemplateVars('issue')->getData('conferenceDOI'));
+		$issue = $smarty->getTemplateVars('issue');
+		if($issue) {
+			$smarty->assign('conferenceDateBegin', $issue->getData('conferenceDateBegin'));
+			$smarty->assign('conferenceDateEnd', $issue->getData('conferenceDateEnd'));
+		}
 		$output .= $smarty->fetch($this->getTemplateResource('metadataForm.tpl'));
 		return false;
 	}
@@ -97,11 +102,12 @@ class ConferencePlugin extends GenericPlugin
 	{
 		$issue =& $params[0]->issue;
 		$requestVars = $this->getRequest()->getUserVars();
-		if (array_key_exists('conferenceDOI',$requestVars)) {
-			$conferenceDOI = $requestVars['conferenceDOI'];
 
-			if ($issue && $conferenceDOI) {
-				$issue->setData('conferenceDOI', $conferenceDOI);
+		$key = 'conferenceDateBegin';
+		if (array_key_exists($key,$requestVars)) {
+			$conferenceDateBegin = $requestVars[$key];
+			if ($issue && $conferenceDateBegin) {
+				$issue->setData($key, $conferenceDateBegin);
 			}
 		}
 		return  false;
@@ -115,7 +121,7 @@ class ConferencePlugin extends GenericPlugin
 	 */
 	function addProperties(mixed $schema): void
 	{
-		$schema->properties->conferenceDOI = (object)[
+		$schema->properties->conferenceDateBegin = (object)[
 			'type' => 'string',
 			'apiSummary' => true,
 			'validation' => ['nullable']
