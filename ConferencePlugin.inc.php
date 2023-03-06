@@ -11,7 +11,8 @@ class ConferencePlugin extends GenericPlugin
 			HookRegistry::register('issueform::execute', array($this, 'formExecute'));
 			HookRegistry::register('issuedao::getAdditionalFieldNames', array($this, 'handleAdditionalFieldNames'));
 			HookRegistry::register('LoadComponentHandler', array($this, 'setupHandler'));
-			HookRegistry::register('IssueHandler::view::toc', array($this, 'issueViewHandler'));
+			#HookRegistry::register('IssueHandler::view::toc', array($this, 'issueViewHandler'));
+			HookRegistry::register('TemplateResource::getFilename', array($this, '_overridePluginTemplates'));
 
 		}
 
