@@ -2,9 +2,9 @@
 name: Feature request
 about: Suggest an idea for this project
 title: 'Conference Metadata'
-labels: 'enhancement,conference metadata'
-assignees: 'withanage'
 milestone: '3.3.0.1'
+labels: 'enhancement'
+assignees: 'withanage'
 ---
 
 ### Description
