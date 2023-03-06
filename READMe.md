@@ -26,7 +26,7 @@ git clone  https://github.com/withanage/conference
 
 # configuration
 > Go to Plugins e.g. $JOURNAL/management/settings/website#plugins/installedPlugins
-> Enable Plugin: Support Conferencese
+> Enable Plugin: Support Conferences
 
 ```
 
