@@ -13,7 +13,7 @@ We welcome ideas, feature requests in the [discussion](https://github.com/withan
 | Conference type | online                  | no       | https://github.com/withanage/conference/issues/5 | 3.3   |
 |  Name | Current issue name      | no       | https://github.com/withanage/conference/issues/2 | 3.3   |
 | Place           | Location, City, Country | yes      | https://github.com/withanage/conference/issues/3 | 3.3 |
-| Date            | Begin Date and End-Date | no       | https://github.com/withanage/conference/issues/4 | 3.3-|
+| Date            | Begin Date and End-Date | no       | https://github.com/withanage/conference/issues/4 | 3.3|
 
 
 
