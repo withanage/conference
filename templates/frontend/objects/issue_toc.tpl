@@ -91,6 +91,29 @@
         {/if}
 	</div>
 
+	{* Conference Metadata*}
+    {if $issue->getData('conferenceDateBegin')}
+		<div class="published">
+				<span class="label">
+					{translate key="plugins.generic.conference.metadata.conferenceDateBegin"}:
+				</span>
+			<span class="value">
+					{$issue->getData('conferenceDateBegin')|date_format:$dateFormatShort}
+				</span>
+		</div>
+    {/if}
+    {if $issue->getData('conferenceDateEnd')}
+		<div class="published">
+				<span class="label">
+					{translate key="plugins.generic.conference.metadata.conferenceDateEnd"}:
+				</span>
+			<span class="value">
+					{$issue->getData('conferenceDateEnd')|date_format:$dateFormatShort}
+				</span>
+		</div>
+    {/if}
+
+
     {* Full-issue galleys *}
     {if $issueGalleys}
 	<div class="galleys">
@@ -129,12 +152,5 @@
 {/foreach}
 </div><!-- .sections -->
 </div>
-<div id="conferenceDateBegin">
-    {fbvFormSection title="plugins.generic.conference.metadata.conferenceDateBegin.title"}
-    {fbvElement type="text" id="conferenceDateBegin" value=$conferenceDateBegin  required=false label="plugins.generic.conference.metadata.conferenceDateBegin" maxlength="40" size=$fbvStyles.size.MEDIUM disabled=false}
-    {/fbvFormSection}
-</div>
-<div id="conferenceDateBegin">
-    {$issue->getData('conferenceDateBegin')}
-</div>
+
 

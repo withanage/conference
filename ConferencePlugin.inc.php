@@ -48,10 +48,21 @@ class ConferencePlugin extends GenericPlugin
 	function handleAdditionalFieldNames($hookName, $params) : bool
 	{
 		$fields =& $params[1];
-		$fields[] = 'conferenceDateBegin';
-		$fields[] = 'conferenceDateEnd';
+		foreach ($this->getAdditionalFields() as $field) {
+			$fields[] = $field;
+			}
 		return false;
 	}
+
+
+	function getAdditionalFields(){
+		$fiellds = array(
+			'conferenceDateBegin',
+			'conferenceDateEnd'
+		);
+		return $fiellds;
+	}
+
 
 
 	/**
@@ -85,8 +96,11 @@ class ConferencePlugin extends GenericPlugin
 
 		$issue = $smarty->getTemplateVars('issue');
 		if($issue) {
-			$smarty->assign('conferenceDateBegin', $issue->getData('conferenceDateBegin'));
-			$smarty->assign('conferenceDateEnd', $issue->getData('conferenceDateEnd'));
+			foreach ($this->getAdditionalFields() as $field) {
+				$smarty->assign($field, $issue->getData($field));
+			}
+
+
 		}
 		$output .= $smarty->fetch($this->getTemplateResource('metadataForm.tpl'));
 		return false;
@@ -103,11 +117,12 @@ class ConferencePlugin extends GenericPlugin
 		$issue =& $params[0]->issue;
 		$requestVars = $this->getRequest()->getUserVars();
 
-		$key = 'conferenceDateBegin';
-		if (array_key_exists($key,$requestVars)) {
-			$conferenceDateBegin = $requestVars[$key];
-			if ($issue && $conferenceDateBegin) {
-				$issue->setData($key, $conferenceDateBegin);
+		foreach ($this->getAdditionalFields() as $field) {
+			if (array_key_exists($field, $requestVars)) {
+				$conferenceDateBegin = $requestVars[$field];
+				if ($issue && $conferenceDateBegin) {
+					$issue->setData($field, $conferenceDateBegin);
+				}
 			}
 		}
 		return  false;
@@ -121,10 +136,12 @@ class ConferencePlugin extends GenericPlugin
 	 */
 	function addProperties(mixed $schema): void
 	{
-		$schema->properties->conferenceDateBegin = (object)[
-			'type' => 'string',
-			'apiSummary' => true,
-			'validation' => ['nullable']
-		];
+		foreach ($this->getAdditionalFields() as $field) {
+			$schema->properties->$field = (object)[
+				'type' => 'string',
+				'apiSummary' => true,
+				'validation' => ['nullable']
+			];
+		}
 	}
 }

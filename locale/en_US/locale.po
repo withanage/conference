@@ -11,8 +11,11 @@ msgstr ""
 "PO-Revision-Date: 2019-11-19T11:05:16+00:00\n"
 "Language: \n"
 
-msgid "plugins.generic.conference.manager.settings.conferenceDOI.title"
-msgstr "Conference Metadata"
+msgid "plugins.generic.conference.metadata.conferenceDate.title"
+msgstr "Conference Dates"
 
-msgid "plugins.generic.conference.manager.settings.conferenceDOI"
-msgstr "Conference DOI  from https://projects.tib.eu/confid/"
+msgid "plugins.generic.conference.metadata.conferenceDateBegin"
+msgstr "Begin Date"
+
+msgid "plugins.generic.conference.metadata.conferenceDateEnd"
+msgstr "End Date"
