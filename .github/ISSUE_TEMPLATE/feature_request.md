@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: 'Conference Metadata'
 labels: 'enhancement'
 assignees: 'withanage'
-milestone:3.3.0.1
+milestone: '3.3.0.1'
 ---
 
 ### Description
