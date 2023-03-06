@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: 'Conference Metadata'
+title: 'Conference Metadata:'
 milestone: '3.3.0.1'
 labels: 'enhancement'
 assignees: 'withanage'
