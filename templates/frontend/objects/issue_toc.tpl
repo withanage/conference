@@ -98,8 +98,13 @@
 					{translate key="plugins.generic.conference.metadata.conferenceDate.title"}:
 				</span>
 			<span class="value">
-					{$issue->getData('conferenceDateBegin')|date_format:$dateFormatShort}
-					{$issue->getData('conferenceDateEnd')|date_format:$dateFormatShort}
+					{if $issue->getData('conferenceDateBegin') !== $issue->getData('conferenceDateEnd')}
+						{$issue->getData('conferenceDateBegin')|date_format:"%B %e"} -
+						{$issue->getData('conferenceDateEnd')|date_format:"%B %e %Y"}
+					{else}
+                        {$issue->getData('conferenceDateEnd')|date_format:"%B %e %Y"}
+
+                    {/if}
 				</span>
 		</div>
     {/if}

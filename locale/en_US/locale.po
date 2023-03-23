@@ -12,16 +12,16 @@ msgstr ""
 "Language: \n"
 
 msgid "plugins.generic.conference.metadata.conferenceDate.title"
-msgstr "Conference Date"
+msgstr "Conference Dates"
 
 msgid "plugins.generic.conference.metadata.conferenceDateBegin"
-msgstr "Begin Date"
+msgstr "Start Date"
 
 msgid "plugins.generic.conference.metadata.conferenceDateEnd"
 msgstr "End Date"
 
 msgid "plugins.generic.conference.metadata.conferencePlace.title"
-msgstr "Conference location"
+msgstr "Conference Location"
 
 msgid "plugins.generic.conference.metadata.conferencePlaceStreet"
 msgstr "Street / Place"
