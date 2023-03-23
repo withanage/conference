@@ -58,7 +58,10 @@ class ConferencePlugin extends GenericPlugin
 	function getAdditionalFields(){
 		$fiellds = array(
 			'conferenceDateBegin',
-			'conferenceDateEnd'
+			'conferenceDateEnd',
+			'conferencePlaceStreet',
+			'conferencePlaceCity',
+			'conferencePlaceCountry'
 		);
 		return $fiellds;
 	}
@@ -99,7 +102,6 @@ class ConferencePlugin extends GenericPlugin
 			foreach ($this->getAdditionalFields() as $field) {
 				$smarty->assign($field, $issue->getData($field));
 			}
-
 
 		}
 		$output .= $smarty->fetch($this->getTemplateResource('metadataForm.tpl'));

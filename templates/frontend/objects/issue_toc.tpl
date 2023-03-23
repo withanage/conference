@@ -92,23 +92,27 @@
 	</div>
 
 	{* Conference Metadata*}
-    {if $issue->getData('conferenceDateBegin')}
+    {if $issue->getData('conferenceDateBegin') && $issue->getData('conferenceDateEnd')}
 		<div class="published">
 				<span class="label">
-					{translate key="plugins.generic.conference.metadata.conferenceDateBegin"}:
+					{translate key="plugins.generic.conference.metadata.conferenceDate.title"}:
 				</span>
 			<span class="value">
 					{$issue->getData('conferenceDateBegin')|date_format:$dateFormatShort}
+					{$issue->getData('conferenceDateEnd')|date_format:$dateFormatShort}
 				</span>
 		</div>
     {/if}
-    {if $issue->getData('conferenceDateEnd')}
+
+    {if $issue->getData('conferencePlaceAddress') ||  $issue->getData('conferencePlaceCity') || $issue->getData('conferencePlaceCounty')}
 		<div class="published">
 				<span class="label">
-					{translate key="plugins.generic.conference.metadata.conferenceDateEnd"}:
+					{translate key="plugins.generic.conference.metadata.conferencePlace.title"}:
 				</span>
 			<span class="value">
-					{$issue->getData('conferenceDateEnd')|date_format:$dateFormatShort}
+					{$issue->getData('conferencePlaceStreet')}
+					{$issue->getData('conferencePlaceCity')}
+					{$issue->getData('conferencePlaceCountry')}
 				</span>
 		</div>
     {/if}
