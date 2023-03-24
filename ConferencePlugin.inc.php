@@ -16,10 +16,9 @@ class ConferencePlugin extends GenericPlugin
 			HookRegistry::register('LoadComponentHandler', array($this, 'setupHandler'));
 			HookRegistry::register('TemplateResource::getFilename', array($this, '_overridePluginTemplates'));
 
+
 			$locale = AppLocale::getLocale();
-
 			$customLocalePath = $this->getPluginPath() ."/conferenceLocale/" . $locale . "/customLocale.po";
-
 			if (file_exists($customLocalePath)) {
 				AppLocale::registerLocaleFile($locale, $customLocalePath);
 			}
