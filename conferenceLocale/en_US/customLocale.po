@@ -326,7 +326,8 @@ msgstr "Back to conference galleys"
 msgid "editor.issues.confirmDeleteGalley"
 msgstr "Are you sure you want to delete this conference galley?"
 
-
+msgid "editor.navigation.futureIssues"
+msgstr "Future conferences"
 
 msgid "grid.action.publish"
 msgstr "Publish conference"
