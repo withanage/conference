@@ -1,872 +1,1218 @@
 msgid "admin.hostedContexts"
-msgstr "Hosted conference seriess"
+msgstr "Hosted Conference Proceedings Series"
 
 msgid "admin.settings.redirect"
-msgstr "conference series redirect"
+msgstr "Conference Proceedings Series redirect"
 
 msgid "admin.journals.journalSettings"
-msgstr "conference series Settings"
+msgstr "Conference Proceedings Series Settings"
 
 msgid "admin.journals.noneCreated"
-msgstr "No conference seriess have been created."
+msgstr "No Conference Proceedings Series have been created."
 
 msgid "admin.contexts.create"
-msgstr "Create conference series"
+msgstr "Create Conference Proceedings Series"
 
 msgid "admin.contexts.form.pathExists"
-msgstr "The path you provided is already in use by another conference series."
+msgstr "The path you provided is already in use by another Conference Proceedings Series."
 
 msgid "admin.contexts.form.primaryLocaleNotSupported"
-msgstr "The primary locale must be one of the conference series's supported locales."
+msgstr "The primary locale must be one of the Conference Proceedings Series' supported locales."
 
 msgid "admin.journals.enableJournalInstructions"
-msgstr "Enable this conference series to appear publicly on the site"
+msgstr "Enable this Conference Proceedings Series to appear publicly on the site"
 
 msgid "admin.contexts.contextDescription"
-msgstr "conference series description"
+msgstr "Conference Proceedings Series description"
 
 msgid "admin.journal.pathImportInstructions"
-msgstr "Existing conference series path or path to create (e.g., \"ojs\")."
+msgstr "Existing Conference Proceedings Seriess path or path to create (e.g., \"ojs\")."
 
 msgid "admin.journals.transcode"
 msgstr "Transcode conference proceeding metadata from ISO8859-1"
 
 msgid "api.announcements.400.contextsNotMatched"
-msgstr "The announcement you requested is not part of this conference series."
+msgstr "The announcement you requested is not part of this Conference Proceedings Series."
 
 msgid "api.emails.403.disabled"
-msgstr "The email notification feature has not been enabled for this conference series."
+msgstr "The email notification feature has not been enabled for this Conference Proceedings Series."
 
 msgid "api.submissions.403.cantChangeContext"
-msgstr "You can not change the conference series of a conference proceeding."
+msgstr "You can not change the Conference Proceedings Series of a Conference Proceedings Submission."
 
 msgid "api.submissions.403.unpublishedIssues"
-msgstr "You do not have permission to view unpublished conferences."
+msgstr "You do not have permission to view unpublished Conference Proceedings Volumes."
 
 msgid "api.contexts.403.requestedDisabledContexts"
-msgstr "You can only view conference seriess that have been enabled."
+msgstr "You can only view Conference Proceedings Series that have been enabled."
 
 msgid "api.contexts.403.notAllowed"
-msgstr "You do not have permission to view this conference series."
+msgstr "You do not have permission to view this Conference Proceedings Series."
 
 msgid "api.contexts.403.requiresContext"
-msgstr "You can not edit this conference series from the site-wide API."
+msgstr "You can not edit this Conference Proceedings Series from the site-wide API."
 
 msgid "api.contexts.403.notAllowedEdit"
-msgstr "You do not have permission to edit this conference series."
+msgstr "You do not have permission to edit this Conference Proceedings Series."
 
 msgid "api.contexts.403.notAllowedDelete"
-msgstr "You do not have permission to delete this conference series."
+msgstr "You do not have permission to delete this Conference Proceedings Series."
 
 msgid "api.contexts.404.contextNotFound"
-msgstr "The conference series you requested was not found."
+msgstr "The Conference Proceedings Series you requested was not found."
 
 msgid "api.publications.403.contextsDidNotMatch"
-msgstr "The publication that you requested is not part of this conference series."
+msgstr "The publication that you requested is not part of this Conference Proceedings Series."
 
 msgid "api.publications.403.submissionsDidNotMatch"
 msgstr "The publication that you requested is not part of this conference proceeding."
 
 msgid "author.submit"
-msgstr "New conference proceeding"
+msgstr "New Conference Proceedings Submission"
 
 msgid "author.track"
-msgstr "Active conference proceedings"
+msgstr "Active conference Conference Proceedings Submissions"
 
 msgid "author.submit.submitArticle"
-msgstr "Submit an conference proceeding"
+msgstr "Submit a Conference Proceedings Paper"
 
 msgid "author.submit.startHereTitle"
-msgstr "Start a New conference proceeding"
+msgstr "Start a New Conference Proceedings Submission"
 
 msgid "author.submit.startHereLink"
-msgstr "<a href=\"{$submitUrl}\" class=\"action\">Click here</a> to go to step one of the five-step conference proceeding process."
+msgstr "<a href=\"{$submitUrl}\" class=\"action\">Click here</a> to go to step one of the five-step Conference Proceedings Submission process."
 
 msgid "author.submit.step1"
-msgstr "Step 1. Starting the conference proceeding"
+msgstr "Step 1. Starting the Conference Proceedings Submission"
 
 msgid "author.submit.step2"
-msgstr "Step 2. Uploading the conference proceeding"
+msgstr "Step 2. Uploading the Conference Proceedings Paper"
 
 msgid "author.submit.step3"
-msgstr "Step 3. Entering the conference proceeding's Metadata"
+msgstr "Step 3. Entering the Conference Proceedings Submission's Metadata"
 
 msgid "author.submit.step5"
-msgstr "Step 5. Confirming the conference proceeding"
+msgstr "Step 5. Confirming the Conference Proceedings Submission"
 
 msgid "author.submit.upload"
-msgstr "Upload conference proceeding"
+msgstr "Upload Conference Proceedings Paper"
 
 msgid "submission.submit.cancelSubmission"
-msgstr "You can complete this conference proceeding at a later date by selecting Active conference proceedings from the Author home."
+msgstr "You can complete this Conference Proceedings Submission at a later date by selecting Active Conference Proceedings Submission from the Author home."
 
 msgid "author.submit.notAccepting"
-msgstr "This conference series is not accepting conference proceedings at this time."
+msgstr "This Conference Proceedings Series is not accepting Conference Proceedings Submission at this time."
 
 msgid "author.submit.qualifyForWaiver"
-msgstr "Please consider waiving the conference proceeding conference proceeding Fee for this conference proceeding"
+msgstr "Please consider waiving the Conference Proceedings Paper Fee for this Conference Proceedings Submission"
 
 msgid "author.submissions.confirmDelete"
-msgstr "Are you sure you want to delete this incomplete conference proceeding?"
+msgstr "Are you sure you want to delete this incomplete Conference Proceedings Submission?"
 
 msgid "author.submissions.noSubmissions"
-msgstr "No conference proceedings."
+msgstr "No Conference Proceedings Submissions."
 
 msgid "author.submit.journalSection"
-msgstr "conference series Section"
+msgstr "Conference Proceedings Series Section"
 
 msgid "author.submit.journalSectionDescription"
-msgstr "conference proceedings must be submitted to one of the conference series's sections."
+msgstr "Conference Proceedings Papers must be submitted to one of the Conference Proceedings Series' sections."
 
 msgid "author.submit.verifyChecklist"
-msgstr "You must make sure all items in the conference proceeding checklist are satisfied before continuing."
+msgstr "You must make sure all items in the Conference Proceedings Submission checklist are satisfied before continuing."
 
 msgid "author.submit.copyrightNoticeAgree"
-msgstr "The authors agree to the terms of this Copyright Notice, which will apply to this conference proceeding if and when it is published by this conference series (comments to the editor can be added below)."
+msgstr "The authors agree to the terms of this Copyright Notice, which will apply to this Conference Proceedings Paper if and when it is published by this Conference Proceedings Series (comments to the editor can be added below)."
 
 msgid "author.submit.form.sectionRequired"
-msgstr "Please select an appropriate conference series section for this conference proceeding."
+msgstr "Please select an appropriate Conference Proceedings Series section for this No Conference Proceedings Submission."
 
 msgid "author.submit.form.localeRequired"
-msgstr "Please select a conference proceeding language."
+msgstr "Please select a No Conference Proceedings Submission language."
 
 msgid "submission.submit.privacyStatement"
-msgstr "conference series's Privacy Statement"
+msgstr "Conference Proceedings Series' Privacy Statement"
 
 msgid "author.submit.submissionIndexingDescription"
-msgstr "Provide terms for indexing the conference proceeding; separate terms with a semi-colon (term1; term2; term3)."
+msgstr "Provide terms for indexing the Conference Proceedings Submission; separate terms with a semi-colon (term1; term2; term3)."
 
 msgid "author.submit.form.titleRequired"
-msgstr "Please enter the title of your conference proceeding."
+msgstr "Please enter the title of your Conference Proceedings Submission."
 
 msgid "author.submit.form.abstractRequired"
-msgstr "Please enter the abstract of your conference proceeding."
+msgstr "Please enter the abstract of your Conference Proceedings Submission."
 
 msgid "author.submit.submissionFile"
-msgstr "conference proceeding File"
+msgstr "Conference Proceedings Submission File"
 
 msgid "author.submit.uploadSubmissionFile"
-msgstr "Upload conference proceeding file"
+msgstr "Upload Conference Proceedings Submission file"
 
 msgid "author.submit.replaceSubmissionFile"
-msgstr "Replace conference proceeding file"
+msgstr "Replace Conference Proceedings Submission file"
 
 msgid "author.submit.noSubmissionFile"
-msgstr "No conference proceeding file uploaded."
+msgstr "No Conference Proceedings Submission file uploaded."
 
 msgid "author.submit.noSubmissionConfirm"
-msgstr "Are you sure you wish to continue without uploading a conference proceeding file?"
+msgstr "Are you sure you wish to continue without uploading a Conference Proceedings Submission file?"
 
 msgid "author.submit.supplementaryFilesInstructions"
-msgstr "This optional step allows Supplementary Files to be added to a conference proceeding. The files, which can be in any format, might include (a) research instruments, (b) data sets, which comply with the terms of the study's research ethics review, (c) sources that otherwise would be unavailable to readers, (d) figures and tables that cannot be integrated into the text itself, or other materials that add to the contribution of the work."
+msgstr "This optional step allows Supplementary Files to be added to a Conference Proceedings Submission. The files, which can be in any format, might include (a) research instruments, (b) data sets, which comply with the terms of the study's research ethics review, (c) sources that otherwise would be unavailable to readers, (d) figures and tables that cannot be integrated into the text itself, or other materials that add to the contribution of the work."
 
 msgid "author.submit.noSupplementaryFiles"
-msgstr "No supplementary files have been added to this conference proceeding."
+msgstr "No supplementary files have been added to this Conference Proceedings Submission."
 
 msgid "author.submit.confirmationDescription"
-msgstr "To submit your manuscript to {$journalTitle} click Finish conference proceeding. The submission's principal contact will receive an acknowledgement by email and will be able to view the conference proceeding's progress through the editorial process by logging in to the journal web site. Thank you for your interest in publishing with {$conference seriesTitle}."
+msgstr "To submit your manuscript to {$journalTitle} click Finish Conference Proceedings Submission. The submission's principal contact will receive an acknowledgement by email and will be able to view the Conference Proceedings Submission's progress through the editorial process by logging in to the journal web site. Thank you for your interest in publishing with {$conference seriesTitle}."
 
 msgid "author.submit.noFiles"
-msgstr "No files have been attached to this conference proceeding."
+msgstr "No files have been attached to this conference Conference Proceedings Submission."
 
 msgid "author.submit.finishSubmission"
-msgstr "Finish conference proceeding"
+msgstr "Finish Conference Proceedings Submission"
 
 msgid "author.submit.submissionComplete"
-msgstr "conference proceeding complete. Thank you for your interest in publishing with {$conference seriesTitle}."
+msgstr "Conference Proceedings Submission complete. Thank you for your interest in publishing with {$conference seriesTitle}."
 
 msgid "author.submit.authorSubmitLoginMessage"
-msgstr "A user account is required to submit to this conference series. This allows our editors to track your Conference proceedings and contact you when the status of your conference proceeding changes, or if additional information is required from you."
+msgstr "A user account is required to submit to this Conference Proceedings Series. This allows our editors to track your Conference Proceedings Submission and contact you when the status of your Conference Proceedings Submission changes, or if additional information is required from you."
 
 msgid "section.default.title"
-msgstr "conference proceedings"
+msgstr "Conference Proceedings Submissions"
 
 msgid "default.genres.article"
-msgstr "conference proceeding Text"
+msgstr "Conference Proceedings Paper Text"
 
 msgid "default.contextSettings.checklist.notPreviouslyPublished"
-msgstr "The conference proceeding has not been previously published, nor is it before another conference series for consideration (or an explanation has been provided in Comments to the Editor)."
+msgstr "The Conference Proceedings Submission has not been previously published, nor is it before another Publication for consideration (or an explanation has been provided in Comments to the Editor)."
 
 msgid "default.contextSettings.checklist.fileFormat"
-msgstr "The conference proceeding file is in OpenOffice, Microsoft Word, or RTF document file format."
+msgstr "The Conference Proceedings Submission file is in OpenOffice, Microsoft Word, or RTF document file format."
 
 msgid "default.contextSettings.privacyStatement"
-msgstr "<p>The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this conference series and will not be made available for any other purpose or to any other party.</p>"
+msgstr "<p>The names and email addresses entered in this Conference Proceedings Series site will be used exclusively for the stated purposes of this Conference Proceedings Series and will not be made available for any other purpose or to any other party.</p>"
 
 msgid "default.contextSettings.openAccessPolicy"
-msgstr "This conference series provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge."
+msgstr "This Conference Proceedings Series provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge."
 
 msgid "default.contextSettings.forReaders"
-msgstr "We encourage readers to sign up for the publishing notification service for this journal. Use the <a href=\"{$indexUrl}/{$contextPath}/user/register\">Register</a> link at the top of the home page for the journal. This registration will result in the reader receiving the Table of Contents by email for each new conference of the journal. This list also allows the journal to claim a certain level of support or readership. See the conference series's <a href=\"{$indexUrl}/{$contextPath}/about/conference proceedings#privacyStatement\">Privacy Statement</a>, which assures readers that their name and email address will not be used for other purposes."
+msgstr "We encourage readers to sign up for the publishing notification service for this Conference Proceedings Series. Use the <a href=\"{$indexUrl}/{$contextPath}/user/register\">Register</a> link at the top of the home page for the Conference Proceedings Series. This registration will result in the reader receiving the Table of Contents by email for each new conference of the Conference Proceedings Series. This list also allows the Conference Proceedings Seriesto claim a certain level of support or readership. See the Conference Proceedings Series' <a href=\"{$indexUrl}/{$contextPath}/about/conference proceedings#privacyStatement\">Privacy Statement</a>, which assures readers that their name and email address will not be used for other purposes."
 
 msgid "default.contextSettings.forAuthors"
-msgstr "Interested in submitting to this journal? We recommend that you review the <a href=\"{$indexUrl}/{$contextPath}/about\">About the conference series</a> page for the journal's section policies, as well as the <a href=\"{$indexUrl}/{$contextPath}/about/conference proceedings#authorGuidelines\">Author Guidelines</a>. Authors need to <a href=\"{$indexUrl}/{$contextPath}/user/register\">register</a> with the conference series prior to submitting or, if already registered, can simply <a href=\"{$indexUrl}/index/login\">log in</a> and begin the five-step process."
+msgstr "Interested in submitting to this Conference Proceedings Series? We recommend that you review the <a href=\"{$indexUrl}/{$contextPath}/about\">About the Conference Proceedings Series</a> page for the Conference Proceedings Series' section policies, as well as the <a href=\"{$indexUrl}/{$contextPath}/about/conference proceedings#authorGuidelines\">Author Guidelines</a>. Authors need to <a href=\"{$indexUrl}/{$contextPath}/user/register\">register</a> with the Conference Proceedings Series prior to submitting or, if already registered, can simply <a href=\"{$indexUrl}/index/login\">log in</a> and begin the five-step process."
 
 msgid "default.contextSettings.forLibrarians"
-msgstr "We encourage research librarians to list this journal among their library's electronic journal holdings. As well, it may be worth noting that this journal's open source publishing system is suitable for libraries to host for their faculty members to use with conference seriess they are involved in editing (see <a href=\"http://pkp.sfu.ca/ojs\">Open conference series Systems</a>)."
+msgstr "We encourage research librarians to list this Conference Proceedings Series among their library's electronic publication holdings. As well, it may be worth noting that this Conference Proceedings Series' open source publishing system is suitable for libraries to host for their faculty members to use with Conference Proceedings Series they are involved in editing (see <a href=\"http://pkp.sfu.ca/ojs\">Open Journal Systems</a>)."
 
 msgid "default.contextSettings.lockssLicense"
-msgstr "This journal utilizes the LOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the conference series for purposes of preservation and restoration. <a href=\"http://www.lockss.org/\">More...</a>"
+msgstr "This Conference Proceedings Series utilizes the LOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the Conference Proceedings Series for purposes of preservation and restoration. <a href=\"http://www.lockss.org/\">More...</a>"
 
 msgid "default.contextSettings.clockssLicense"
-msgstr "This journal utilizes the CLOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the conference series for purposes of preservation and restoration. <a href=\"http://clockss.org/\">More...</a>"
+msgstr "This Conference Proceedings Series utilizes the CLOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the Conference Proceedings Series for purposes of preservation and restoration. <a href=\"http://clockss.org/\">More...</a>"
 
 msgid "default.groups.name.manager"
-msgstr "conference series manager"
+msgstr "Conference Proceedings Series manager"
 
 msgid "default.groups.plural.manager"
-msgstr "conference series managers"
+msgstr "Conference Proceedings Series managers"
 
 msgid "default.groups.name.editor"
-msgstr "conference series editor"
+msgstr "Conference Proceedings Series editor"
 
 msgid "default.groups.plural.editor"
-msgstr "conference series editors"
+msgstr "Conference Proceedings Series editors"
 
 msgid "editor.submissionsAndPublishing"
-msgstr "conference proceedings and Publishing"
+msgstr "cConference Proceedings Submissions and Publishing"
 
 msgid "editor.submissionQueue"
-msgstr "conference proceeding Queue"
+msgstr "Conference Proceedings Submissions Queue"
 
 msgid "editor.submissionArchive"
-msgstr "conference proceeding Archive"
+msgstr "Conference Proceedings Submissions Archive"
 
 msgid "editor.publishedIssues"
-msgstr "Published conferences"
+msgstr "Published Conference Proceedings Volumes"
 
 msgid "editor.submissionArchive.noSubmissions"
-msgstr "No conference proceedings in the archive."
+msgstr "No Conference Proceedings Submissions in the archive."
 
 msgid "editor.notifyUsers.includeToc"
-msgstr "Include the table of contents from this conference:"
+msgstr "Include the table of contents from this Conference Proceedings Volume:"
 
 msgid "editor.issues.createIssue"
-msgstr "Create conference"
+msgstr "Create Conference Proceedings Volume"
 
 msgid "editor.issues.editIssue"
-msgstr "conference Management: {$conferenceIdentification}"
+msgstr "Conference Proceedings Volume Management: {$conferenceIdentification}"
 
 msgid "editor.issues.currentIssue"
-msgstr "Current conference"
+msgstr "Current Conference Proceedings Volume"
 
 msgid "editor.issues.noArticles"
-msgstr "No items are currently scheduled for this conference."
+msgstr "No items are currently scheduled for this Conference Proceedings Volume."
 
 msgid "editor.issues.confirmDelete"
-msgstr "Are you sure you want to permanently delete this conference?"
+msgstr "Are you sure you want to permanently delete this Conference Proceedings Volume?"
 
 msgid "editor.issues.titleRequired"
-msgstr "Title is required for the conference."
+msgstr "Title is required for the Conference Proceedings Volume."
 
 msgid "editor.issues.issueIdentification"
-msgstr "conference identification"
+msgstr "Conference Proceedings Volume identification"
 
 msgid "editor.issues.publicIssueIdentifier"
-msgstr "Public conference identifier"
+msgstr "Public Conference Proceedings Volume identifier"
 
 msgid "editor.issues.showCoverPage"
-msgstr "Create a cover for this conference with the following elements."
+msgstr "Create a cover for this Conference Proceedings Volume with the following elements."
 
 msgid "editor.issues.issueData"
-msgstr "conference Data"
+msgstr "Conference Proceedings Volume Data"
 
 msgid "editor.issues.publishIssue"
-msgstr "Publish conference"
+msgstr "Publish Conference Proceedings Volume"
 
 msgid "editor.issues.unpublishIssue"
-msgstr "Unpublish conference"
+msgstr "Unpublish Conference Proceedings Volume"
 
 msgid "editor.issues.previewIssue"
-msgstr "Preview conference"
+msgstr "Preview Conference Proceedings Volume"
 
 msgid "editor.issues.confirmPublish"
-msgstr "Are you sure you want to publish the new conference?"
+msgstr "Are you sure you want to publish the new Conference Proceedings Volume?"
 
 msgid "editor.issues.confirmUnpublish"
-msgstr "Are you sure you want to unpublish this published conference?"
+msgstr "Are you sure you want to unpublish this published Conference Proceedings Volume?"
 
 msgid "editor.issues.confirmSetCurrentIssue"
-msgstr "Are you sure you want to set this conference as current?"
+msgstr "Are you sure you want to set this Conference Proceedings Volume as current?"
 
 msgid "editor.issues.publicArticleIdExists"
-msgstr "Unable to save public id for conference proceeding:"
+msgstr "Unable to save public id for Conference Proceedings Paper:"
 
 msgid "editor.issues.noLiveIssues"
-msgstr "No Live conferences"
+msgstr "No Live Conference Proceedings Volume"
 
 msgid "editor.issues.galleys"
-msgstr "conference Galleys"
+msgstr "Conference Proceedings Volume Galleys"
 
 msgid "editor.issues.galley"
-msgstr "conference Galley"
+msgstr "Conference Proceedings Volume Galley"
 
 msgid "editor.issues.viewingGalley"
-msgstr "Viewing conference Galley"
+msgstr "Viewing Conference Proceedings Volumes Galley"
 
 msgid "editor.issues.issueGalleysDescription"
-msgstr "Publish galleys with entire conference contents."
+msgstr "Publish galleys with entire Conference Proceedings Volumes contents."
 
 msgid "editor.issues.noneIssueGalleys"
-msgstr "No conference galleys have been published."
+msgstr "No Conference Proceedings Volumes galleys have been published."
 
 msgid "editor.issues.galleyLabelRequired"
-msgstr "An conference galley label is required."
+msgstr "An Conference Proceedings Volumes galley label is required."
 
 msgid "editor.issues.galleyLocaleRequired"
-msgstr "An conference galley locale is required."
+msgstr "An Conference Proceedings Volumes galley locale is required."
 
 msgid "editor.issues.galleyPublicIdentificationExists"
-msgstr "Public conference galley identification already exists."
+msgstr "Public Conference Proceedings Volumes galley identification already exists."
 
 msgid "editor.issues.backToIssueGalleys"
-msgstr "Back to conference galleys"
+msgstr "Back to Conference Proceedings Volumes galleys"
 
 msgid "editor.issues.confirmDeleteGalley"
-msgstr "Are you sure you want to delete this conference galley?"
+msgstr "Are you sure you want to delete this Conference Proceedings Volumes galley?"
 
 msgid "editor.navigation.futureIssues"
-msgstr "Future conferences"
+msgstr "Future Conference Proceedings Volumes"
 
 msgid "grid.action.publish"
-msgstr "Publish conference"
+msgstr "Publish Conference Proceedings Volumes"
 
 msgid "grid.action.addIssue"
-msgstr "Create conference"
+msgstr "Create Conference Proceedings Volumes"
 
 msgid "grid.action.addIssueGalley"
-msgstr "Create conference Galley"
+msgstr "Create Conference Proceedings Volumes Galley"
 
 msgid "grid.action.setCurrentIssue"
-msgstr "Set Current conference"
+msgstr "Set Current Conference Proceedings Volumes"
 
 msgid "editor.navigation.issueArchive"
-msgstr "Back conferences"
+msgstr "Back Conference Proceedings Volumes"
 
 msgid "editor.submissions.noSubmissions"
-msgstr "No conference proceedings"
+msgstr "No Conference Proceedings Submissions"
 
 msgid "issues.submissions.issueIds"
-msgstr "Assigned to conference"
+msgstr "Assigned to msgid "admin.hostedContexts"
+msgstr "Hosted Conference Proceedings Series"
+
+msgid "admin.settings.redirect"
+msgstr "Conference Proceedings Series redirect"
+
+msgid "admin.journals.journalSettings"
+msgstr "Conference Proceedings Series Settings"
+
+msgid "admin.journals.noneCreated"
+msgstr "No Conference Proceedings Series have been created."
+
+msgid "admin.contexts.create"
+msgstr "Create Conference Proceedings Series"
+
+msgid "admin.contexts.form.pathExists"
+msgstr "The path you provided is already in use by another Conference Proceedings Series."
+
+msgid "admin.contexts.form.primaryLocaleNotSupported"
+msgstr "The primary locale must be one of the Conference Proceedings Series' supported locales."
+
+msgid "admin.journals.enableJournalInstructions"
+msgstr "Enable this Conference Proceedings Series to appear publicly on the site"
+
+msgid "admin.contexts.contextDescription"
+msgstr "Conference Proceedings Series description"
+
+msgid "admin.journal.pathImportInstructions"
+msgstr "Existing Conference Proceedings Seriess path or path to create (e.g., \"ojs\")."
+
+msgid "admin.journals.transcode"
+msgstr "Transcode conference proceeding metadata from ISO8859-1"
+
+msgid "api.announcements.400.contextsNotMatched"
+msgstr "The announcement you requested is not part of this Conference Proceedings Series."
+
+msgid "api.emails.403.disabled"
+msgstr "The email notification feature has not been enabled for this Conference Proceedings Series."
+
+msgid "api.submissions.403.cantChangeContext"
+msgstr "You can not change the Conference Proceedings Series of a Conference Proceedings Submission."
+
+msgid "api.submissions.403.unpublishedIssues"
+msgstr "You do not have permission to view unpublished Conference Proceedings Volumes."
+
+msgid "api.contexts.403.requestedDisabledContexts"
+msgstr "You can only view Conference Proceedings Series that have been enabled."
+
+msgid "api.contexts.403.notAllowed"
+msgstr "You do not have permission to view this Conference Proceedings Series."
+
+msgid "api.contexts.403.requiresContext"
+msgstr "You can not edit this Conference Proceedings Series from the site-wide API."
+
+msgid "api.contexts.403.notAllowedEdit"
+msgstr "You do not have permission to edit this Conference Proceedings Series."
+
+msgid "api.contexts.403.notAllowedDelete"
+msgstr "You do not have permission to delete this Conference Proceedings Series."
+
+msgid "api.contexts.404.contextNotFound"
+msgstr "The Conference Proceedings Series you requested was not found."
+
+msgid "api.publications.403.contextsDidNotMatch"
+msgstr "The publication that you requested is not part of this Conference Proceedings Series."
+
+msgid "api.publications.403.submissionsDidNotMatch"
+msgstr "The publication that you requested is not part of this conference proceeding."
+
+msgid "author.submit"
+msgstr "New Conference Proceedings Submission"
+
+msgid "author.track"
+msgstr "Active conference Conference Proceedings Submissions"
+
+msgid "author.submit.submitArticle"
+msgstr "Submit a Conference Proceedings Paper"
+
+msgid "author.submit.startHereTitle"
+msgstr "Start a New Conference Proceedings Submission"
+
+msgid "author.submit.startHereLink"
+msgstr "<a href=\"{$submitUrl}\" class=\"action\">Click here</a> to go to step one of the five-step Conference Proceedings Submission process."
+
+msgid "author.submit.step1"
+msgstr "Step 1. Starting the Conference Proceedings Submission"
+
+msgid "author.submit.step2"
+msgstr "Step 2. Uploading the Conference Proceedings Paper"
+
+msgid "author.submit.step3"
+msgstr "Step 3. Entering the Conference Proceedings Submission's Metadata"
+
+msgid "author.submit.step5"
+msgstr "Step 5. Confirming the Conference Proceedings Submission"
+
+msgid "author.submit.upload"
+msgstr "Upload Conference Proceedings Paper"
+
+msgid "submission.submit.cancelSubmission"
+msgstr "You can complete this Conference Proceedings Submission at a later date by selecting Active Conference Proceedings Submission from the Author home."
+
+msgid "author.submit.notAccepting"
+msgstr "This Conference Proceedings Series is not accepting Conference Proceedings Submission at this time."
+
+msgid "author.submit.qualifyForWaiver"
+msgstr "Please consider waiving the Conference Proceedings Paper Fee for this Conference Proceedings Submission"
+
+msgid "author.submissions.confirmDelete"
+msgstr "Are you sure you want to delete this incomplete Conference Proceedings Submission?"
+
+msgid "author.submissions.noSubmissions"
+msgstr "No Conference Proceedings Submissions."
+
+msgid "author.submit.journalSection"
+msgstr "Conference Proceedings Series Section"
+
+msgid "author.submit.journalSectionDescription"
+msgstr "Conference Proceedings Papers must be submitted to one of the Conference Proceedings Series' sections."
+
+msgid "author.submit.verifyChecklist"
+msgstr "You must make sure all items in the Conference Proceedings Submission checklist are satisfied before continuing."
+
+msgid "author.submit.copyrightNoticeAgree"
+msgstr "The authors agree to the terms of this Copyright Notice, which will apply to this Conference Proceedings Paper if and when it is published by this Conference Proceedings Series (comments to the editor can be added below)."
+
+msgid "author.submit.form.sectionRequired"
+msgstr "Please select an appropriate Conference Proceedings Series section for this No Conference Proceedings Submission."
+
+msgid "author.submit.form.localeRequired"
+msgstr "Please select a No Conference Proceedings Submission language."
+
+msgid "submission.submit.privacyStatement"
+msgstr "Conference Proceedings Series' Privacy Statement"
+
+msgid "author.submit.submissionIndexingDescription"
+msgstr "Provide terms for indexing the Conference Proceedings Submission; separate terms with a semi-colon (term1; term2; term3)."
+
+msgid "author.submit.form.titleRequired"
+msgstr "Please enter the title of your Conference Proceedings Submission."
+
+msgid "author.submit.form.abstractRequired"
+msgstr "Please enter the abstract of your Conference Proceedings Submission."
+
+msgid "author.submit.submissionFile"
+msgstr "Conference Proceedings Submission File"
+
+msgid "author.submit.uploadSubmissionFile"
+msgstr "Upload Conference Proceedings Submission file"
+
+msgid "author.submit.replaceSubmissionFile"
+msgstr "Replace Conference Proceedings Submission file"
+
+msgid "author.submit.noSubmissionFile"
+msgstr "No Conference Proceedings Submission file uploaded."
+
+msgid "author.submit.noSubmissionConfirm"
+msgstr "Are you sure you wish to continue without uploading a Conference Proceedings Submission file?"
+
+msgid "author.submit.supplementaryFilesInstructions"
+msgstr "This optional step allows Supplementary Files to be added to a Conference Proceedings Submission. The files, which can be in any format, might include (a) research instruments, (b) data sets, which comply with the terms of the study's research ethics review, (c) sources that otherwise would be unavailable to readers, (d) figures and tables that cannot be integrated into the text itself, or other materials that add to the contribution of the work."
+
+msgid "author.submit.noSupplementaryFiles"
+msgstr "No supplementary files have been added to this Conference Proceedings Submission."
+
+msgid "author.submit.confirmationDescription"
+msgstr "To submit your manuscript to {$journalTitle} click Finish Conference Proceedings Submission. The submission's principal contact will receive an acknowledgement by email and will be able to view the Conference Proceedings Submission's progress through the editorial process by logging in to the journal web site. Thank you for your interest in publishing with {$conference seriesTitle}."
+
+msgid "author.submit.noFiles"
+msgstr "No files have been attached to this conference Conference Proceedings Submission."
+
+msgid "author.submit.finishSubmission"
+msgstr "Finish Conference Proceedings Submission"
+
+msgid "author.submit.submissionComplete"
+msgstr "Conference Proceedings Submission complete. Thank you for your interest in publishing with {$conference seriesTitle}."
+
+msgid "author.submit.authorSubmitLoginMessage"
+msgstr "A user account is required to submit to this Conference Proceedings Series. This allows our editors to track your Conference Proceedings Submission and contact you when the status of your Conference Proceedings Submission changes, or if additional information is required from you."
+
+msgid "section.default.title"
+msgstr "Conference Proceedings Submissions"
+
+msgid "default.genres.article"
+msgstr "Conference Proceedings Paper Text"
+
+msgid "default.contextSettings.checklist.notPreviouslyPublished"
+msgstr "The Conference Proceedings Submission has not been previously published, nor is it before another Publication for consideration (or an explanation has been provided in Comments to the Editor)."
+
+msgid "default.contextSettings.checklist.fileFormat"
+msgstr "The Conference Proceedings Submission file is in OpenOffice, Microsoft Word, or RTF document file format."
+
+msgid "default.contextSettings.privacyStatement"
+msgstr "<p>The names and email addresses entered in this Conference Proceedings Series site will be used exclusively for the stated purposes of this Conference Proceedings Series and will not be made available for any other purpose or to any other party.</p>"
+
+msgid "default.contextSettings.openAccessPolicy"
+msgstr "This Conference Proceedings Series provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge."
+
+msgid "default.contextSettings.forReaders"
+msgstr "We encourage readers to sign up for the publishing notification service for this Conference Proceedings Series. Use the <a href=\"{$indexUrl}/{$contextPath}/user/register\">Register</a> link at the top of the home page for the Conference Proceedings Series. This registration will result in the reader receiving the Table of Contents by email for each new conference of the Conference Proceedings Series. This list also allows the Conference Proceedings Seriesto claim a certain level of support or readership. See the Conference Proceedings Series' <a href=\"{$indexUrl}/{$contextPath}/about/conference proceedings#privacyStatement\">Privacy Statement</a>, which assures readers that their name and email address will not be used for other purposes."
+
+msgid "default.contextSettings.forAuthors"
+msgstr "Interested in submitting to this Conference Proceedings Series? We recommend that you review the <a href=\"{$indexUrl}/{$contextPath}/about\">About the Conference Proceedings Series</a> page for the Conference Proceedings Series' section policies, as well as the <a href=\"{$indexUrl}/{$contextPath}/about/conference proceedings#authorGuidelines\">Author Guidelines</a>. Authors need to <a href=\"{$indexUrl}/{$contextPath}/user/register\">register</a> with the Conference Proceedings Series prior to submitting or, if already registered, can simply <a href=\"{$indexUrl}/index/login\">log in</a> and begin the five-step process."
+
+msgid "default.contextSettings.forLibrarians"
+msgstr "We encourage research librarians to list this Conference Proceedings Series among their library's electronic publication holdings. As well, it may be worth noting that this Conference Proceedings Series' open source publishing system is suitable for libraries to host for their faculty members to use with Conference Proceedings Series they are involved in editing (see <a href=\"http://pkp.sfu.ca/ojs\">Open Journal Systems</a>)."
+
+msgid "default.contextSettings.lockssLicense"
+msgstr "This Conference Proceedings Series utilizes the LOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the Conference Proceedings Series for purposes of preservation and restoration. <a href=\"http://www.lockss.org/\">More...</a>"
+
+msgid "default.contextSettings.clockssLicense"
+msgstr "This Conference Proceedings Series utilizes the CLOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the Conference Proceedings Series for purposes of preservation and restoration. <a href=\"http://clockss.org/\">More...</a>"
+
+msgid "default.groups.name.manager"
+msgstr "Conference Proceedings Series manager"
+
+msgid "default.groups.plural.manager"
+msgstr "Conference Proceedings Series managers"
+
+msgid "default.groups.name.editor"
+msgstr "Conference Proceedings Series editor"
+
+msgid "default.groups.plural.editor"
+msgstr "Conference Proceedings Series editors"
+
+msgid "editor.submissionsAndPublishing"
+msgstr "cConference Proceedings Submissions and Publishing"
+
+msgid "editor.submissionQueue"
+msgstr "Conference Proceedings Submissions Queue"
+
+msgid "editor.submissionArchive"
+msgstr "Conference Proceedings Submissions Archive"
+
+msgid "editor.publishedIssues"
+msgstr "Published Conference Proceedings Volumes"
+
+msgid "editor.submissionArchive.noSubmissions"
+msgstr "No Conference Proceedings Submissions in the archive."
+
+msgid "editor.notifyUsers.includeToc"
+msgstr "Include the table of contents from this Conference Proceedings Volume:"
+
+msgid "editor.issues.createIssue"
+msgstr "Create Conference Proceedings Volume"
+
+msgid "editor.issues.editIssue"
+msgstr "Conference Proceedings Volume Management: {$conferenceIdentification}"
+
+msgid "editor.issues.currentIssue"
+msgstr "Current Conference Proceedings Volume"
+
+msgid "editor.issues.noArticles"
+msgstr "No items are currently scheduled for this Conference Proceedings Volume."
+
+msgid "editor.issues.confirmDelete"
+msgstr "Are you sure you want to permanently delete this Conference Proceedings Volume?"
+
+msgid "editor.issues.titleRequired"
+msgstr "Title is required for the Conference Proceedings Volume."
+
+msgid "editor.issues.issueIdentification"
+msgstr "Conference Proceedings Volume identification"
+
+msgid "editor.issues.publicIssueIdentifier"
+msgstr "Public Conference Proceedings Volume identifier"
+
+msgid "editor.issues.showCoverPage"
+msgstr "Create a cover for this Conference Proceedings Volume with the following elements."
+
+msgid "editor.issues.issueData"
+msgstr "Conference Proceedings Volume Data"
+
+msgid "editor.issues.publishIssue"
+msgstr "Publish Conference Proceedings Volume"
+
+msgid "editor.issues.unpublishIssue"
+msgstr "Unpublish Conference Proceedings Volume"
+
+msgid "editor.issues.previewIssue"
+msgstr "Preview Conference Proceedings Volume"
+
+msgid "editor.issues.confirmPublish"
+msgstr "Are you sure you want to publish the new Conference Proceedings Volume?"
+
+msgid "editor.issues.confirmUnpublish"
+msgstr "Are you sure you want to unpublish this published Conference Proceedings Volume?"
+
+msgid "editor.issues.confirmSetCurrentIssue"
+msgstr "Are you sure you want to set this Conference Proceedings Volume as current?"
+
+msgid "editor.issues.publicArticleIdExists"
+msgstr "Unable to save public id for Conference Proceedings Paper:"
+
+msgid "editor.issues.noLiveIssues"
+msgstr "No Live Conference Proceedings Volume"
+
+msgid "editor.issues.galleys"
+msgstr "Conference Proceedings Volume Galleys"
+
+msgid "editor.issues.galley"
+msgstr "Conference Proceedings Volume Galley"
+
+msgid "editor.issues.viewingGalley"
+msgstr "Viewing Conference Proceedings Volumes Galley"
+
+msgid "editor.issues.issueGalleysDescription"
+msgstr "Publish galleys with entire Conference Proceedings Volumes contents."
+
+msgid "editor.issues.noneIssueGalleys"
+msgstr "No Conference Proceedings Volumes galleys have been published."
+
+msgid "editor.issues.galleyLabelRequired"
+msgstr "An Conference Proceedings Volumes galley label is required."
+
+msgid "editor.issues.galleyLocaleRequired"
+msgstr "An Conference Proceedings Volumes galley locale is required."
+
+msgid "editor.issues.galleyPublicIdentificationExists"
+msgstr "Public Conference Proceedings Volumes galley identification already exists."
+
+msgid "editor.issues.backToIssueGalleys"
+msgstr "Back to Conference Proceedings Volumes galleys"
+
+msgid "editor.issues.confirmDeleteGalley"
+msgstr "Are you sure you want to delete this Conference Proceedings Volumes galley?"
+
+msgid "editor.navigation.futureIssues"
+msgstr "Future Conference Proceedings Volumes"
+
+msgid "grid.action.publish"
+msgstr "Publish Conference Proceedings Volumes"
+
+msgid "grid.action.addIssue"
+msgstr "Create Conference Proceedings Volumes"
+
+msgid "grid.action.addIssueGalley"
+msgstr "Create Conference Proceedings Volumes Galley"
+
+msgid "grid.action.setCurrentIssue"
+msgstr "Set Current Conference Proceedings Volumes"
+
+msgid "editor.navigation.issueArchive"
+msgstr "Back Conference Proceedings Volumes"
+
+msgid "editor.submissions.noSubmissions"
+msgstr "No Conference Proceedings Submissions"
 
 msgid "grid.action.removeArticle"
-msgstr "Remove conference proceeding From conference"
+msgstr "Remove Conference Proceedings Paper from conference"
 
 msgid "editor.issues.editIssueGalley"
-msgstr "Edit conference Galley"
+msgstr "Edit Conference Proceedings Volume Galley"
 
 msgid "emails.userRegister.subject"
-msgstr "conference series Registration"
+msgstr "Conference Proceedings Series Registration"
 
 msgid "emails.publishNotify.subject"
-msgstr "New conference Published"
+msgstr "New Conference Proceedings Volume Published"
 
 msgid "emails.publishNotify.description"
-msgstr "This email is sent to registered readers via the \"Notify Users\" link in the Editor's User Home. It notifies readers of a new conference and invites them to visit the conference series at a supplied URL."
+msgstr "This email is sent to registered readers via the \"Notify Users\" link in the Editor's User Home. It notifies readers of a new Conference Proceedings Volume and invites them to visit the Conference Proceedings Series at a supplied URL."
 
 msgid "emails.lockssExistingArchive.description"
-msgstr "This email requests the keeper of a LOCKSS archive to consider including this journal in their archive. It provides the URL to the conference series's LOCKSS Publisher Manifest."
+msgstr "This email requests the keeper of a LOCKSS archive to consider including this Conference Proceedings Series in their archive. It provides the URL to the Conference Proceedings Series' LOCKSS Publisher Manifest."
 
 msgid "emails.lockssNewArchive.description"
-msgstr "This email encourages the recipient to participate in the LOCKSS initiative and include this conference series in the archive. It provides information about the LOCKSS initiative and ways to become involved."
+msgstr "This email encourages the recipient to participate in the LOCKSS initiative and include this Conference Proceedings Series in the archive. It provides information about the LOCKSS initiative and ways to become involved."
 
 msgid "emails.submissionAck.subject"
-msgstr "conference proceeding Acknowledgement"
+msgstr "Conference Proceedings Series Acknowledgement"
 
 msgid "emails.submissionAck.description"
-msgstr "This email, when enabled, is automatically sent to an author when they complete the process of submitting a manuscript to the conference series. It provides information about tracking the submission through the process and thanks the author for the conference proceeding."
+msgstr "This email, when enabled, is automatically sent to an author when they complete the process of submitting a manuscript to the Conference Proceedings Series. It provides information about tracking the submission through the process and thanks the author for the Conference Proceedings Submission."
 
 msgid "emails.submissionAckNotUser.subject"
-msgstr "conference proceeding Acknowledgement"
+msgstr "Conference Proceedings Submission Acknowledgement"
 
 msgid "emails.submissionAckNotUser.description"
-msgstr "This email, when enabled, is automatically sent to the other authors who are not users within OJS specified during the conference proceeding process."
+msgstr "This email, when enabled, is automatically sent to the other authors who are not users within OJS specified during the Conference Proceedings Submission process."
 
 msgid "emails.editorAssign.description"
-msgstr "This email notifies a Section Editor that the Editor has assigned them the task of overseeing a submission through the editing process. It provides information about the conference proceeding and how to access the conference series site."
+msgstr "This email notifies a Section Editor that the Editor has assigned them the task of overseeing a submission through the editing process. It provides information about the Conference Proceedings Submission and how to access the Conference Proceedings Series site."
 
 msgid "emails.reviewRequest.subject"
-msgstr "conference proceeding Review Request"
+msgstr "Conference Proceedings Submission Review Request"
 
 msgid "emails.reviewRequest.description"
-msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission. It provides information about the submission such as the title and abstract, a review due date, and how to access the conference proceeding itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_ATTACHED.)"
+msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission. It provides information about the submission such as the title and abstract, a review due date, and how to access the Conference Proceedings Submission itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_ATTACHED.)"
 
 msgid "emails.reviewRequestRemindAuto.subject"
-msgstr "conference proceeding Review Request Reminder"
+msgstr "Conference Proceedings Submissions Review Request Reminder"
 
 msgid "emails.reviewRequestOneclick.subject"
-msgstr "conference proceeding Review Request"
+msgstr "Conference Proceedings Submissions Review Request"
 
 msgid "emails.reviewRequestOneclick.description"
-msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission. It provides information about the submission such as the title and abstract, a review due date, and how to access the conference proceeding itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review, and one-click reviewer access is enabled."
+msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission. It provides information about the submission such as the title and abstract, a review due date, and how to access the Conference Proceedings Submission itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review, and one-click reviewer access is enabled."
 
 msgid "emails.reviewRequestRemindAutoOneclick.subject"
-msgstr "conference proceeding Review Request"
+msgstr "Conference Proceedings Submissions Review Request"
 
 msgid "emails.reviewRequestAttached.subject"
-msgstr "conference proceeding Review Request"
+msgstr "Conference Proceedings Submissions Review Request"
 
 msgid "emails.reviewRequestAttached.description"
-msgstr "This email is sent by the Section Editor to a Reviewer to request that they accept or decline the task of reviewing a submission. It includes the conference proceeding as an attachment. This message is used when the Email-Attachment Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST.)"
+msgstr "This email is sent by the Section Editor to a Reviewer to request that they accept or decline the task of reviewing a submission. It includes the Conference Proceedings Submission as an attachment. This message is used when the Email-Attachment Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST.)"
 
 msgid "emails.reviewRequestSubsequent.subject"
-msgstr "conference proceeding Review Request"
+msgstr "Conference Proceedings Submissions Review Request"
 
 msgid "emails.reviewRequestSubsequent.description"
-msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission for a second or greater round of review. It provides information about the submission such as the title and abstract, a review due date, and how to access the conference proceeding itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_ATTACHED_SUBSEQUENT.)"
+msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission for a second or greater round of review. It provides information about the submission such as the title and abstract, a review due date, and how to access the Conference Proceedings Submission itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_ATTACHED_SUBSEQUENT.)"
 
 msgid "emails.reviewRequestOneclickSubsequent.subject"
-msgstr "conference proceeding Review Request"
+msgstr "Conference Proceedings Submission Review Request"
 
 msgid "emails.reviewRequestOneclickSubsequent.description"
-msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission for a second or greater round of review. It provides information about the submission such as the title and abstract, a review due date, and how to access the conference proceeding itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review, and one-click reviewer access is enabled."
+msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission for a second or greater round of review. It provides information about the submission such as the title and abstract, a review due date, and how to access the Conference Proceedings Submission itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review, and one-click reviewer access is enabled."
 
 msgid "emails.reviewRequestAttachedSubsequent.subject"
-msgstr "conference proceeding Review Request"
+msgstr "Conference Proceedings Submission Review Request"
 
 msgid "emails.reviewRequestAttachedSubsequent.description"
-msgstr "This email is sent by the Section Editor to a Reviewer to request that they accept or decline the task of reviewing a submission for a second or greater round of review. It includes the conference proceeding as an attachment. This message is used when the Email-Attachment Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_SUBSEQUENT.)"
+msgstr "This email is sent by the Section Editor to a Reviewer to request that they accept or decline the task of reviewing a submission for a second or greater round of review. It includes the Conference Proceedings Submission as an attachment. This message is used when the Email-Attachment Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_SUBSEQUENT.)"
 
 msgid "emails.reviewCancel.description"
-msgstr "This email is sent by the Section Editor to a Reviewer who has a conference proceeding review in progress to notify them that the review has been cancelled."
+msgstr "This email is sent by the Section Editor to a Reviewer who has a Conference Proceedings Submission review in progress to notify them that the review has been cancelled."
 
 msgid "emails.reviewReinstate.description"
-msgstr "This email is sent by the Section Editor to a Reviewer who has a conference proceeding review in progress to notify them that a cancelled review has been reinstated."
+msgstr "This email is sent by the Section Editor to a Reviewer who has a Conference Proceedings Submission review in progress to notify them that a cancelled review has been reinstated."
 
 msgid "emails.reviewAck.subject"
-msgstr "conference proceeding Review Acknowledgement"
+msgstr "Conference Proceedings Submission Review Acknowledgement"
 
 msgid "emails.reviewRemind.subject"
-msgstr "conference proceeding Review Reminder"
+msgstr "Conference Proceedings Submission Review Reminder"
 
 msgid "emails.reviewRemindOneclick.subject"
-msgstr "conference proceeding Review Reminder"
+msgstr "Conference Proceedings Submission Review Reminder"
 
 msgid "emails.reviewRemindAuto.subject"
-msgstr "Automated conference proceeding Review Reminder"
+msgstr "Automated Conference Proceedings Submission Review Reminder"
 
 msgid "emails.reviewRemindAutoOneclick.subject"
-msgstr "Automated conference proceeding Review Reminder"
+msgstr "Automated Conference Proceedings Submission Review Reminder"
 
 msgid "emails.editorDecisionAccept.description"
-msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"accept submission\" decision regarding their conference proceeding."
+msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"accept submission\" decision regarding their Conference Proceedings Submission."
 
 msgid "emails.editorDecisionSendToExternal.description"
-msgstr "This email from the Editor or Section Editor to an Author notifies them that their conference proceeding is being sent to an external review."
+msgstr "This email from the Editor or Section Editor to an Author notifies them that their Conference Proceedings Submission is being sent to an external review."
 
 msgid "emails.editorDecisionSendToProduction.description"
-msgstr "This email from the Editor or Section Editor to an Author notifies them that their conference proceeding is being sent to production."
+msgstr "This email from the Editor or Section Editor to an Author notifies them that their Conference Proceedings Submission is being sent to production."
 
 msgid "emails.editorDecisionRevisions.description"
-msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"revisions required\" decision regarding their conference proceeding."
+msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"revisions required\" decision regarding their Conference Proceedings Submission."
 
 msgid "emails.editorDecisionResubmit.description"
-msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"resubmit\" decision regarding their conference proceeding."
+msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"resubmit\" decision regarding their Conference Proceedings Submission."
 
 msgid "emails.editorDecisionDecline.description"
-msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"decline\" decision regarding their conference proceeding."
+msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"decline\" decision regarding their Conference Proceedings Submissions."
 
 msgid "emails.editorRecommendation.description"
-msgstr "This email from the recommending Editor or Section Editor to the decision making Editors or Section Editors notifies them of a final recommendation regarding the conference proceeding."
+msgstr "This email from the recommending Editor or Section Editor to the decision making Editors or Section Editors notifies them of a final recommendation regarding the Conference Proceedings Submission."
 
 msgid "emails.copyeditRequest.description"
-msgstr "This email is sent by a Section Editor to a submission's Copyeditor to request that they begin the copyediting process. It provides information about the conference proceeding and how to access it."
+msgstr "This email is sent by a Section Editor to a submission's Copyeditor to request that they begin the copyediting process. It provides information about the Conference Proceedings Submission and how to access it."
 
 msgid "emails.layoutRequest.description"
-msgstr "This email from the Section Editor to the Layout Editor notifies them that they have been assigned the task of performing layout editing on a submission. It provides information about the conference proceeding and how to access it."
+msgstr "This email from the Section Editor to the Layout Editor notifies them that they have been assigned the task of performing layout editing on a submission. It provides information about the Conference Proceedings Submissions and how to access it."
 
 msgid "emails.emailLink.subject"
-msgstr "conference proceeding of Possible Interest"
+msgstr "Conference Proceedings Paper of Possible Interest"
 
 msgid "emails.emailLink.body"
 msgstr "Thought you might be interested in seeing &quot;{$conference proceedingTitle}&quot; by {$authorName} published in Vol {$volume}, No {$number} ({$year}) of {$contextName} at &quot;{$conference proceedingUrl}&quot;."
 
 msgid "emails.emailLink.description"
-msgstr "This email template provides a registered reader with the opportunity to send information about an conference proceeding to somebody who may be interested. It is available via the Reading Tools and must be enabled by the conference series Manager in the Reading Tools Administration page."
+msgstr "This email template provides a registered reader with the opportunity to send information about a Conference Proceedings Paper to somebody who may be interested. It is available via the Reading Tools and must be enabled by the conference series Manager in the Reading Tools Administration page."
 
 msgid "emails.subscriptionNotify.description"
-msgstr "This email notifies a registered reader that the Manager has created a subscription for them. It provides the conference series's URL along with instructions for access."
+msgstr "This email notifies a registered reader that the Manager has created a subscription for them. It provides the Conference Proceedings Series' URL along with instructions for access."
 
 msgid "emails.openAccessNotify.subject"
-msgstr "conference Now Open Access"
+msgstr "Conference Proceedings Volume Now Open Access"
 
 msgid "emails.openAccessNotify.description"
-msgstr "This email is sent to registered readers who have requested to receive a notification email when an conference becomes open access."
+msgstr "This email is sent to registered readers who have requested to receive a notification email when an Conference Proceedings Volume becomes open access."
 
 msgid "emails.subscriptionBeforeExpiry.description"
-msgstr "This email notifies a subscriber that their subscription will soon expire. It provides the conference series's URL along with instructions for access."
+msgstr "This email notifies a subscriber that their subscription will soon expire. It provides the Conference Proceedings Series' URL along with instructions for access."
 
 msgid "emails.subscriptionAfterExpiry.description"
-msgstr "This email notifies a subscriber that their subscription has expired. It provides the conference series's URL along with instructions for access."
+msgstr "This email notifies a subscriber that their subscription has expired. It provides the Conference Proceedings Series' URL along with instructions for access."
 
 msgid "emails.subscriptionAfterExpiryLast.description"
-msgstr "This email notifies a subscriber that their subscription has expired. It provides the conference series's URL along with instructions for access."
+msgstr "This email notifies a subscriber that their subscription has expired. It provides the Conference Proceedings Series' URL along with instructions for access."
 
 msgid "emails.revisedVersionNotify.description"
-msgstr "This email is automatically sent to the assigned editor when author uploads a revised version of an conference proceeding."
+msgstr "This email is automatically sent to the assigned editor when author uploads a revised version of an Conference Proceedings Submission."
 
 msgid "emails.editorDecisionInitialDecline.description"
-msgstr "This email is sent to the author if the editor declines their conference proceeding initially, before the review stage"
+msgstr "This email is sent to the author if the editor declines their Conference Proceedings Submission initially, before the review stage"
 
 msgid "emails.statisticsReportNotification.description"
-msgstr "This email is automatically sent monthly to editors and conference series managers to provide them a system health overview."
+msgstr "This email is automatically sent monthly to editors and Conference Proceedings Series managers to provide them a system health overview."
 
 msgid "user.authorization.journalDoesNotPublish"
-msgstr "This conference series does not publish its content online."
+msgstr "This Conference Proceedings Series does not publish its content online."
 
 msgid "context.current"
-msgstr "Current conference series:"
+msgstr "Current Conference Proceedings Series:"
 
 msgid "context.select"
-msgstr "Switch to another conference series:"
+msgstr "Switch to another Conference Proceedings Series:"
 
 msgid "common.software"
-msgstr "Open conference series Systems"
+msgstr "Open Journal Systems"
 
 msgid "common.journalHomepageImage.altText"
-msgstr "conference series Homepage Image"
+msgstr "Conference Proceedings Series Homepage Image"
 
 msgid "navigation.journalHelp"
-msgstr "conference series Help"
+msgstr "Conference Proceedings Series Help"
 
 msgid "navigation.otherJournals"
-msgstr "Other conference seriess"
+msgstr "Other Conference Proceedings Series"
 
 msgid "navigation.browseByIssue"
-msgstr "By conference"
+msgstr "By Conference Proceedings Volume"
 
 msgid "navigation.skip.about"
-msgstr "Skip to about the conference series"
+msgstr "Skip to about the Conference Proceedings Series"
 
 msgid "navigation.skip.issue"
-msgstr "Skip to the current conference"
+msgstr "Skip to the current Conference Proceedings Volume"
 
 msgid "common.queue.long.submissionsInEditing"
-msgstr "conference proceedings in Editing"
+msgstr "Conference Proceedings Submissions in Editing"
 
 msgid "common.queue.long.submissionsInReview"
-msgstr "conference proceedings in Review"
+msgstr "Conference Proceedings Submissions in Review"
 
 msgid "section.abbreviation.example"
-msgstr "(For example, conference proceedings=ART)"
+msgstr "(For example, Conference Proceedings Paper=CPP)"
 
 msgid "article.article"
-msgstr "conference proceeding"
+msgstr "Conference Proceedings Paper"
 
 msgid "article.articles"
-msgstr "conference proceedings"
+msgstr "Conference Proceedings Papers"
 
 msgid "common.publication"
-msgstr "conference proceeding"
+msgstr "Conference Proceedings Paper"
 
 msgid "common.publications"
-msgstr "conference proceedings"
+msgstr "Conference Proceedings Papers"
 
 msgid "article.submissionId"
-msgstr "conference proceeding ID"
+msgstr "Conference Proceedings Paper ID"
 
 msgid "article.journalSection"
-msgstr "conference series Section"
+msgstr "Conference Proceedings Series Section"
 
 msgid "article.submission"
-msgstr "conference proceeding"
+msgstr "Conference Proceedings Paper"
 
 msgid "article.submissions"
-msgstr "conference proceedings"
+msgstr "Conference Proceedings Papers"
 
 msgid "article.return"
-msgstr "Return to conference proceeding Details"
+msgstr "Return to Conference Proceedings Paper Details"
 
 msgid "submission.submissionEditing"
-msgstr "conference proceeding Editing"
+msgstr "Conference Proceedings Submissions Editing"
 
 msgid "submission.scheduledIn"
 msgstr "Scheduled for publication in {$conferenceName}."
 
 msgid "submission.search"
-msgstr "conference proceeding Search"
+msgstr "Conference Proceedings Submission Search"
 
 msgid "journal.currentIssue"
-msgstr "Current conference"
+msgstr "Conference Proceedings Volume"
 
 msgid "context.contexts"
-msgstr "conference seriess"
+msgstr "Conference Proceedings Series"
 
 msgid "context.context"
-msgstr "conference series"
+msgstr "Conference Proceedings Series"
 
 msgid "journal.viewAllIssues"
-msgstr "View All conferences"
+msgstr "View All Conference Proceedings Volumes"
 
 msgid "user.noRoles.selectUsersWithoutRoles"
-msgstr "Include users with no roles in this conference series."
+msgstr "Include users with no roles in this Conference Proceedings Series."
 
 msgid "user.showAllJournals"
-msgstr "Show My conference seriess"
+msgstr "Show My Conference Proceedings Series"
 
 msgid "user.registerForOtherJournals"
-msgstr "Register for Other conference seriess"
+msgstr "Register for Other Conference Proceedings Series"
 
 msgid "user.reviewerPrompt"
-msgstr "Would you be willing to review conference proceedings to this conference series?"
+msgstr "Would you be willing to review conference proceedings to this Conference Proceedings Series?"
 
 msgid "user.register.contextsPrompt"
-msgstr "Which conference seriess on this site would you like to register with?"
+msgstr "Which Conference Proceedings Series on this site would you like to register with?"
 
 msgid "user.myJournals"
-msgstr "My conference seriess"
+msgstr "My Conference Proceedings Series"
 
 msgid "user.noRoles.submitArticleRegClosed"
-msgstr "Submit an conference proceeding: Author registration is currently disabled."
+msgstr "Submit an Conference Proceedings Paper: Author registration is currently disabled."
 
 msgid "user.role.manager"
 msgstr "conference series Manager"
 
 msgid "user.role.managers"
-msgstr "conference series Managers"
+msgstr "Conference Proceedings Series Managers"
 
 msgid "user.role.journalAssistant"
-msgstr "conference series Assistant"
+msgstr "Conference Proceedings Series Assistant"
 
 msgid "user.role.journalAssistants"
-msgstr "conference series Assistants"
+msgstr "Conference Proceedings Series Assistants"
 
 msgid "issue.issue"
-msgstr "conference"
+msgstr "Conference Proceedings Volume"
 
 msgid "issue.issues"
-msgstr "conferences"
+msgstr "Conference Proceedings Volumes"
 
 msgid "issue.noIssues"
-msgstr "No conferences"
+msgstr "No Conference Proceedings Volumes"
 
 msgid "issue.fullIssue"
-msgstr "Full conference"
+msgstr "Full Conference Proceedings Volume"
 
 msgid "issue.nonpdf.title"
-msgstr "conference Download"
+msgstr "Conference Proceedings Volume Download"
 
 msgid "issue.viewIssue"
-msgstr "View conference"
+msgstr "View Conference Proceedings Volume"
 
 msgid "issue.return"
-msgstr "Return to conference Details"
+msgstr "Return to Conference Proceedings Volume Details"
 
 msgid "submission.event.general.defaultEvent"
-msgstr "conference proceeding event"
+msgstr "Conference Proceedings Submission event"
 
 msgid "submission.event.submissionSubmitted"
-msgstr "conference proceeding submitted"
+msgstr "Conference Proceedings Paper submitted"
 
 msgid "submission.event.general.issueScheduled"
-msgstr "conference proceeding sent to conference scheduling queue"
+msgstr "Conference Proceedings Paper sent to Conference Proceedings Volume scheduling queue"
 
 msgid "submission.event.general.issueAssigned"
-msgstr "conference proceeding assigned to conference"
+msgstr "Conference Proceedings Paper assigned to Conference Proceedings Volume"
 
 msgid "submission.event.general.articlePublished"
-msgstr "conference proceeding published"
+msgstr "Conference Proceedings Paper published"
 
 msgid "submission.event.editor.editorAssigned"
-msgstr "Editor assigned to conference proceeding"
+msgstr "Editor assigned to Conference Proceedings Submission"
 
 msgid "submission.event.editor.editorUnassigned"
-msgstr "Editor unassigned from conference proceeding"
+msgstr "Editor unassigned from Conference Proceedings Submission"
 
 msgid "submission.event.editor.submissionArchived"
-msgstr "conference proceeding sent to archive"
+msgstr "Conference Proceedings Submission sent to archive"
 
 msgid "submission.event.editor.submissionRestored"
-msgstr "conference proceeding restored from archive"
+msgstr "Conference Proceedings Submission restored from archive"
 
 msgid "submission.event.copyedit.copyeditorAssigned"
-msgstr "Copyeditor assigned to conference proceeding"
+msgstr "Copyeditor assigned to Conference Proceedings Submission"
 
 msgid "submission.event.copyedit.copyeditorUnassigned"
-msgstr "Copyeditor unassigned from conference proceeding"
+msgstr "Copyeditor unassigned from Conference Proceedings Submission"
 
 msgid "submission.event.proofread.proofreaderAssigned"
-msgstr "Proofreader assigned to conference proceeding"
+msgstr "Proofreader assigned to Conference Proceedings Submission"
 
 msgid "submission.event.proofread.proofreaderUnassigned"
-msgstr "Proofreader unassigned from conference proceeding"
+msgstr "Proofreader unassigned from Conference Proceedings Submission"
 
 msgid "submission.event.layout.layoutEditorAssigned"
-msgstr "Layout editor assigned to conference proceeding"
+msgstr "Layout editor assigned to Conference Proceedings Submission"
 
 msgid "submission.event.layout.layoutEditorUnassigned"
-msgstr "Layout editor unassigned from conference proceeding"
+msgstr "Layout editor unassigned from Conference Proceedings Submission"
 
 msgid "comments.commentsOnArticle"
-msgstr "Comments on this conference proceeding"
+msgstr "Comments on this Conference Proceedings Submission"
 
 msgid "search.results.orderBy.article"
-msgstr "conference proceeding Title"
+msgstr "Conference Proceedings Paper Title"
 
 msgid "search.results.orderBy.issue"
-msgstr "conference"
+msgstr "Conference Proceedings Volume"
 
 msgid "search.results.orderBy.journal"
-msgstr "conference series Title"
+msgstr "Conference Proceedings Series Title"
 
 msgid "plugins.categories.viewableFiles"
-msgstr "conference proceeding Galley Plugins"
+msgstr "Conference Proceedings Papers Galley Plugins"
 
 msgid "sectionEditor.noneAssigned"
-msgstr "No conference proceedings assigned."
+msgstr "No Conference Proceedings Submissions assigned."
 
 msgid "sectionEditor.regrets.title"
 msgstr "#{$conference proceedingId} Reviewer Regrets, Cancellations & Earlier Rounds"
 
 msgid "reviewer.pendingReviews"
-msgstr "conference proceedings Pending Review"
+msgstr "Conference Proceedings Submissions Pending Review"
 
 msgid "reviewer.article.submissionEditor"
-msgstr "conference proceeding Editor"
+msgstr "Conference Proceedings Submission Editor"
 
 msgid "reviewer.article.decision.accept"
-msgstr "Accept conference proceeding"
+msgstr "Conference Proceedings Submission"
 
 msgid "reviewer.article.decision.decline"
-msgstr "Decline conference proceeding"
+msgstr "Conference Proceedings Submission"
 
 msgid "reviewer.article.submissionToBeReviewed"
-msgstr "conference proceeding To Be Reviewed"
+msgstr "Conference Proceedings Submissions To Be Reviewed"
 
 msgid "reviewer.article.notifyEditorA"
-msgstr "Notify the conference proceeding's editor"
+msgstr "Notify the Conference Proceedings Submissions' editor"
 
 msgid "reviewer.article.enterReviewA"
-msgstr "Click on icon to enter (or paste) your review of this conference proceeding."
+msgstr "Click on icon to enter (or paste) your review of this Conference Proceedings Submission."
 
 msgid "submission.logType.article"
-msgstr "conference proceeding"
+msgstr "Conference Proceedings Submission"
 
 msgid "user.register.selectContext"
-msgstr "Select a conference series to register with:"
+msgstr "Select a Conference Proceedings Series to register with:"
 
 msgid "user.register.noJournals"
-msgstr "There are no conference seriess you may register with on this site."
+msgstr "There are no Conference Proceedings Series you may register with on this site."
 
 msgid "user.register.registrationDisabled"
-msgstr "This conference series is currently not accepting user registrations."
+msgstr "This Conference Proceedings Series is currently not accepting user registrations."
 
 msgid "user.register.readerDescription"
-msgstr "Notified by email on publication of an conference of the conference series."
+msgstr "Notified by email on publication of an conference of the Conference Proceedings Series."
 
 msgid "user.register.openAccessNotificationDescription"
-msgstr "Notified by email when an conference of the conference series is made open access."
+msgstr "Notified by email when an Conference Proceedings Volume of the conference series is made open access."
 
 msgid "user.register.authorDescription"
-msgstr "Able to submit items to the conference series."
+msgstr "Able to submit items to the Conference Proceedings Series."
 
 msgid "user.register.reviewerDescriptionNoInterests"
-msgstr "Willing to conduct peer review of conference proceedings to the conference series."
+msgstr "Willing to conduct peer review of Conference Proceedings Submissions to the Conference Proceedings Series."
 
 msgid "user.register.reviewerDescription"
-msgstr "Willing to conduct peer review of conference proceedings to the site."
+msgstr "Willing to conduct peer review of Conference Proceedings Submissions to the site."
 
 msgid "search.searchFor"
-msgstr "Search conference proceedings for"
+msgstr "Search Conference Proceedings Papers for"
 
 msgid "search.allJournals"
-msgstr "All conference seriess"
+msgstr "All Conference Proceedings Series"
 
 msgid "article.nonpdf.title"
-msgstr "conference proceeding Download"
+msgstr "Conference Proceedings Paper Download"
 
 msgid "site.journalsHosted"
-msgstr "conference seriess hosted on this site"
+msgstr "Conference Proceedings Series hosted on this site"
 
 msgid "site.journalView"
-msgstr "View conference series"
+msgstr "View Conference Proceedings Series"
 
 msgid "site.journalCurrent"
-msgstr "Current conference"
+msgstr "Current Conference Proceedings Volume"
 
 msgid "site.noJournals"
-msgstr "There are no conference seriess available."
+msgstr "There are no Conference Proceedings Series available."
 
 msgid "current.noCurrentIssue"
-msgstr "No Current conference"
+msgstr "No Current Conference Proceedings Volume"
 
 msgid "current.noCurrentIssueDesc"
-msgstr "This conference series has not published any conferences."
+msgstr "This Conference Proceedings Series has not published any Conference Proceedings Volumes."
 
 msgid "archive.browse"
-msgstr "Browse through the older conferences"
+msgstr "Browse through the older Conference Proceedings Volumes"
 
 msgid "archive.issueUnavailable"
-msgstr "conference Unavailable"
+msgstr "Conference Proceedings Volume Unavailable"
 
 msgid "about.aboutContext"
-msgstr "About the conference series"
+msgstr "About the Conference Proceedings Series"
 
 msgid "about.history"
-msgstr "conference series History"
+msgstr "Conference Proceedings Series History"
 
 msgid "about.submissions"
-msgstr "conference proceedings"
+msgstr "Conference Proceedings Submissions"
 
 msgid "about.onlineSubmissions.registrationRequired"
-msgstr "{$login} or {$register} to make a conference proceeding."
+msgstr "{$login} or {$register} to make a Conference Proceedings Submission."
 
 msgid "about.onlineSubmissions.submissionActions"
 msgstr "{$newSubmission} or {$viewconference proceedings}."
 
 msgid "about.onlineSubmissions.submitToSection"
-msgstr "Make a new conference proceeding to the <a href=\"{$url}\">{$name}</a> section."
+msgstr "Make a new Conference Proceedings Submission to the <a href=\"{$url}\">{$name}</a> section."
 
 msgid "about.onlineSubmissions.newSubmission"
-msgstr "Make a new conference proceeding"
+msgstr "Make a new Conference Proceedings Submission"
 
 msgid "about.onlineSubmissions.viewSubmissions"
-msgstr "view your pending conference proceedings"
+msgstr "view your pending Conference Proceedings Submissions"
 
 msgid "about.submissionPreparationChecklist"
-msgstr "conference proceeding Preparation Checklist"
+msgstr "Conference Proceedings Submission Preparation Checklist"
 
 msgid "about.authorFeesMessage"
-msgstr "This conference series charges the following author fees."
+msgstr "This Conference Proceedings Series charges the following author fees."
 
 msgid "about.delayedOpenAccessDescription2"
-msgstr "month(s) after an conference is published."
+msgstr "month(s) after an Conference Proceedings Volume is published."
 
 msgid "about.aboutSoftware"
-msgstr "About Open conference series Systems"
+msgstr "About Open Journal Systems"
 
 msgid "help.ojsHelp"
-msgstr "Open conference series Systems Help"
+msgstr "Open Journal Systems Help"
 
 msgid "payment.type.submission"
-msgstr "conference proceeding Fee"
+msgstr "Conference Proceedings Submission Fee"
 
 msgid "payment.type.purchaseArticle"
-msgstr "Purchase conference proceeding Fee"
+msgstr "Purchase Conference Proceedings Paper Fee"
 
 msgid "payment.type.purchaseIssue"
-msgstr "Purchase conference Fee"
+msgstr "Purchase Conference Proceedings Volume Fee"
 
 msgid "payment.submission.paySubmission"
-msgstr "Pay conference proceeding Fee"
+msgstr "Pay Conference Proceedings Submission Fee"
 
 msgid "installer.installApplication"
-msgstr "Install Open conference series Systems"
+msgstr "Install Open Journal Systems"
 
 msgid "installer.upgradeApplication"
-msgstr "Upgrade Open conference series Systems"
+msgstr "Upgrade Open Journal Systems"
 
 msgid "log.review.resubmit"
 msgstr "The submission {$conference proceedingId} has been resubmitted for review."
 
 msgid "log.copyedit.copyeditorFile"
-msgstr "A copyeditor version of the conference proceeding file has been uploaded."
+msgstr "A copyeditor version of the "Conference Proceedings Submission file has been uploaded."
 
 msgid "log.editor.metadataModified"
-msgstr "The metadata for this conference proceeding was modified by {$editorName}."
+msgstr "The metadata for this "Conference Proceedings Submissions was modified by {$editorName}."
 
 msgid "log.editor.editorFile"
-msgstr "An editor version of the conference proceeding file has been uploaded."
+msgstr "An editor version of the "Conference Proceedings Submissions file has been uploaded."
 
 msgid "log.editor.archived"
 msgstr "The submission {$conference proceedingId} has been archived."
@@ -881,358 +1227,358 @@ msgid "log.imported"
 msgstr "{$userName} has imported conference proceeding {$conference proceedingId}."
 
 msgid "metadata.pkp.peerReviewed"
-msgstr "Peer-reviewed conference proceeding"
+msgstr "Peer-reviewed "Conference Proceedings Paper"
 
 msgid "notification.type.submissionSubmitted"
-msgstr "A new conference proceeding, \"{$title},\" has been submitted."
+msgstr "A new "Conference Proceedings Submission, \"{$title},\" has been submitted."
 
 msgid "notification.type.issuePublished"
-msgstr "An conference has been published."
+msgstr "An Conference Proceedings Volume has been published."
 
 msgid "notification.type.submissions"
-msgstr "conference proceeding Events"
+msgstr "Conference Proceedings Submission Events"
 
 msgid "notification.savedIssueMetadata"
-msgstr "conference publication metadata saved."
+msgstr "Conference Proceedings Volume publication metadata saved."
 
 msgid "user.authorization.noContext"
-msgstr "No conference series in context!"
+msgstr "No Conference Proceedings Series in context!"
 
 msgid "user.authorization.sectionAssignment"
-msgstr "You are trying to access an conference proceeding that is not part of your section."
+msgstr "You are trying to access an Conference Proceedings Submission that is not part of your section."
 
 msgid "user.authorization.invalidIssue"
-msgstr "Invalid conference requested!"
+msgstr "Invalid Conference Proceedings Volume requested!"
 
 msgid "user.authorization.invalidCopyditorSubmission"
-msgstr "Invalid copyeditor submission or no copyeditor conference proceeding requested!"
+msgstr "Invalid copyeditor submission or no copyeditor Conference Proceedings Submission requested!"
 
 msgid "grid.action.createContext"
-msgstr "Create a New conference series"
+msgstr "Create a New Conference Proceedings Series"
 
 msgid "editor.navigation.issues"
-msgstr "conferences"
+msgstr "Conference Proceedings Volumes"
 
 msgid "user.profile.form.showOtherContexts"
-msgstr "Register with other conference seriess"
+msgstr "Register with other Conference Proceedings Series"
 
 msgid "user.profile.form.hideOtherContexts"
-msgstr "Hide other conference seriess"
+msgstr "Hide other Conference Proceedings Series"
 
 msgid "article.view.interstitial"
-msgstr "Please choose an conference proceeding file to download."
+msgstr "Please choose an Conference Proceedings Submission file to download."
 
 msgid "search.cli.rebuildIndex.indexing"
 msgstr "Indexing \"{$conference seriesName}\""
 
 msgid "search.cli.rebuildIndex.indexingByJournalNotSupported"
-msgstr "This search implementation does not allow per-conference series re-indexing."
+msgstr "This search implementation does not allow per-Conference Proceedings Series re-indexing."
 
 msgid "editor.issues.backIssues"
-msgstr "Back conferences"
+msgstr "Back Conference Proceedings Volumes"
 
 msgid "editor.issues.futureIssues"
-msgstr "Future conferences"
+msgstr "Future Conference Proceedings Volumes"
 
 msgid "catalog.sortBy"
-msgstr "Order of conference proceedings"
+msgstr "Conference Proceedings Papers"
 
 msgid "catalog.sortBy.categoryDescription"
-msgstr "Choose how to order conference proceedings in this category."
-
+msgstr "Choose how to order Conference Proceedings Papers in this category."
+conference 
 msgid "manager.distribution.copyrightYearBasis.description"
-msgstr "Choose how a default copyright date is selected for an conference proceeding. This default can be overridden on a case-by-case basis. If you \"publish as you go\", don't use the conference's publication date."
+msgstr "Choose how a default copyright date is selected for a Conference Proceedings Paper. This default can be overridden on a case-by-case basis. If you \"publish as you go\", don't use the conference's publication date."
 
 msgid "manager.distribution.copyrightYearBasis.issue"
-msgstr "Use the conference's publication date"
+msgstr "Use the Conference Proceedings Volume's publication date"
 
 msgid "manager.distribution.copyrightYearBasis.submission"
-msgstr "Use the conference proceeding's publication date"
+msgstr "Use the Conference Proceedings Paper's publication date"
 
 msgid "manager.distribution.publishingMode.none"
-msgstr "OJS will not be used to publish the conference series's contents online."
+msgstr "OJS will not be used to publish the Conference Proceedings Series' contents online."
 
 msgid "manager.distribution.publishingMode.openAccess"
-msgstr "The conference series will provide open access to its contents."
+msgstr "The Conference Proceedings Series will provide open access to its contents."
 
 msgid "manager.distribution.publishingMode.subscription"
-msgstr "The conference series will require subscriptions to access some or all of its contents."
+msgstr "The Conference Proceedings Series will require subscriptions to access some or all of its contents."
 
 msgid "manager.emails.confirmResetAll"
-msgstr "Are you sure you want to reset all email templates in this conference series? You will lose any customizations you have made."
+msgstr "Are you sure you want to reset all email templates in this Conference Proceedings Series? You will lose any customizations you have made."
 
 msgid "manager.files.note"
-msgstr "Note: The Files Browser is an advanced feature that allows the files and directories associated with a conference series to be viewed and manipulated directly."
+msgstr "Note: The Files Browser is an advanced feature that allows the files and directories associated with a Conference Proceedings Series to be viewed and manipulated directly."
 
 msgid "manager.journalManagement"
-msgstr "conference series Management"
+msgstr "Conference Proceedings Series Management"
 
 msgid "manager.language.submissions"
-msgstr "conference proceedings"
+msgstr "Conference Proceedings Submissions"
 
 msgid "manager.language.confirmDefaultSettingsOverwrite"
-msgstr "This will replace any locale-specific conference series settings you had for this locale"
+msgstr "This will replace any locale-specific Conference Proceedings Series settings you had for this locale"
 
 msgid "manager.languages.noneAvailable"
-msgstr "Sorry, no additional languages are available. Contact your site administrator if you wish to use additional languages with this conference series."
+msgstr "Sorry, no additional languages are available. Contact your site administrator if you wish to use additional languages with this Conference Proceedings Series."
 
 msgid "manager.languages.primaryLocaleInstructions"
-msgstr "This will be the default language for the conference series site."
+msgstr "This will be the default language for the Conference Proceedings Series site."
 
 msgid "manager.payment.generalFeesDescription"
-msgstr "The Association Membership will appear in About the conference series under Policies."
+msgstr "The Association Membership will appear in About the Conference Proceedings Series under Policies."
 
 msgid "manager.payment.options.acceptSubscriptionPayments"
-msgstr "This will activate payments for Subscriptions, where types, cost, duration and subscriptions are managed by the conference series (Subscription) Manager."
+msgstr "This will activate payments for Subscriptions, where types, cost, duration and subscriptions are managed by the Conference Proceedings Series (Subscription) Manager."
 
 msgid "manager.payment.options.enablePayments"
-msgstr "Payments will be enabled for this conference series. Note that users will be required to log in to make payments."
+msgstr "Payments will be enabled for this Conference Proceedings Series. Note that users will be required to log in to make payments."
 
 msgid "manager.payment.options.onlypdf"
-msgstr "Only Restrict Access to PDF version of conferences and conference proceedings"
+msgstr "Only Restrict Access to PDF version of Conference Proceedings Volumes and Conference Proceedings Papers"
 
 msgid "manager.payment.options.publicationFee"
-msgstr "conference proceeding Processing Charge"
+msgstr "Conference Proceedings Papers Processing Charge"
 
 msgid "manager.payment.options.purchaseArticleFee"
-msgstr "Purchase conference proceeding"
+msgstr "Purchase Conference Proceedings Paper"
 
 msgid "manager.payment.options.purchaseIssueFee"
-msgstr "Purchase conference"
+msgstr "Conference Proceedings Volume"
 
 msgid "manager.payment.readerFeesDescription"
-msgstr "Selected options, along with their descriptions and fees (which can be edited below), will appear in About the conference series under Policies, as well as at points where payment is required."
+msgstr "Selected options, along with their descriptions and fees (which can be edited below), will appear in About the Conference Proceedings Series under Policies, as well as at points where payment is required."
 
 msgid "manager.people.allEnrolledUsers"
-msgstr "Users Enrolled in this conference series"
+msgstr "Users Enrolled in this Conference Proceedings Series"
 
 msgid "manager.people.allJournals"
-msgstr "All conference seriess"
+msgstr "All Conference Proceedings Series"
 
 msgid "manager.people.allSiteUsers"
-msgstr "Enroll a User from this Site in this conference series"
+msgstr "Enroll a User from this Site in this Conference Proceedings Series"
 
 msgid "manager.people.confirmRemove"
-msgstr "Remove this user from this journal? This action will unenroll the user from all roles within this conference series."
+msgstr "Remove this user from this Conference Proceedings Series? This action will unenroll the user from all roles within this Conference Proceedings Series."
 
 msgid "manager.people.enrollSyncJournal"
-msgstr "With conference series"
+msgstr "With Conference Proceedings Series"
 
 msgid "manager.people.mergeUsers.from.description"
-msgstr "Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any conference proceedings, assignments, etc. will be attributed to the second account."
+msgstr "Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any Conference Proceedings Submissions, assignments, etc. will be attributed to the second account."
 
 msgid "manager.people.syncUserDescription"
-msgstr "Enrollment synchronization will enroll all users enrolled in the specified role in the specified journal into the same role in this journal. This function allows a common set of users (e.g., Reviewers) to be synchronized between conference seriess."
+msgstr "Enrollment synchronization will enroll all users enrolled in the specified role in the specified journal into the same role in this journal. This function allows a common set of users (e.g., Reviewers) to be synchronized between Conference Proceedings Series."
 
 msgid "manager.sections.alertDelete"
-msgstr "Before this section can be deleted, you must move conference proceedings submitted to it into other sections."
+msgstr "Before this section can be deleted, you must move Conference Proceedings Papers submitted to it into other sections."
 
 msgid "manager.section.sectionEditorInstructions"
-msgstr "Add a Section Editor to this section to have Conference proceedings automatically assigned to the Section Editor. (Otherwise, Section Editors can be assigned manually, after a submission comes in.) If added, a Section Editor can be automatically assigned to oversee the REVIEW (peer review) and/or the EDITING (copyediting, layout and proofreading) of conference proceedings to this section. Section Editors are created by clicking Section Editors under Roles in conference series Management."
+msgstr "Add a Section Editor to this section to have Conference Proceedings Submissions automatically assigned to the Section Editor. (Otherwise, Section Editors can be assigned manually, after a submission comes in.) If added, a Section Editor can be automatically assigned to oversee the REVIEW (peer review) and/or the EDITING (copyediting, layout and proofreading) of Conference Proceedings Submissionss to this section. Section Editors are created by clicking Section Editors under Roles in Conference Proceedings Series Management."
 
 msgid "manager.sections.hideTocAuthor"
-msgstr "Omit author names for section items from conferences' table of contents."
+msgstr "Omit author names for section items from Conference Proceedings Volumes' table of contents."
 
 msgid "manager.sections.hideTocTitle"
-msgstr "Omit the title of this section from conferences' table of contents."
+msgstr "Omit the title of this section from Conference Proceedings Volumes' table of contents."
 
 msgid "manager.sections.identifyTypeExamples"
-msgstr "(For example, \"Peer-reviewed conference proceeding\", \"Non-refereed Book Review\", \"Invited Commentary\", etc.)"
+msgstr "(For example, \"Peer-reviewed Conference Proceedings Paper\", \"Non-refereed Book Review\", \"Invited Commentary\", etc.)"
 
 msgid "manager.sections.open"
-msgstr "Open conference proceedings"
+msgstr "Open Conference Proceedings Submissions"
 
 msgid "manager.sections.submissionIndexing"
-msgstr "Will not be included in the indexing of the conference series"
+msgstr "Will not be included in the indexing of the Conference Proceedings Series"
 
 msgid "manager.section.submissionsToThisSection"
-msgstr "conference proceedings made to this section of the conference series"
+msgstr "Conference Proceedings Submissions made to this section of the Conference Proceedings Series"
 
 msgid "manager.setup"
-msgstr "conference series Settings"
+msgstr "Conference Proceedings Series Settings"
 
 msgid "manager.setup.homepageContent"
-msgstr "conference series Homepage Content"
+msgstr "Conference Proceedings Series Homepage Content"
 
 msgid "manager.setup.homepageContentDescription"
-msgstr "The conference series homepage consists of navigation links by default. Additional homepage content can be appended by using one or all of the following options, which will appear in the order shown."
+msgstr "TheConference Proceedings Series homepage consists of navigation links by default. Additional homepage content can be appended by using one or all of the following options, which will appear in the order shown."
 
 msgid "manager.setup.useStyleSheet"
-msgstr "conference series style sheet"
+msgstr "Conference Proceedings Series style sheet"
 
 msgid "manager.setup.contextName"
-msgstr "conference series Name"
+msgstr "Conference Proceedings Series Name"
 
 msgid "manager.setup.pageHeader"
-msgstr "conference series Page Header"
+msgstr "Conference Proceedings Series Page Header"
 
 msgid "manager.setup.addItemtoAboutJournal"
-msgstr "Add Item to Appear in \"About the conference series\""
+msgstr "Add Item to Appear in \"About the Conference Proceedings Series\""
 
 msgid "manager.setup.appearInAboutJournal"
-msgstr "(To appear in About the conference series) "
+msgstr "(To appear in About the Conference Proceedings Series) "
 
 msgid "manager.setup.competingInterests.requireAuthors"
-msgstr "Require submitting Authors to file a Competing Interest (CI) statement with their conference proceeding."
+msgstr "Require submitting Authors to file a Competing Interest (CI) statement with their cConference Proceedings Submission."
 
 msgid "manager.setup.history"
-msgstr "conference series History"
+msgstr "Conference Proceedings Series History"
 
 msgid "manager.setup.historyDescription"
-msgstr "This text will appear in the \"About\" section of the journal website and can be used to describe changes in titles, editorial board, and other items of relevance to the conference series's publication history."
+msgstr "This text will appear in the \"About\" section of the Conference Proceedings Series website and can be used to describe changes in titles, editorial board, and other items of relevance to the Conference Proceedings Series' publication history."
 
 msgid "manager.setup.currentIssue"
-msgstr "Current conference"
+msgstr "Current Conference Proceedings Volume"
 
 msgid "manager.setup.details.description"
-msgstr "Name of conference series, ISSN, contacts, sponsors, and search engines."
+msgstr "Name of Conference Proceedings Series, ISSN, contacts, sponsors, and search engines."
 
 msgid "manager.setup.disableUserRegistration"
-msgstr "The conference series Manager will register all user accounts. Editors or Section Editors may register user accounts for reviewers."
+msgstr "The Conference Proceedings Series Manager will register all user accounts. Editors or Section Editors may register user accounts for reviewers."
 
 msgid "manager.setup.disciplineDescription"
-msgstr "Useful when conference series crosses disciplinary boundaries and/or authors submit multidisciplinary items."
+msgstr "Useful when Conference Proceedings Series crosses disciplinary boundaries and/or authors submit multidisciplinary items."
 
 msgid "manager.setup.disciplineProvideExamples"
-msgstr "Provide examples of relevant academic disciplines for this conference series"
+msgstr "Provide examples of relevant academic disciplines for this Conference Proceedings Series"
 
 msgid "manager.setup.displayCurrentIssue"
-msgstr "Add the table of contents for the current conference (if available)."
+msgstr "Add the table of contents for the current Conference Proceedings Volume (if available)."
 
 msgid "manager.setup.emailSignature.description"
-msgstr "The prepared emails that are sent by the system on behalf of the conference series will have the following signature added to the end."
+msgstr "The prepared emails that are sent by the system on behalf of the Conference Proceedings Series will have the following signature added to the end."
 
 msgid "manager.setup.enableAnnouncements.description"
-msgstr "Announcements may be published to inform readers of conference series news and events. Published announcements will appear on the Announcements page."
+msgstr "Announcements may be published to inform readers of Conference Proceedings Series news and events. Published announcements will appear on the Announcements page."
 
 msgid "manager.setup.enableUserRegistration"
-msgstr "Visitors can register a user account with the conference series."
+msgstr "Visitors can register a user account with the Conference Proceedings Series."
 
 msgid "manager.setup.focusAndScope.description"
-msgstr "Describe to authors, readers, and librarians the range of conference proceedings and other items the conference series will publish."
+msgstr "Describe to authors, readers, and librarians the range of Conference Proceedings Papers and other items the Conference Proceedings Series will publish."
 
 msgid "manager.setup.forAuthorsToIndexTheirWorkDescription"
-msgstr "OJS adheres to the <a href=\"http://www.openarchives.org/\" target=\"_blank\">Open Archives Initiative</a> Protocol for Metadata Harvesting, which is the emerging standard for providing well-indexed access to electronic research resources on a global scale. The authors will use a similar template to provide metadata for their conference proceeding. The conference series Manager should select the categories for indexing and present authors with relevant examples to assist them in indexing their work."
+msgstr "OJS adheres to the <a href=\"http://www.openarchives.org/\" target=\"_blank\">Open Archives Initiative</a> Protocol for Metadata Harvesting, which is the emerging standard for providing well-indexed access to electronic research resources on a global scale. The authors will use a similar template to provide metadata for their Conference Proceedings Submission. The Conference Proceedings Series Manager should select the categories for indexing and present authors with relevant examples to assist them in indexing their work."
 
 msgid "manager.setup.form.journalInitialsRequired"
-msgstr "The conference series initials are required."
+msgstr "The Conference Proceedings Series initials are required."
 
 msgid "manager.setup.form.journalTitleRequired"
-msgstr "The conference series title is required."
+msgstr "The Conference Proceedings Series title is required."
 
 msgid "manager.setup.form.numReviewersPerSubmission"
-msgstr "The number of reviewers per conference proceeding is required."
+msgstr "The number of reviewers per Conference Proceedings Submission is required."
 
 msgid "manager.setup.guidingSubmissions"
-msgstr "Step 3. Guiding conference proceedings"
+msgstr "Step 3. Guiding Conference Proceedings Submissions"
 
 msgid "manager.setup.identity"
-msgstr "conference series Identity"
+msgstr "Conference Proceedings Series Identity"
 
 msgid "manager.setup.includeCreativeCommons"
-msgstr "For conference seriess that offer immediate or delayed open access, include a Creative Commons license with all published work at the appropriate time."
+msgstr "For Conference Proceedings Series that offer immediate or delayed open access, include a Creative Commons license with all published work at the appropriate time."
 
 msgid "manager.setup.information.description"
-msgstr "Brief descriptions of the conference series for librarians and prospective authors and readers. These are made available in the site's sidebar when the Information block has been added."
+msgstr "Brief descriptions of the Conference Proceedings Series for librarians and prospective authors and readers. These are made available in the site's sidebar when the Information block has been added."
 
 msgid "manager.setup.initialIssue"
-msgstr "Initial conference"
+msgstr "Initial Conference Proceedings Volumee"
 
 msgid "manager.setup.initialIssueDescription"
-msgstr "Depending on the format selected, identify the issue, volume, and/or year of the first conference to be published with OJS:"
+msgstr "Depending on the format selected, identify the issue, volume, and/or year of the first Conference Proceedings Volume to be published with OJS:"
 
 msgid "manager.setup.itemsPerPage.description"
-msgstr "Limit the number of items (for example, conference proceedings, users, or editing assignments) to show in a list before showing subsequent items in another page."
+msgstr "Limit the number of items (for example, Conference Proceedings Submissions, users, or editing assignments) to show in a list before showing subsequent items in another page."
 
 msgid "manager.setup.journalAbbreviation"
-msgstr "conference series Abbreviation"
+msgstr "Conference Proceedings Series Abbreviation"
 
 msgid "manager.setup.journalArchiving"
-msgstr "conference series Archiving"
+msgstr "Conference Proceedings Series Archiving"
 
 msgid "manager.setup.contextSummary"
-msgstr "conference series Summary"
+msgstr "Conference Proceedings Series Summary"
 
 msgid "manager.setup.contextAbout"
-msgstr "About the conference series"
+msgstr "About the Conference Proceedings Series"
 
 msgid "manager.setup.contextAbout.description"
-msgstr "Include any information about your journal which may be of interest to readers, authors or reviewers. This could include your open access policy, the focus and scope of the journal, copyright notice, sponsorship disclosure, history of the conference series, a privacy statement, and inclusion in any LOCKSS or CLOCKSS archival system."
+msgstr "Include any information about your Conference Proceedings Series which may be of interest to readers, authors or reviewers. This could include your open access policy, the focus and scope of the onference Proceedings Series, copyright notice, sponsorship disclosure, history of the onference Proceedings Series, a privacy statement, and inclusion in any LOCKSS or CLOCKSS archival system."
 
 msgid "manager.setup.journalHomepageContent"
-msgstr "conference series Homepage Content"
+msgstr "onference Proceedings Series Homepage Content"
 
 msgid "manager.setup.journalHomepageContentDescription"
-msgstr "By default, the homepage consists of navigation links. Additional homepage content can be appended by using one or all of the following options, which will appear in the order shown. Note that the current conference is always accessible through the Current link in the navigation bar."
+msgstr "By default, the homepage consists of navigation links. Additional homepage content can be appended by using one or all of the following options, which will appear in the order shown. Note that the Conference Proceedings Volume is always accessible through the Current link in the navigation bar."
 
 msgid "manager.setup.journalHomepageHeader"
-msgstr "conference series Homepage Header"
+msgstr "Conference Proceedings Series Homepage Header"
 
 msgid "manager.setup.journalHomepageHeader.altText"
-msgstr "conference series Homepage Header"
+msgstr "Conference Proceedings Series Homepage Header"
 
 msgid "manager.setup.journalHomepageHeaderDescription"
-msgstr "A graphic version of the conference series's title and logo (as a .gif, .jpg, or .png file) can be uploaded for the homepage, which will replace the text version that otherwise appears."
+msgstr "A graphic version of the Conference Proceedings Series' title and logo (as a .gif, .jpg, or .png file) can be uploaded for the homepage, which will replace the text version that otherwise appears."
 
 msgid "manager.setup.contextInitials"
-msgstr "conference series initials"
+msgstr "Conference Proceedings Seriesinitials"
 
 msgid "manager.setup.journalLayout"
-msgstr "conference series Layout"
+msgstr "Conference Proceedings Series Layout"
 
 msgid "manager.setup.journalLayoutDescription"
-msgstr "Choose a journal theme and select layout components here. A conference series stylesheet may also be uploaded, which can be used to override style data in the system-wide stylesheets and theme stylesheet (if a theme is chosen)."
+msgstr "Choose a Conference Proceedings Series theme and select layout components here. A Conference Proceedings Series stylesheet may also be uploaded, which can be used to override style data in the system-wide stylesheets and theme stylesheet (if a theme is chosen)."
 
 msgid "manager.setup.journalLogo"
-msgstr "conference series Logo"
+msgstr "Conference Proceedings Series Logo"
 
 msgid "manager.setup.journalLogo.altText"
-msgstr "conference series Logo"
+msgstr "Conference Proceedings Series Logo"
 
 msgid "manager.setup.journalPageFooter"
-msgstr "conference series Page Footer"
+msgstr "Conference Proceedings Series Page Footer"
 
 msgid "manager.setup.journalPageFooterDescription"
-msgstr "This is the footer of your conference series. To change or update the footer, paste the HTML code in the textbox below. Examples could be another navigation bar, a counter, etc. This footer will appear on every page."
+msgstr "This is the footer of your Conference Proceedings Series. To change or update the footer, paste the HTML code in the textbox below. Examples could be another navigation bar, a counter, etc. This footer will appear on every page."
 
 msgid "manager.setup.journalPolicies"
-msgstr "Step 2. conference series Policies"
+msgstr "Step 2. Conference Proceedings SeriesPolicies"
 
 msgid "manager.setup.journalSetup"
-msgstr "conference series Setup"
+msgstr "Conference Proceedings Series Setup"
 
 msgid "manager.setup.journalSetupUpdated"
-msgstr "Your conference series setup has been updated."
+msgstr "Your Conference Proceedings Series setup has been updated."
 
 msgid "manager.setup.journalStyleSheetInvalid"
-msgstr "Invalid conference series stylesheet format. Accepted format is .css."
+msgstr "Invalid Conference Proceedings Series stylesheet format. Accepted format is .css."
 
 msgid "manager.setup.journalTheme"
-msgstr "conference series Theme"
+msgstr "Conference Proceedings Series Theme"
 
 msgid "manager.setup.journalThumbnail"
-msgstr "conference series thumbnail"
+msgstr "Conference Proceedings Series thumbnail"
 
 msgid "manager.setup.journalThumbnail.description"
-msgstr "A small logo or representation of the journal that can be used in lists of conference seriess."
+msgstr "A small logo or representation of the Conference Proceedings Series that can be used in lists of Conference Proceedings Series."
 
 msgid "manager.setup.contextTitle"
-msgstr "conference series title"
+msgstr "Conference Proceedings Series title"
 
 msgid "manager.setup.keyInfo.description"
-msgstr "Provide a short description of your conference series and identify editors, managing directors and other members of your editorial team."
+msgstr "Provide a short description of your Conference Proceedings Series and identify editors, managing directors and other members of your editorial team."
 
 msgid "manager.setup.plnDescription"
-msgstr "The PKP Preservation Network (PN) provides free preservation services for any OJS conference series that meets a few basic criteria."
+msgstr "The PKP Preservation Network (PN) provides free preservation services for any OJS publications that meets a few basic criteria."
 
 msgid "manager.setup.plnPluginNotInstalled"
-msgstr "The PKP Preservation Network (PN) provides free preservation services for any OJS journal that meets a few basic criteria. To archive your conference series in the PN, ask your administrator to install the PKP|PN Plugin from the Plugin Gallery."
+msgstr "The PKP Preservation Network (PN) provides free preservation services for any OJS publication that meets a few basic criteria. To archive your Conference Proceedings Series in the PN, ask your administrator to install the PKP|PN Plugin from the Plugin Gallery."
 
 msgid "manager.setup.lockssEnable"
-msgstr "Enable LOCKSS to store and distribute conference series content at participating libraries via a LOCKSS <a href=\"{$lockssUrl}\" target=\"_blank\">Publisher Manifest</a> page."
+msgstr "Enable LOCKSS to store and distribute Conference Proceedings Series content at participating libraries via a LOCKSS <a href=\"{$lockssUrl}\" target=\"_blank\">Publisher Manifest</a> page."
 
 msgid "manager.setup.lockssLicenseDescription"
-msgstr "A LOCKSS license will appear in About the conference series under Archiving: <a href=\"http://www.lockss.org/community/publishers-titles-gln/\" target=\"_blank\">LOCKSS License</a>"
+msgstr "A LOCKSS license will appear in About the Conference Proceedings Series under Archiving: <a href=\"http://www.lockss.org/community/publishers-titles-gln/\" target=\"_blank\">LOCKSS License</a>"
 
 msgid "manager.setup.lockssRegister"
 msgstr "Identify 6-10 libraries that will register and cache the conference series. For example, turn to institutions where editors or Board members work and/or institutions already participating in LOCKSS. See <a href=\"http://www.lockss.org/community/\" target=\"_blank\">the LOCKSS community</a>."
