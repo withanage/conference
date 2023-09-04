@@ -347,7 +347,9 @@ msgid "editor.submissions.noSubmissions"
 msgstr "No Conference Proceedings Submissions"
 
 msgid "issues.submissions.issueIds"
-msgstr "Assigned to msgid "admin.hostedContexts"
+msgstr "Assigned to Issue"
+
+msgid "admin.hostedContexts"
 msgstr "Hosted Conference Proceedings Series"
 
 msgid "admin.settings.redirect"
@@ -1206,13 +1208,13 @@ msgid "log.review.resubmit"
 msgstr "The submission {$conference proceedingId} has been resubmitted for review."
 
 msgid "log.copyedit.copyeditorFile"
-msgstr "A copyeditor version of the "Conference Proceedings Submission file has been uploaded."
+msgstr "A copyeditor version of the \"Conference Proceedings Submission file has been uploaded."
 
 msgid "log.editor.metadataModified"
-msgstr "The metadata for this "Conference Proceedings Submissions was modified by {$editorName}."
+msgstr "The metadata for this \"Conference Proceedings Submissions was modified by {$editorName}."
 
 msgid "log.editor.editorFile"
-msgstr "An editor version of the "Conference Proceedings Submissions file has been uploaded."
+msgstr "An editor version of the \"Conference Proceedings Submissions file has been uploaded."
 
 msgid "log.editor.archived"
 msgstr "The submission {$conference proceedingId} has been archived."
@@ -1227,10 +1229,10 @@ msgid "log.imported"
 msgstr "{$userName} has imported conference proceeding {$conference proceedingId}."
 
 msgid "metadata.pkp.peerReviewed"
-msgstr "Peer-reviewed "Conference Proceedings Paper"
+msgstr "Peer-reviewed \"Conference Proceedings Paper"
 
 msgid "notification.type.submissionSubmitted"
-msgstr "A new "Conference Proceedings Submission, \"{$title},\" has been submitted."
+msgstr "A new \"Conference Proceedings Submission, \"{$title},\" has been submitted."
 
 msgid "notification.type.issuePublished"
 msgstr "An Conference Proceedings Volume has been published."
@@ -1285,7 +1287,7 @@ msgstr "Conference Proceedings Papers"
 
 msgid "catalog.sortBy.categoryDescription"
 msgstr "Choose how to order Conference Proceedings Papers in this category."
-conference 
+
 msgid "manager.distribution.copyrightYearBasis.description"
 msgstr "Choose how a default copyright date is selected for a Conference Proceedings Paper. This default can be overridden on a case-by-case basis. If you \"publish as you go\", don't use the conference's publication date."
 
