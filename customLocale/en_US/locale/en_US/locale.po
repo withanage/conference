@@ -300,7 +300,7 @@ msgid "about.onlineSubmissions.registrationRequired"
 msgstr "{$login} or {$register} to make a Conference Proceedings  Submission."
 
 msgid "about.onlineSubmissions.submissionActions"
-msgstr "{$newSubmission} or {$viewConference Proceedings  Submissions}."
+msgstr "{$newSubmission} or {$viewSubmissions}."
 
 msgid "about.onlineSubmissions.submitToSection"
 msgstr "Make a new Conference Proceedings  Submission to the <a href=\"{$url}\">{$name}</a> section."
