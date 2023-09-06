@@ -1,0 +1,18 @@
+
+msgid "api.publicFiles.500.badFilesDir"
+msgstr "The public files directory was not found or files can not be saved to it. Please contact your administrator to resolve this Conference Proceedings Volume."
+
+msgid "api.submissionFiles.400.badDependentFileAssocType"
+msgstr "You can not associate a file from this file stage with another Conference Proceedings Conference Proceedings Submission file."
+
+msgid "api.submissionFiles.400.reviewRoundSubmissionNotMatch"
+msgstr "The review round you provided is not part of this Conference Proceedings Conference Proceedings Submission."
+
+msgid "api.submissions.403.deleteSubmissionOutOfContext"
+msgstr "You can not delete a Conference Proceedings Conference Proceedings Submission that is not assigned to this context."
+
+msgid "api.submissions.403.requestedOthersUnpublishedSubmissions"
+msgstr "You can only view unpublished Conference Proceedings Conference Proceedings Conference Proceedings Submissions to which you have been assigned."
+
+msgid "api.submissions.403.unauthorizedDeleteSubmission"
+msgstr "You do not have permission to delete this Conference Proceedings Conference Proceedings Submission."

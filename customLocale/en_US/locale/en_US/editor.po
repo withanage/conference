@@ -1,0 +1,132 @@
+
+msgid "editor.submissionsAndPublishing"
+msgstr "Conference Proceedings Conference Proceedings Submissions and Publishing"
+
+msgid "editor.submissionQueue"
+msgstr "Conference Proceedings Submission Queue"
+
+msgid "editor.submissionArchive"
+msgstr "Conference Proceedings Submission Archive"
+
+msgid "editor.publishedIssues"
+msgstr "Published Conference Proceedings Volumes"
+
+msgid "editor.submissionArchive.noSubmissions"
+msgstr "No Conference Proceedings Conference Proceedings Conference Proceedings Submissions in the archive."
+
+msgid "editor.notifyUsers.includeToc"
+msgstr "Include the table of contents from this Conference Proceedings Volume:"
+
+msgid "editor.issues.createIssue"
+msgstr "Create Conference Proceedings Volume"
+
+msgid "editor.issues.editIssue"
+msgstr "Conference Proceedings Volume Management: {$Conference Proceedings VolumeIdentification}"
+
+msgid "editor.issues.currentIssue"
+msgstr "Current Conference Proceedings Volume"
+
+msgid "editor.issues.noArticles"
+msgstr "No items are currently scheduled for this Conference Proceedings Volume."
+
+msgid "editor.issues.confirmDelete"
+msgstr "Are you sure you want to permanently delete this Conference Proceedings Volume?"
+
+msgid "editor.issues.titleRequired"
+msgstr "Title is required for the Conference Proceedings Volume."
+
+msgid "editor.issues.issueIdentification"
+msgstr "Conference Proceedings Volume identification"
+
+msgid "editor.issues.publicIssueIdentifier"
+msgstr "Public Conference Proceedings Volume identifier"
+
+msgid "editor.issues.showCoverPage"
+msgstr "Create a cover for this Conference Proceedings Volume with the following elements."
+
+msgid "editor.issues.issueData"
+msgstr "Conference Proceedings Volume Data"
+
+msgid "editor.issues.publishIssue"
+msgstr "Publish Conference Proceedings Volume"
+
+msgid "editor.issues.unpublishIssue"
+msgstr "Unpublish Conference Proceedings Volume"
+
+msgid "editor.issues.previewIssue"
+msgstr "Preview Conference Proceedings Volume"
+
+msgid "editor.issues.confirmPublish"
+msgstr "Are you sure you want to publish the new Conference Proceedings Volume?"
+
+msgid "editor.issues.confirmUnpublish"
+msgstr "Are you sure you want to unpublish this published Conference Proceedings Volume?"
+
+msgid "editor.issues.confirmSetCurrentIssue"
+msgstr "Are you sure you want to set this Conference Proceedings Volume as current?"
+
+msgid "editor.issues.publicArticleIdExists"
+msgstr "Unable to save public id for Conference Proceedings Submission:"
+
+msgid "editor.issues.noLiveIssues"
+msgstr "No Live Conference Proceedings Volumes"
+
+msgid "editor.issues.galleys"
+msgstr "Conference Proceedings Volume Galleys"
+
+msgid "editor.issues.galley"
+msgstr "Conference Proceedings Volume Galley"
+
+msgid "editor.issues.viewingGalley"
+msgstr "Viewing Conference Proceedings Volume Galley"
+
+msgid "editor.issues.issueGalleysDescription"
+msgstr "Publish galleys with entire Conference Proceedings Volume contents."
+
+msgid "editor.issues.noneIssueGalleys"
+msgstr "No Conference Proceedings Volume galleys have been published."
+
+msgid "editor.issues.galleyLabelRequired"
+msgstr "An Conference Proceedings Volume galley label is required."
+
+msgid "editor.issues.galleyLocaleRequired"
+msgstr "An Conference Proceedings Volume galley locale is required."
+
+msgid "editor.issues.galleyPublicIdentificationExists"
+msgstr "Public Conference Proceedings Volume galley identification already exists."
+
+msgid "editor.issues.backToIssueGalleys"
+msgstr "Back to Conference Proceedings Volume galleys"
+
+msgid "editor.issues.confirmDeleteGalley"
+msgstr "Are you sure you want to delete this Conference Proceedings Volume galley?"
+
+msgid "editor.navigation.futureIssues"
+msgstr "Future Conference Proceedings Volumes"
+
+msgid "grid.action.publish"
+msgstr "Publish Conference Proceedings Volume"
+
+msgid "grid.action.addIssue"
+msgstr "Create Conference Proceedings Volume"
+
+msgid "grid.action.addIssueGalley"
+msgstr "Create Conference Proceedings Volume Galley"
+
+msgid "grid.action.setCurrentIssue"
+msgstr "Set Current Conference Proceedings Volume"
+
+msgid "editor.navigation.issueArchive"
+msgstr "Back Conference Proceedings Volumes"
+
+msgid "editor.submissions.noSubmissions"
+msgstr "No Conference Proceedings Conference Proceedings Submissions"
+
+msgid "issues.submissions.issueIds"
+msgstr "Assigned to Conference Proceedings Volume"
+
+msgid "grid.action.removeArticle"
+msgstr "Remove Conference Proceedings Submission From Conference Proceedings Volume"
+
+msgid "editor.issues.editIssueGalley"
+msgstr "Edit Conference Proceedings Volume Galley"

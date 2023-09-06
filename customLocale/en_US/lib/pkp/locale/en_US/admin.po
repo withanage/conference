@@ -1,0 +1,3 @@
+
+msgid "admin.scheduledTask.publishSubmissions"
+msgstr "Publish Conference Proceedings Conference Proceedings Conference Proceedings Submissions scheduled for publication"

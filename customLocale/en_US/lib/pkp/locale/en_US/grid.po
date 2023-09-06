@@ -1,0 +1,36 @@
+
+msgid "grid.action.requestRevisions"
+msgstr "Request revisions for this Conference Proceedings Conference Proceedings Submission"
+
+msgid "grid.action.accept"
+msgstr "Accept this Conference Proceedings Conference Proceedings Submission"
+
+msgid "grid.action.decline"
+msgstr "Decline this Conference Proceedings Submission"
+
+msgid "grid.action.internalReview"
+msgstr "Send this Conference Proceedings Conference Proceedings Submission to internal review"
+
+msgid "grid.action.externalReview"
+msgstr "Send this Conference Proceedings Conference Proceedings Submission to external review"
+
+msgid "grid.action.sendToProduction"
+msgstr "Send this Conference Proceedings Conference Proceedings Submission to production"
+
+msgid "grid.action.viewMetadata"
+msgstr "View the metadata for this Conference Proceedings Conference Proceedings Submission"
+
+msgid "grid.action.bookInfo"
+msgstr "Conference Proceedings Submission Info"
+
+msgid "grid.libraryFiles.submission.title"
+msgstr "Conference Proceedings Submission Library"
+
+msgid "grid.submissionChecklist.title"
+msgstr "Conference Proceedings Submission Checklist"
+
+msgid "grid.artworkFile.placement"
+msgstr "Placement in Conference Proceedings Conference Proceedings Submission"
+
+msgid "grid.submission.active.selectOrphaned"
+msgstr "Include incomplete Conference Proceedings Conference Proceedings Conference Proceedings Submissions not submitted by an author."

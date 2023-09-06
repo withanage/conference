@@ -1,0 +1,429 @@
+
+msgid "user.authorization.journalDoesNotPublish"
+msgstr "This Conference Proceedings Series does not publish its content online."
+
+msgid "context.current"
+msgstr "Current Conference Proceedings Series:"
+
+msgid "context.select"
+msgstr "Switch to another Conference Proceedings Series:"
+
+msgid "common.software"
+msgstr "Open Conference Proceedings Series Systems"
+
+msgid "common.journalHomepageImage.altText"
+msgstr "Conference Proceedings Series Homepage Image"
+
+msgid "navigation.journalHelp"
+msgstr "Conference Proceedings Series Help"
+
+msgid "navigation.otherJournals"
+msgstr "Other Conference Proceedings Seriess"
+
+msgid "navigation.browseByIssue"
+msgstr "By Conference Proceedings Volume"
+
+msgid "navigation.skip.about"
+msgstr "Skip to about the Conference Proceedings Series"
+
+msgid "navigation.skip.issue"
+msgstr "Skip to the current Conference Proceedings Volume"
+
+msgid "common.queue.long.submissionsInEditing"
+msgstr "Conference Proceedings Conference Proceedings Submissions in Editing"
+
+msgid "common.queue.long.submissionsInReview"
+msgstr "Conference Proceedings Conference Proceedings Submissions in Review"
+
+msgid "section.abbreviation.example"
+msgstr "(For example, Conference Proceedings Submissions=ART)"
+
+msgid "article.article"
+msgstr "Conference Proceedings Submission"
+
+msgid "article.articles"
+msgstr "Conference Proceedings Submissions"
+
+msgid "common.publication"
+msgstr "Conference Proceedings Submission"
+
+msgid "common.publications"
+msgstr "Conference Proceedings Submissions"
+
+msgid "article.submissionId"
+msgstr "Conference Proceedings Submission ID"
+
+msgid "article.journalSection"
+msgstr "Conference Proceedings Series Section"
+
+msgid "article.submission"
+msgstr "Conference Proceedings Submission"
+
+msgid "article.submissions"
+msgstr "Conference Proceedings Conference Proceedings Submissions"
+
+msgid "article.return"
+msgstr "Return to Conference Proceedings Submission Details"
+
+msgid "submission.submissionEditing"
+msgstr "Conference Proceedings Submission Editing"
+
+msgid "submission.scheduledIn"
+msgstr "Scheduled for publication in {$Conference Proceedings VolumeName}."
+
+msgid "submission.search"
+msgstr "Conference Proceedings Submission Search"
+
+msgid "journal.currentIssue"
+msgstr "Current Conference Proceedings Volume"
+
+msgid "context.contexts"
+msgstr "Conference Proceedings Seriess"
+
+msgid "context.context"
+msgstr "Conference Proceedings Series"
+
+msgid "journal.viewAllIssues"
+msgstr "View All Conference Proceedings Volumes"
+
+msgid "user.noRoles.selectUsersWithoutRoles"
+msgstr "Include users with no roles in this Conference Proceedings Series."
+
+msgid "user.showAllJournals"
+msgstr "Show My Conference Proceedings Seriess"
+
+msgid "user.registerForOtherJournals"
+msgstr "Register for Other Conference Proceedings Seriess"
+
+msgid "user.reviewerPrompt"
+msgstr "Would you be willing to review Conference Proceedings Conference Proceedings Conference Proceedings Submissions to this Conference Proceedings Series?"
+
+msgid "user.register.contextsPrompt"
+msgstr "Which Conference Proceedings Seriess on this site would you like to register with?"
+
+msgid "user.myJournals"
+msgstr "My Conference Proceedings Seriess"
+
+msgid "user.noRoles.submitArticleRegClosed"
+msgstr "Submit an Conference Proceedings Submission: Author registration is currently disabled."
+
+msgid "user.role.manager"
+msgstr "Conference Proceedings Series Manager"
+
+msgid "user.role.managers"
+msgstr "Conference Proceedings Series Managers"
+
+msgid "user.role.journalAssistant"
+msgstr "Conference Proceedings Series Assistant"
+
+msgid "user.role.journalAssistants"
+msgstr "Conference Proceedings Series Assistants"
+
+msgid "issue.issue"
+msgstr "Conference Proceedings Volume"
+
+msgid "issue.issues"
+msgstr "Conference Proceedings Volumes"
+
+msgid "issue.noIssues"
+msgstr "No Conference Proceedings Volumes"
+
+msgid "issue.fullIssue"
+msgstr "Full Conference Proceedings Volume"
+
+msgid "issue.nonpdf.title"
+msgstr "Conference Proceedings Volume Download"
+
+msgid "issue.viewIssue"
+msgstr "View Conference Proceedings Volume"
+
+msgid "issue.return"
+msgstr "Return to Conference Proceedings Volume Details"
+
+msgid "submission.event.general.defaultEvent"
+msgstr "Conference Proceedings Submission event"
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Conference Proceedings Submission submitted"
+
+msgid "submission.event.general.issueScheduled"
+msgstr "Conference Proceedings Submission sent to Conference Proceedings Volume scheduling queue"
+
+msgid "submission.event.general.issueAssigned"
+msgstr "Conference Proceedings Submission assigned to Conference Proceedings Volume"
+
+msgid "submission.event.general.articlePublished"
+msgstr "Conference Proceedings Submission published"
+
+msgid "submission.event.editor.editorAssigned"
+msgstr "Editor assigned to Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.event.editor.editorUnassigned"
+msgstr "Editor unassigned from Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.event.editor.submissionArchived"
+msgstr "Conference Proceedings Submission sent to archive"
+
+msgid "submission.event.editor.submissionRestored"
+msgstr "Conference Proceedings Submission restored from archive"
+
+msgid "submission.event.copyedit.copyeditorAssigned"
+msgstr "Copyeditor assigned to Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.event.copyedit.copyeditorUnassigned"
+msgstr "Copyeditor unassigned from Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.event.proofread.proofreaderAssigned"
+msgstr "Proofreader assigned to Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.event.proofread.proofreaderUnassigned"
+msgstr "Proofreader unassigned from Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.event.layout.layoutEditorAssigned"
+msgstr "Layout editor assigned to Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.event.layout.layoutEditorUnassigned"
+msgstr "Layout editor unassigned from Conference Proceedings Conference Proceedings Submission"
+
+msgid "comments.commentsOnArticle"
+msgstr "Comments on this Conference Proceedings Submission"
+
+msgid "search.results.orderBy.article"
+msgstr "Conference Proceedings Submission Title"
+
+msgid "search.results.orderBy.issue"
+msgstr "Conference Proceedings Volume"
+
+msgid "search.results.orderBy.journal"
+msgstr "Conference Proceedings Series Title"
+
+msgid "plugins.categories.viewableFiles"
+msgstr "Conference Proceedings Submission Galley Plugins"
+
+msgid "sectionEditor.noneAssigned"
+msgstr "No Conference Proceedings Conference Proceedings Conference Proceedings Submissions assigned."
+
+msgid "sectionEditor.regrets.title"
+msgstr "#{$Conference Proceedings Conference Proceedings SubmissionId} Reviewer Regrets, Cancellations & Earlier Rounds"
+
+msgid "reviewer.pendingReviews"
+msgstr "Conference Proceedings Submissions Pending Review"
+
+msgid "reviewer.article.submissionEditor"
+msgstr "Conference Proceedings Submission Editor"
+
+msgid "reviewer.article.decision.accept"
+msgstr "Accept Conference Proceedings Submission"
+
+msgid "reviewer.article.decision.decline"
+msgstr "Decline Conference Proceedings Submission"
+
+msgid "reviewer.article.submissionToBeReviewed"
+msgstr "Conference Proceedings Submission To Be Reviewed"
+
+msgid "reviewer.article.notifyEditorA"
+msgstr "Notify the Conference Proceedings Conference Proceedings Submission's editor"
+
+msgid "reviewer.article.enterReviewA"
+msgstr "Click on icon to enter (or paste) your review of this Conference Proceedings Conference Proceedings Submission."
+
+msgid "submission.logType.article"
+msgstr "Conference Proceedings Submission"
+
+msgid "user.register.selectContext"
+msgstr "Select a Conference Proceedings Series to register with:"
+
+msgid "user.register.noJournals"
+msgstr "There are no Conference Proceedings Seriess you may register with on this site."
+
+msgid "user.register.registrationDisabled"
+msgstr "This Conference Proceedings Series is currently not accepting user registrations."
+
+msgid "user.register.readerDescription"
+msgstr "Notified by email on publication of an Conference Proceedings Volume of the Conference Proceedings Series."
+
+msgid "user.register.openAccessNotificationDescription"
+msgstr "Notified by email when an Conference Proceedings Volume of the Conference Proceedings Series is made open access."
+
+msgid "user.register.authorDescription"
+msgstr "Able to submit items to the Conference Proceedings Series."
+
+msgid "user.register.reviewerDescriptionNoInterests"
+msgstr "Willing to conduct peer review of Conference Proceedings Conference Proceedings Conference Proceedings Submissions to the Conference Proceedings Series."
+
+msgid "user.register.reviewerDescription"
+msgstr "Willing to conduct peer review of Conference Proceedings Conference Proceedings Conference Proceedings Submissions to the site."
+
+msgid "search.searchFor"
+msgstr "Search Conference Proceedings Submissions for"
+
+msgid "search.allJournals"
+msgstr "All Conference Proceedings Seriess"
+
+msgid "article.nonpdf.title"
+msgstr "Conference Proceedings Submission Download"
+
+msgid "site.journalsHosted"
+msgstr "Conference Proceedings Seriess hosted on this site"
+
+msgid "site.journalView"
+msgstr "View Conference Proceedings Series"
+
+msgid "site.journalCurrent"
+msgstr "Current Conference Proceedings Volume"
+
+msgid "site.noJournals"
+msgstr "There are no Conference Proceedings Seriess available."
+
+msgid "current.noCurrentIssue"
+msgstr "No Current Conference Proceedings Volume"
+
+msgid "current.noCurrentIssueDesc"
+msgstr "This Conference Proceedings Series has not published any Conference Proceedings Volumes."
+
+msgid "archive.browse"
+msgstr "Browse through the older Conference Proceedings Volumes"
+
+msgid "archive.issueUnavailable"
+msgstr "Conference Proceedings Volume Unavailable"
+
+msgid "about.aboutContext"
+msgstr "About the Conference Proceedings Series"
+
+msgid "about.history"
+msgstr "Conference Proceedings Series History"
+
+msgid "about.submissions"
+msgstr "Conference Proceedings Conference Proceedings Submissions"
+
+msgid "about.onlineSubmissions.registrationRequired"
+msgstr "{$login} or {$register} to make a Conference Proceedings Conference Proceedings Submission."
+
+msgid "about.onlineSubmissions.submissionActions"
+msgstr "{$newSubmission} or {$viewConference Proceedings Conference Proceedings Submissions}."
+
+msgid "about.onlineSubmissions.submitToSection"
+msgstr "Make a new Conference Proceedings Conference Proceedings Submission to the <a href=\"{$url}\">{$name}</a> section."
+
+msgid "about.onlineSubmissions.newSubmission"
+msgstr "Make a new Conference Proceedings Conference Proceedings Submission"
+
+msgid "about.onlineSubmissions.viewSubmissions"
+msgstr "view your pending Conference Proceedings Conference Proceedings Conference Proceedings Submissions"
+
+msgid "about.submissionPreparationChecklist"
+msgstr "Conference Proceedings Submission Preparation Checklist"
+
+msgid "about.authorFeesMessage"
+msgstr "This Conference Proceedings Series charges the following author fees."
+
+msgid "about.delayedOpenAccessDescription2"
+msgstr "month(s) after an Conference Proceedings Volume is published."
+
+msgid "about.aboutSoftware"
+msgstr "About Open Conference Proceedings Series Systems"
+
+msgid "help.ojsHelp"
+msgstr "Open Conference Proceedings Series Systems Help"
+
+msgid "payment.type.submission"
+msgstr "Conference Proceedings Submission Fee"
+
+msgid "payment.type.purchaseArticle"
+msgstr "Purchase Conference Proceedings Submission Fee"
+
+msgid "payment.type.purchaseIssue"
+msgstr "Purchase Conference Proceedings Volume Fee"
+
+msgid "payment.submission.paySubmission"
+msgstr "Pay Conference Proceedings Submission Fee"
+
+msgid "installer.installApplication"
+msgstr "Install Open Conference Proceedings Series Systems"
+
+msgid "installer.upgradeApplication"
+msgstr "Upgrade Open Conference Proceedings Series Systems"
+
+msgid "log.review.resubmit"
+msgstr "The submission {$Conference Proceedings Conference Proceedings SubmissionId} has been resubmitted for review."
+
+msgid "log.copyedit.copyeditorFile"
+msgstr "A copyeditor version of the Conference Proceedings Conference Proceedings Submission file has been uploaded."
+
+msgid "log.editor.metadataModified"
+msgstr "The metadata for this Conference Proceedings Submission was modified by {$editorName}."
+
+msgid "log.editor.editorFile"
+msgstr "An editor version of the Conference Proceedings Conference Proceedings Submission file has been uploaded."
+
+msgid "log.editor.archived"
+msgstr "The submission {$Conference Proceedings Conference Proceedings SubmissionId} has been archived."
+
+msgid "log.editor.restored"
+msgstr "The submission {$Conference Proceedings Conference Proceedings SubmissionId} has been restored to the queue."
+
+msgid "log.proofread.complete"
+msgstr "{$proofreaderName} has submitted {$Conference Proceedings Conference Proceedings SubmissionId} for scheduling."
+
+msgid "log.imported"
+msgstr "{$userName} has imported Conference Proceedings Submission {$Conference Proceedings Conference Proceedings SubmissionId}."
+
+msgid "metadata.pkp.peerReviewed"
+msgstr "Peer-reviewed Conference Proceedings Submission"
+
+msgid "notification.type.submissionSubmitted"
+msgstr "A new Conference Proceedings Submission, \"{$title},\" has been submitted."
+
+msgid "notification.type.issuePublished"
+msgstr "An Conference Proceedings Volume has been published."
+
+msgid "notification.type.submissions"
+msgstr "Conference Proceedings Submission Events"
+
+msgid "notification.savedIssueMetadata"
+msgstr "Conference Proceedings Volume publication metadata saved."
+
+msgid "user.authorization.noContext"
+msgstr "No Conference Proceedings Series in context!"
+
+msgid "user.authorization.sectionAssignment"
+msgstr "You are trying to access an Conference Proceedings Submission that is not part of your section."
+
+msgid "user.authorization.invalidIssue"
+msgstr "Invalid Conference Proceedings Volume requested!"
+
+msgid "user.authorization.invalidCopyditorSubmission"
+msgstr "Invalid copyeditor submission or no copyeditor Conference Proceedings Conference Proceedings Submission requested!"
+
+msgid "grid.action.createContext"
+msgstr "Create a New Conference Proceedings Series"
+
+msgid "editor.navigation.issues"
+msgstr "Conference Proceedings Volumes"
+
+msgid "user.profile.form.showOtherContexts"
+msgstr "Register with other Conference Proceedings Seriess"
+
+msgid "user.profile.form.hideOtherContexts"
+msgstr "Hide other Conference Proceedings Seriess"
+
+msgid "article.view.interstitial"
+msgstr "Please choose an Conference Proceedings Submission file to download."
+
+msgid "search.cli.rebuildIndex.indexing"
+msgstr "Indexing \"{$Conference Proceedings SeriesName}\""
+
+msgid "search.cli.rebuildIndex.indexingByJournalNotSupported"
+msgstr "This search implementation does not allow per-Conference Proceedings Series re-indexing."
+
+msgid "editor.issues.backIssues"
+msgstr "Back Conference Proceedings Volumes"
+
+msgid "editor.issues.futureIssues"
+msgstr "Future Conference Proceedings Volumes"
+
+msgid "catalog.sortBy"
+msgstr "Order of Conference Proceedings Submissions"
+
+msgid "catalog.sortBy.categoryDescription"
+msgstr "Choose how to order Conference Proceedings Submissions in this category."

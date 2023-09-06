@@ -1,0 +1,183 @@
+
+msgid "submission.submit.contactConsentDescription"
+msgstr "Yes, I would like to be contacted about this Conference Proceedings Conference Proceedings Submission."
+
+msgid "submission.submit.submissionChecklist"
+msgstr "Conference Proceedings Submission Requirements"
+
+msgid "submission.submit.submissionComplete"
+msgstr "Conference Proceedings Submission complete"
+
+msgid "submission.submit.whatNext.review"
+msgstr "Review this Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.submit.whatNext.create"
+msgstr "Create a new Conference Proceedings Conference Proceedings Submission"
+
+msgid "metadata.property.displayName.article-title"
+msgstr "Conference Proceedings Submission/Paper Title"
+
+msgid "metadata.property.validationMessage.article-title"
+msgstr "Please enter a valid Conference Proceedings Submission/paper title."
+
+msgid "metadata.property.displayName.issue"
+msgstr "Conference Proceedings Volume"
+
+msgid "metadata.property.validationMessage.issue"
+msgstr "Please enter a valid Conference Proceedings Volume."
+
+msgid "common.queue.long.submissionsArchived"
+msgstr "Archived Conference Proceedings Conference Proceedings Submissions"
+
+msgid "submission.backToSubmissionEditing"
+msgstr "Back to Conference Proceedings Submission Editing"
+
+msgid "submission.email.confirmClearLog"
+msgstr "Are you sure you want to clear the email log for this Conference Proceedings Conference Proceedings Submission?"
+
+msgid "submission.event.confirmClearLog"
+msgstr "Are you sure you want to clear the event log for this Conference Proceedings Conference Proceedings Submission?"
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Initial Conference Proceedings Conference Proceedings Submission completed."
+
+msgid "submission.event.fileRevised"
+msgstr "Revision \"{$name}\" was uploaded for file {$Conference Proceedings Conference Proceedings SubmissionFileId}."
+
+msgid "submission.event.general.metadataUpdated"
+msgstr "Conference Proceedings Submission metadata updated"
+
+msgid "submission.event.general.suppFileUpdated"
+msgstr "Conference Proceedings Submission file updated"
+
+msgid "submission.event.reviewer.reviewerAssigned"
+msgstr "Reviewer assigned to Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.event.reviewer.reviewerUnassigned"
+msgstr "Reviewer unassigned from Conference Proceedings Conference Proceedings Submission"
+
+msgid "submission.history.submissionNotes"
+msgstr "Conference Proceedings Submission Notes"
+
+msgid "submission.informationCenter.submissionInfo"
+msgstr "Conference Proceedings Submission Info"
+
+msgid "submission.layout.viewingGalley"
+msgstr "Viewing Conference Proceedings Submission Galley"
+
+msgid "submission.metadata"
+msgstr "Conference Proceedings Submission Metadata"
+
+msgid "submission.notes.backToSubmissionNotes"
+msgstr "Back To Conference Proceedings Submission Notes"
+
+msgid "submission.notes.confirmDeleteAll"
+msgstr "Remove All Conference Proceedings Submission Notes?"
+
+msgid "submission.notes.confirmDelete"
+msgstr "Remove This Conference Proceedings Submission Note?"
+
+msgid "submission.notes.noSubmissionNotes"
+msgstr "No Conference Proceedings Submission Notes"
+
+msgid "submission.notes"
+msgstr "Conference Proceedings Submission Notes"
+
+msgid "submissions.noSubmissions"
+msgstr "No Conference Proceedings Conference Proceedings Submissions"
+
+msgid "submissions.queuedUnassigned"
+msgstr "No editor has been assigned to this Conference Proceedings Conference Proceedings Submission."
+
+msgid "submission.submission"
+msgstr "Conference Proceedings Submission"
+
+msgid "submission.submissionTitle"
+msgstr "Conference Proceedings Submission Title:"
+
+msgid "submission.submissionHistory"
+msgstr "Conference Proceedings Submission History"
+
+msgid "submission.submissionManuscript"
+msgstr "Conference Proceedings Submission Manuscript"
+
+msgid "submission.submissionReview"
+msgstr "Conference Proceedings Submission Review"
+
+msgid "submission.submit.finishSubmission"
+msgstr "Finish Conference Proceedings Submission"
+
+msgid "submission.submit.submissionLocale"
+msgstr "Conference Proceedings Submission Language"
+
+msgid "submission.submit.submissionFiles"
+msgstr "Conference Proceedings Submission Files"
+
+msgid "submission.submit.uploadSubmissionFile"
+msgstr "Upload Conference Proceedings Submission File"
+
+msgid "submission.upload.libraryCategory"
+msgstr "Conference Proceedings Submission Document Category"
+
+msgid "editor.submission.roundStatus.resubmitForReview"
+msgstr "The Conference Proceedings Conference Proceedings Submission must be resubmitted for another review round."
+
+msgid "editor.submission.roundStatus.submissionResubmitted"
+msgstr "Conference Proceedings Submission has been resubmitted for another review round."
+
+msgid "editor.submission.roundStatus.accepted"
+msgstr "Conference Proceedings Submission accepted."
+
+msgid "editor.submission.roundStatus.declined"
+msgstr "Conference Proceedings Submission declined."
+
+msgid "editor.submission.decision.accept"
+msgstr "Accept Conference Proceedings Submission"
+
+msgid "editor.submission.decision.decline"
+msgstr "Decline Conference Proceedings Submission"
+
+msgid "editor.submission.recommendation.description"
+msgstr "Recommend an editorial decision for this Conference Proceedings Conference Proceedings Submission."
+
+msgid "submission.overview"
+msgstr "Conference Proceedings Submission Overview"
+
+msgid "submission.documents"
+msgstr "Conference Proceedings Submission Documents"
+
+msgid "notification.type.editorAssign"
+msgstr "You have been assigned as an editor to the Conference Proceedings Conference Proceedings Submission \"{$title}\"."
+
+msgid "notification.type.editorDecisionAccept"
+msgstr "Conference Proceedings Submission accepted."
+
+msgid "notification.type.editorDecisionDecline"
+msgstr "Conference Proceedings Submission declined."
+
+msgid "notification.type.editorDecisionRevertDecline"
+msgstr "Declined Conference Proceedings Conference Proceedings Submission reactivated."
+
+msgid "notification.type.submissionNewVersion"
+msgstr "A new version of a Conference Proceedings Conference Proceedings Submission was created"
+
+msgid "notification.type.revertDecline"
+msgstr "The decision to decline this Conference Proceedings Conference Proceedings Submission was reverted."
+
+msgid "grid.action.itemWorkflow"
+msgstr "Go to this Conference Proceedings Conference Proceedings Submission's workflow"
+
+msgid "submission.attachPermissions"
+msgstr "Attach the following permissions to the Conference Proceedings Conference Proceedings Submission:"
+
+msgid "submission.list.empty"
+msgstr "No Conference Proceedings Conference Proceedings Conference Proceedings Submissions found."
+
+msgid "submission.list.confirmDelete"
+msgstr "Delete Conference Proceedings Conference Proceedings Submission?"
+
+msgid "submission.list.viewSubmission"
+msgstr "View Conference Proceedings Submission"
+
+msgid "submission.list.incompleteSubmissionNotice"
+msgstr "This Conference Proceedings Conference Proceedings Submission must be completed before an editor will review it."

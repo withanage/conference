@@ -1,0 +1,12 @@
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "View Conference Proceedings Conference Proceedings Submissions"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Make a New Conference Proceedings Submission"
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "Conference Proceedings Volume open access email notifications"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "New Conference Proceedings Volume published email notifications"

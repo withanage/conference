@@ -1,0 +1,45 @@
+
+msgid "section.default.title"
+msgstr "Conference Proceedings Submissions"
+
+msgid "default.genres.article"
+msgstr "Conference Proceedings Submission Text"
+
+msgid "default.contextSettings.checklist.notPreviouslyPublished"
+msgstr "The Conference Proceedings Conference Proceedings Submission has not been previously published, nor is it before another Conference Proceedings Series for consideration (or an explanation has been provided in Comments to the Editor)."
+
+msgid "default.contextSettings.checklist.fileFormat"
+msgstr "The Conference Proceedings Conference Proceedings Submission file is in OpenOffice, Microsoft Word, or RTF document file format."
+
+msgid "default.contextSettings.privacyStatement"
+msgstr "<p>The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this Conference Proceedings Series and will not be made available for any other purpose or to any other party.</p>"
+
+msgid "default.contextSettings.openAccessPolicy"
+msgstr "This Conference Proceedings Series provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge."
+
+msgid "default.contextSettings.forReaders"
+msgstr "We encourage readers to sign up for the publishing notification service for this journal. Use the <a href=\"{$indexUrl}/{$contextPath}/user/register\">Register</a> link at the top of the home page for the journal. This registration will result in the reader receiving the Table of Contents by email for each new Conference Proceedings Volume of the journal. This list also allows the journal to claim a certain level of support or readership. See the Conference Proceedings Series's <a href=\"{$indexUrl}/{$contextPath}/about/Conference Proceedings Conference Proceedings Conference Proceedings Submissions#privacyStatement\">Privacy Statement</a>, which assures readers that their name and email address will not be used for other purposes."
+
+msgid "default.contextSettings.forAuthors"
+msgstr "Interested in submitting to this journal? We recommend that you review the <a href=\"{$indexUrl}/{$contextPath}/about\">About the Conference Proceedings Series</a> page for the journal's section policies, as well as the <a href=\"{$indexUrl}/{$contextPath}/about/Conference Proceedings Conference Proceedings Conference Proceedings Submissions#authorGuidelines\">Author Guidelines</a>. Authors need to <a href=\"{$indexUrl}/{$contextPath}/user/register\">register</a> with the Conference Proceedings Series prior to submitting or, if already registered, can simply <a href=\"{$indexUrl}/index/login\">log in</a> and begin the five-step process."
+
+msgid "default.contextSettings.forLibrarians"
+msgstr "We encourage research librarians to list this journal among their library's electronic journal holdings. As well, it may be worth noting that this journal's open source publishing system is suitable for libraries to host for their faculty members to use with Conference Proceedings Seriess they are involved in editing (see <a href=\"http://pkp.sfu.ca/ojs\">Open Conference Proceedings Series Systems</a>)."
+
+msgid "default.contextSettings.lockssLicense"
+msgstr "This journal utilizes the LOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the Conference Proceedings Series for purposes of preservation and restoration. <a href=\"http://www.lockss.org/\">More...</a>"
+
+msgid "default.contextSettings.clockssLicense"
+msgstr "This journal utilizes the CLOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the Conference Proceedings Series for purposes of preservation and restoration. <a href=\"http://clockss.org/\">More...</a>"
+
+msgid "default.groups.name.manager"
+msgstr "Conference Proceedings Series manager"
+
+msgid "default.groups.plural.manager"
+msgstr "Conference Proceedings Series managers"
+
+msgid "default.groups.name.editor"
+msgstr "Conference Proceedings Series editor"
+
+msgid "default.groups.plural.editor"
+msgstr "Conference Proceedings Series editors"

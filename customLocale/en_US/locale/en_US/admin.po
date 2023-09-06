@@ -1,0 +1,33 @@
+
+msgid "admin.hostedContexts"
+msgstr "Hosted Conference Proceedings Seriess"
+
+msgid "admin.settings.redirect"
+msgstr "Conference Proceedings Series redirect"
+
+msgid "admin.journals.journalSettings"
+msgstr "Conference Proceedings Series Settings"
+
+msgid "admin.journals.noneCreated"
+msgstr "No Conference Proceedings Seriess have been created."
+
+msgid "admin.contexts.create"
+msgstr "Create Conference Proceedings Series"
+
+msgid "admin.contexts.form.pathExists"
+msgstr "The path you provided is already in use by another Conference Proceedings Series."
+
+msgid "admin.contexts.form.primaryLocaleNotSupported"
+msgstr "The primary locale must be one of the Conference Proceedings Series's supported locales."
+
+msgid "admin.journals.enableJournalInstructions"
+msgstr "Enable this Conference Proceedings Series to appear publicly on the site"
+
+msgid "admin.contexts.contextDescription"
+msgstr "Conference Proceedings Series description"
+
+msgid "admin.journal.pathImportInstructions"
+msgstr "Existing Conference Proceedings Series path or path to create (e.g., \"ojs\")."
+
+msgid "admin.journals.transcode"
+msgstr "Transcode Conference Proceedings Submission metadata from ISO8859-1"

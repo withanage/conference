@@ -1,0 +1,36 @@
+
+msgid "api.announcements.400.contextsNotMatched"
+msgstr "The announcement you requested is not part of this Conference Proceedings Series."
+
+msgid "api.emails.403.disabled"
+msgstr "The email notification feature has not been enabled for this Conference Proceedings Series."
+
+msgid "api.submissions.403.cantChangeContext"
+msgstr "You can not change the Conference Proceedings Series of a Conference Proceedings Conference Proceedings Submission."
+
+msgid "api.submissions.403.unpublishedIssues"
+msgstr "You do not have permission to view unpublished Conference Proceedings Volumes."
+
+msgid "api.contexts.403.requestedDisabledContexts"
+msgstr "You can only view Conference Proceedings Seriess that have been enabled."
+
+msgid "api.contexts.403.notAllowed"
+msgstr "You do not have permission to view this Conference Proceedings Series."
+
+msgid "api.contexts.403.requiresContext"
+msgstr "You can not edit this Conference Proceedings Series from the site-wide API."
+
+msgid "api.contexts.403.notAllowedEdit"
+msgstr "You do not have permission to edit this Conference Proceedings Series."
+
+msgid "api.contexts.403.notAllowedDelete"
+msgstr "You do not have permission to delete this Conference Proceedings Series."
+
+msgid "api.contexts.404.contextNotFound"
+msgstr "The Conference Proceedings Series you requested was not found."
+
+msgid "api.publications.403.contextsDidNotMatch"
+msgstr "The publication that you requested is not part of this Conference Proceedings Series."
+
+msgid "api.publications.403.submissionsDidNotMatch"
+msgstr "The publication that you requested is not part of this Conference Proceedings Conference Proceedings Submission."

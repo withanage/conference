@@ -1,0 +1,522 @@
+
+msgid "manager.distribution.copyrightYearBasis.description"
+msgstr "Choose how a default copyright date is selected for an Conference Proceedings Submission. This default can be overridden on a case-by-case basis. If you \"publish as you go\", don't use the Conference Proceedings Volume's publication date."
+
+msgid "manager.distribution.copyrightYearBasis.issue"
+msgstr "Use the Conference Proceedings Volume's publication date"
+
+msgid "manager.distribution.copyrightYearBasis.submission"
+msgstr "Use the Conference Proceedings Submission's publication date"
+
+msgid "manager.distribution.publishingMode.none"
+msgstr "OJS will not be used to publish the Conference Proceedings Series's contents online."
+
+msgid "manager.distribution.publishingMode.openAccess"
+msgstr "The Conference Proceedings Series will provide open access to its contents."
+
+msgid "manager.distribution.publishingMode.subscription"
+msgstr "The Conference Proceedings Series will require subscriptions to access some or all of its contents."
+
+msgid "manager.emails.confirmResetAll"
+msgstr "Are you sure you want to reset all email templates in this Conference Proceedings Series? You will lose any customizations you have made."
+
+msgid "manager.files.note"
+msgstr "Note: The Files Browser is an advanced feature that allows the files and directories associated with a Conference Proceedings Series to be viewed and manipulated directly."
+
+msgid "manager.journalManagement"
+msgstr "Conference Proceedings Series Management"
+
+msgid "manager.language.submissions"
+msgstr "Conference Proceedings Conference Proceedings Submissions"
+
+msgid "manager.language.confirmDefaultSettingsOverwrite"
+msgstr "This will replace any locale-specific Conference Proceedings Series settings you had for this locale"
+
+msgid "manager.languages.noneAvailable"
+msgstr "Sorry, no additional languages are available. Contact your site administrator if you wish to use additional languages with this Conference Proceedings Series."
+
+msgid "manager.languages.primaryLocaleInstructions"
+msgstr "This will be the default language for the Conference Proceedings Series site."
+
+msgid "manager.payment.generalFeesDescription"
+msgstr "The Association Membership will appear in About the Conference Proceedings Series under Policies."
+
+msgid "manager.payment.options.acceptSubscriptionPayments"
+msgstr "This will activate payments for Subscriptions, where types, cost, duration and subscriptions are managed by the Conference Proceedings Series (Subscription) Manager."
+
+msgid "manager.payment.options.enablePayments"
+msgstr "Payments will be enabled for this Conference Proceedings Series. Note that users will be required to log in to make payments."
+
+msgid "manager.payment.options.onlypdf"
+msgstr "Only Restrict Access to PDF version of Conference Proceedings Volumes and Conference Proceedings Submissions"
+
+msgid "manager.payment.options.publicationFee"
+msgstr "Conference Proceedings Submission Processing Charge"
+
+msgid "manager.payment.options.purchaseArticleFee"
+msgstr "Purchase Conference Proceedings Submission"
+
+msgid "manager.payment.options.purchaseIssueFee"
+msgstr "Purchase Conference Proceedings Volume"
+
+msgid "manager.payment.readerFeesDescription"
+msgstr "Selected options, along with their descriptions and fees (which can be edited below), will appear in About the Conference Proceedings Series under Policies, as well as at points where payment is required."
+
+msgid "manager.people.allEnrolledUsers"
+msgstr "Users Enrolled in this Conference Proceedings Series"
+
+msgid "manager.people.allJournals"
+msgstr "All Conference Proceedings Seriess"
+
+msgid "manager.people.allSiteUsers"
+msgstr "Enroll a User from this Site in this Conference Proceedings Series"
+
+msgid "manager.people.confirmRemove"
+msgstr "Remove this user from this journal? This action will unenroll the user from all roles within this Conference Proceedings Series."
+
+msgid "manager.people.enrollSyncJournal"
+msgstr "With Conference Proceedings Series"
+
+msgid "manager.people.mergeUsers.from.description"
+msgstr "Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any Conference Proceedings Conference Proceedings Conference Proceedings Submissions, assignments, etc. will be attributed to the second account."
+
+msgid "manager.people.syncUserDescription"
+msgstr "Enrollment synchronization will enroll all users enrolled in the specified role in the specified journal into the same role in this journal. This function allows a common set of users (e.g., Reviewers) to be synchronized between Conference Proceedings Seriess."
+
+msgid "manager.sections.alertDelete"
+msgstr "Before this section can be deleted, you must move Conference Proceedings Submissions submitted to it into other sections."
+
+msgid "manager.section.sectionEditorInstructions"
+msgstr "Add a Section Editor to this section to have Conference Proceedings Submissions automatically assigned to the Section Editor. (Otherwise, Section Editors can be assigned manually, after a submission comes in.) If added, a Section Editor can be automatically assigned to oversee the REVIEW (peer review) and/or the EDITING (copyediting, layout and proofreading) of Conference Proceedings Conference Proceedings Conference Proceedings Submissions to this section. Section Editors are created by clicking Section Editors under Roles in Conference Proceedings Series Management."
+
+msgid "manager.sections.hideTocAuthor"
+msgstr "Omit author names for section items from Conference Proceedings Volumes' table of contents."
+
+msgid "manager.sections.hideTocTitle"
+msgstr "Omit the title of this section from Conference Proceedings Volumes' table of contents."
+
+msgid "manager.sections.identifyTypeExamples"
+msgstr "(For example, \"Peer-reviewed Conference Proceedings Submission\", \"Non-refereed Book Review\", \"Invited Commentary\", etc.)"
+
+msgid "manager.sections.open"
+msgstr "Open Conference Proceedings Conference Proceedings Submissions"
+
+msgid "manager.sections.submissionIndexing"
+msgstr "Will not be included in the indexing of the Conference Proceedings Series"
+
+msgid "manager.section.submissionsToThisSection"
+msgstr "Conference Proceedings Conference Proceedings Submissions made to this section of the Conference Proceedings Series"
+
+msgid "manager.setup"
+msgstr "Conference Proceedings Series Settings"
+
+msgid "manager.setup.homepageContent"
+msgstr "Conference Proceedings Series Homepage Content"
+
+msgid "manager.setup.homepageContentDescription"
+msgstr "The Conference Proceedings Series homepage consists of navigation links by default. Additional homepage content can be appended by using one or all of the following options, which will appear in the order shown."
+
+msgid "manager.setup.useStyleSheet"
+msgstr "Conference Proceedings Series style sheet"
+
+msgid "manager.setup.contextName"
+msgstr "Conference Proceedings Series Name"
+
+msgid "manager.setup.pageHeader"
+msgstr "Conference Proceedings Series Page Header"
+
+msgid "manager.setup.addItemtoAboutJournal"
+msgstr "Add Item to Appear in \"About the Conference Proceedings Series\""
+
+msgid "manager.setup.appearInAboutJournal"
+msgstr "(To appear in About the Conference Proceedings Series) "
+
+msgid "manager.setup.competingInterests.requireAuthors"
+msgstr "Require submitting Authors to file a Competing Interest (CI) statement with their Conference Proceedings Conference Proceedings Submission."
+
+msgid "manager.setup.history"
+msgstr "Conference Proceedings Series History"
+
+msgid "manager.setup.historyDescription"
+msgstr "This text will appear in the \"About\" section of the journal website and can be used to describe changes in titles, editorial board, and other items of relevance to the Conference Proceedings Series's publication history."
+
+msgid "manager.setup.currentIssue"
+msgstr "Current Conference Proceedings Volume"
+
+msgid "manager.setup.details.description"
+msgstr "Name of Conference Proceedings Series, ISSN, contacts, sponsors, and search engines."
+
+msgid "manager.setup.disableUserRegistration"
+msgstr "The Conference Proceedings Series Manager will register all user accounts. Editors or Section Editors may register user accounts for reviewers."
+
+msgid "manager.setup.disciplineDescription"
+msgstr "Useful when Conference Proceedings Series crosses disciplinary boundaries and/or authors submit multidisciplinary items."
+
+msgid "manager.setup.disciplineProvideExamples"
+msgstr "Provide examples of relevant academic disciplines for this Conference Proceedings Series"
+
+msgid "manager.setup.displayCurrentIssue"
+msgstr "Add the table of contents for the current Conference Proceedings Volume (if available)."
+
+msgid "manager.setup.emailSignature.description"
+msgstr "The prepared emails that are sent by the system on behalf of the Conference Proceedings Series will have the following signature added to the end."
+
+msgid "manager.setup.enableAnnouncements.description"
+msgstr "Announcements may be published to inform readers of Conference Proceedings Series news and events. Published announcements will appear on the Announcements page."
+
+msgid "manager.setup.enableUserRegistration"
+msgstr "Visitors can register a user account with the Conference Proceedings Series."
+
+msgid "manager.setup.focusAndScope.description"
+msgstr "Describe to authors, readers, and librarians the range of Conference Proceedings Submissions and other items the Conference Proceedings Series will publish."
+
+msgid "manager.setup.forAuthorsToIndexTheirWorkDescription"
+msgstr "OJS adheres to the <a href=\"http://www.openarchives.org/\" target=\"_blank\">Open Archives Initiative</a> Protocol for Metadata Harvesting, which is the emerging standard for providing well-indexed access to electronic research resources on a global scale. The authors will use a similar template to provide metadata for their Conference Proceedings Conference Proceedings Submission. The Conference Proceedings Series Manager should select the categories for indexing and present authors with relevant examples to assist them in indexing their work."
+
+msgid "manager.setup.form.journalInitialsRequired"
+msgstr "The Conference Proceedings Series initials are required."
+
+msgid "manager.setup.form.journalTitleRequired"
+msgstr "The Conference Proceedings Series title is required."
+
+msgid "manager.setup.form.numReviewersPerSubmission"
+msgstr "The number of reviewers per Conference Proceedings Conference Proceedings Submission is required."
+
+msgid "manager.setup.guidingSubmissions"
+msgstr "Step 3. Guiding Conference Proceedings Conference Proceedings Submissions"
+
+msgid "manager.setup.identity"
+msgstr "Conference Proceedings Series Identity"
+
+msgid "manager.setup.includeCreativeCommons"
+msgstr "For Conference Proceedings Seriess that offer immediate or delayed open access, include a Creative Commons license with all published work at the appropriate time."
+
+msgid "manager.setup.information.description"
+msgstr "Brief descriptions of the Conference Proceedings Series for librarians and prospective authors and readers. These are made available in the site's sidebar when the Information block has been added."
+
+msgid "manager.setup.initialIssue"
+msgstr "Initial Conference Proceedings Volume"
+
+msgid "manager.setup.initialIssueDescription"
+msgstr "Depending on the format selected, identify the issue, volume, and/or year of the first Conference Proceedings Volume to be published with OJS:"
+
+msgid "manager.setup.itemsPerPage.description"
+msgstr "Limit the number of items (for example, Conference Proceedings Conference Proceedings Conference Proceedings Submissions, users, or editing assignments) to show in a list before showing subsequent items in another page."
+
+msgid "manager.setup.journalAbbreviation"
+msgstr "Conference Proceedings Series Abbreviation"
+
+msgid "manager.setup.journalArchiving"
+msgstr "Conference Proceedings Series Archiving"
+
+msgid "manager.setup.contextSummary"
+msgstr "Conference Proceedings Series Summary"
+
+msgid "manager.setup.contextAbout"
+msgstr "About the Conference Proceedings Series"
+
+msgid "manager.setup.contextAbout.description"
+msgstr "Include any information about your journal which may be of interest to readers, authors or reviewers. This could include your open access policy, the focus and scope of the journal, copyright notice, sponsorship disclosure, history of the Conference Proceedings Series, a privacy statement, and inclusion in any LOCKSS or CLOCKSS archival system."
+
+msgid "manager.setup.journalHomepageContent"
+msgstr "Conference Proceedings Series Homepage Content"
+
+msgid "manager.setup.journalHomepageContentDescription"
+msgstr "By default, the homepage consists of navigation links. Additional homepage content can be appended by using one or all of the following options, which will appear in the order shown. Note that the current Conference Proceedings Volume is always accessible through the Current link in the navigation bar."
+
+msgid "manager.setup.journalHomepageHeader"
+msgstr "Conference Proceedings Series Homepage Header"
+
+msgid "manager.setup.journalHomepageHeader.altText"
+msgstr "Conference Proceedings Series Homepage Header"
+
+msgid "manager.setup.journalHomepageHeaderDescription"
+msgstr "A graphic version of the Conference Proceedings Series's title and logo (as a .gif, .jpg, or .png file) can be uploaded for the homepage, which will replace the text version that otherwise appears."
+
+msgid "manager.setup.contextInitials"
+msgstr "Conference Proceedings Series initials"
+
+msgid "manager.setup.journalLayout"
+msgstr "Conference Proceedings Series Layout"
+
+msgid "manager.setup.journalLayoutDescription"
+msgstr "Choose a journal theme and select layout components here. A Conference Proceedings Series stylesheet may also be uploaded, which can be used to override style data in the system-wide stylesheets and theme stylesheet (if a theme is chosen)."
+
+msgid "manager.setup.journalLogo"
+msgstr "Conference Proceedings Series Logo"
+
+msgid "manager.setup.journalLogo.altText"
+msgstr "Conference Proceedings Series Logo"
+
+msgid "manager.setup.journalPageFooter"
+msgstr "Conference Proceedings Series Page Footer"
+
+msgid "manager.setup.journalPageFooterDescription"
+msgstr "This is the footer of your Conference Proceedings Series. To change or update the footer, paste the HTML code in the textbox below. Examples could be another navigation bar, a counter, etc. This footer will appear on every page."
+
+msgid "manager.setup.journalPolicies"
+msgstr "Step 2. Conference Proceedings Series Policies"
+
+msgid "manager.setup.journalSetup"
+msgstr "Conference Proceedings Series Setup"
+
+msgid "manager.setup.journalSetupUpdated"
+msgstr "Your Conference Proceedings Series setup has been updated."
+
+msgid "manager.setup.journalStyleSheetInvalid"
+msgstr "Invalid Conference Proceedings Series stylesheet format. Accepted format is .css."
+
+msgid "manager.setup.journalTheme"
+msgstr "Conference Proceedings Series Theme"
+
+msgid "manager.setup.journalThumbnail"
+msgstr "Conference Proceedings Series thumbnail"
+
+msgid "manager.setup.journalThumbnail.description"
+msgstr "A small logo or representation of the journal that can be used in lists of Conference Proceedings Seriess."
+
+msgid "manager.setup.contextTitle"
+msgstr "Conference Proceedings Series title"
+
+msgid "manager.setup.keyInfo.description"
+msgstr "Provide a short description of your Conference Proceedings Series and identify editors, managing directors and other members of your editorial team."
+
+msgid "manager.setup.plnDescription"
+msgstr "The PKP Preservation Network (PN) provides free preservation services for any OJS Conference Proceedings Series that meets a few basic criteria."
+
+msgid "manager.setup.plnPluginNotInstalled"
+msgstr "The PKP Preservation Network (PN) provides free preservation services for any OJS journal that meets a few basic criteria. To archive your Conference Proceedings Series in the PN, ask your administrator to install the PKP|PN Plugin from the Plugin Gallery."
+
+msgid "manager.setup.lockssEnable"
+msgstr "Enable LOCKSS to store and distribute Conference Proceedings Series content at participating libraries via a LOCKSS <a href=\"{$lockssUrl}\" target=\"_blank\">Publisher Manifest</a> page."
+
+msgid "manager.setup.lockssLicenseDescription"
+msgstr "A LOCKSS license will appear in About the Conference Proceedings Series under Archiving: <a href=\"http://www.lockss.org/community/publishers-titles-gln/\" target=\"_blank\">LOCKSS License</a>"
+
+msgid "manager.setup.lockssRegister"
+msgstr "Identify 6-10 libraries that will register and cache the Conference Proceedings Series. For example, turn to institutions where editors or Board members work and/or institutions already participating in LOCKSS. See <a href=\"http://www.lockss.org/community/\" target=\"_blank\">the LOCKSS community</a>."
+
+msgid "manager.setup.clockssEnable"
+msgstr "Enable CLOCKSS to store and distribute Conference Proceedings Series content at participating libraries via a CLOCKSS <a href=\"{$clockssUrl}\" target=\"_blank\">Publisher Manifest</a> page."
+
+msgid "manager.setup.clockssLicenseDescription"
+msgstr "A CLOCKSS license will appear in About the Conference Proceedings Series under Archiving: <a href=\"http://clockss.org/\" target=\"_blank\">CLOCKSS License</a>"
+
+msgid "manager.setup.look.description"
+msgstr "Homepage header, content, Conference Proceedings Series header, footer, navigation bar, and style sheet."
+
+msgid "manager.setup.managingTheJournal"
+msgstr "Step 4. Managing the Conference Proceedings Series"
+
+msgid "manager.setup.navItemIsLiteral"
+msgstr "The label value is a literal string (e.g., \"Conference Proceedings Series Setup\") rather than a localization message key (e.g., \"manager.setup\")"
+
+msgid "manager.setup.notifications.submissionAckDisabled"
+msgstr "<strong>Note:</strong> The Conference Proceedings Submission acknowledgement email is currently disabled. To use this feature, enable the \"Conference Proceedings Submission Ack\" email in Emails."
+
+msgid "manager.setup.proofingInstructionsDescription"
+msgstr "The Proofreading Instructions will be made available to Proofreaders, Authors, Layout Editors, and Section Editors in the Conference Proceedings Submission Editing stage. Below is a default set of instructions in HTML, which can be edited or replaced by the Conference Proceedings Series Manager at any point (in HTML or plain text)."
+
+msgid "manager.setup.publicationScheduleDescription"
+msgstr "Journal items can be published collectively, as part of an Conference Proceedings Volume with its own Table of Contents. Alternatively, individual items can be published as soon as they are ready, by adding them to the \"current\" volume's Table of Contents. Provide readers, in About the Conference Proceedings Series, with a statement about the system this Conference Proceedings Series will use and its expected frequency of publication."
+
+msgid "manager.setup.publicIdentifier"
+msgstr "Identification of Conference Proceedings Series Content"
+
+msgid "manager.setup.restrictSiteAccess"
+msgstr "Users must be registered and log in to view the Conference Proceedings Series site."
+
+msgid "manager.setup.reviewOptions.restrictReviewerFileAccess.description"
+msgstr "Reviewers will not be given access to the Conference Proceedings Conference Proceedings Submission file until they have agreed to review it."
+
+msgid "manager.setup.searchDescription.description"
+msgstr "Provide a brief description (50-300 characters) of the journal which search engines can display when listing the Conference Proceedings Series in search results."
+
+msgid "manager.setup.sectionsDefaultSectionDescription"
+msgstr "(If sections are not added, then items are submitted to the Conference Proceedings Submissions section by default.)"
+
+msgid "manager.setup.sectionsDescription"
+msgstr "To create or modify sections for the journal (e.g., Conference Proceedings Submissions, Book Reviews, etc.), go to Section Management.<br /><br />Authors on submitting items to the Conference Proceedings Series will designate..."
+
+msgid "manager.setup.selectEditorDescription"
+msgstr "The Conference Proceedings Series editor who will see it through the editorial process."
+
+msgid "manager.setup.selectSectionDescription"
+msgstr "The Conference Proceedings Series section for which the item will be considered."
+
+msgid "manager.setup.siteAccess.viewContent"
+msgstr "View Conference Proceedings Submission Content"
+
+msgid "manager.setup.stepsToJournalSite"
+msgstr "Five Steps to a Conference Proceedings Series Web Site"
+
+msgid "manager.setup.submissionGuidelines"
+msgstr "Conference Proceedings Submission guidelines"
+
+msgid "manager.setup.submissionPreparationChecklist"
+msgstr "Conference Proceedings Submission Preparation Checklist"
+
+msgid "manager.setup.submissionPreparationChecklistDescription"
+msgstr "On making a submission to the Conference Proceedings Series, authors are first asked to check each item on the Submission Preparation Checklist as completed, before proceeding. The checklist also appears in the Author Guidelines, under About the Conference Proceedings Series. The list can be edited below, but all items on the list will require a checkmark before authors can proceed with their Conference Proceedings Conference Proceedings Submission."
+
+msgid "manager.setup.submissions"
+msgstr "Conference Proceedings Conference Proceedings Submissions"
+
+msgid "manager.setup.disableSubmissions.description"
+msgstr "Prevent users from submitting new Conference Proceedings Submissions to the journal. Conference Proceedings Conference Proceedings Submissions can be disabled for individual journal sections on the <a href=\"{$url}\">Conference Proceedings Series sections</a> settings page."
+
+msgid "manager.setup.disableSubmissions.notAccepting"
+msgstr "This Conference Proceedings Series is not accepting Conference Proceedings Submissions at this time. Visit the workflow settings to allow Conference Proceedings Conference Proceedings Conference Proceedings Submissions."
+
+msgid "manager.setup.uniqueIdentifierDescription"
+msgstr "Conference Proceedings Submissions and Conference Proceedings Volumes can be tagged with an identification number or string, employing a registration system such as the Digital Object Identifier System (DOI)."
+
+msgid "manager.setup.useEditorialReviewBoard"
+msgstr "An editorial/review board will be used by the Conference Proceedings Series."
+
+msgid "manager.statistics.statistics"
+msgstr "Conference Proceedings Series Statistics"
+
+msgid "manager.statistics.statistics.articleViews"
+msgstr "Conference Proceedings Submission View Counts (for Authors only)"
+
+msgid "manager.statistics.statistics.description"
+msgstr "OJS calculates the following statistics for each Conference Proceedings Series. The \"days to review\" is calculated from date of submission (or designation of Review Version) to the initial Editor Decision, while the \"days to publish\" is measured for accepted Conference Proceedings Conference Proceedings Conference Proceedings Submissions from its original uploading to its publication."
+
+msgid "manager.statistics.statistics.makePublic"
+msgstr "Check items to be made available to readers in About the Conference Proceedings Series."
+
+msgid "manager.statistics.statistics.note"
+msgstr "Note: Percentages for peer reviewed Conference Proceedings Conference Proceedings Conference Proceedings Submissions may not add up to 100%, as items resubmitted are either accepted, declined, or still in process."
+
+msgid "manager.statistics.statistics.numIssues"
+msgstr "Conference Proceedings Volumes published"
+
+msgid "manager.statistics.statistics.numSubmissions"
+msgstr "Total Conference Proceedings Conference Proceedings Conference Proceedings Submissions"
+
+msgid "manager.statistics.statistics.selectSections"
+msgstr "Select the sections for calculating this Conference Proceedings Series's peer-reviewed statistics."
+
+msgid "manager.statistics.reports.defaultReport.articleDownloads"
+msgstr "Conference Proceedings Submission file downloads"
+
+msgid "manager.statistics.reports.defaultReport.articleAbstract"
+msgstr "Conference Proceedings Submission abstract page views"
+
+msgid "manager.statistics.reports.defaultReport.articleAbstractAndDownloads"
+msgstr "Conference Proceedings Submission abstract page views and downloads"
+
+msgid "manager.statistics.reports.defaultReport.journalIndexPageViews"
+msgstr "Conference Proceedings Series main page views"
+
+msgid "manager.statistics.reports.defaultReport.issuePageViews"
+msgstr "Conference Proceedings Volume table of contents page views"
+
+msgid "manager.statistics.reports.filters.byContext.description"
+msgstr "Narrow results by context (Conference Proceedings Volumes and/or Conference Proceedings Submission)."
+
+msgid "manager.statistics.reports.filters.byObject.description"
+msgstr "Narrow results by object type (Conference Proceedings Series, Conference Proceedings Volume, Conference Proceedings Submission, file types) and/or by one or more object id(s)."
+
+msgid "manager.subscriptionPolicies.expiryRemindersDescription"
+msgstr "Automated email reminders (available for editing by Conference Proceedings Series Managers in OJS's Emails) can be sent to subscribers both before and after a subscription has expired."
+
+msgid "manager.subscriptionPolicies.openAccessNotificationDescription"
+msgstr "Registered readers will have the option of receiving the table of contents by email when an Conference Proceedings Volume becomes open access."
+
+msgid "manager.subscriptionPolicies.onlinePaymentNotificationsDescription"
+msgstr "Automated email notifications (available for editing by Conference Proceedings Series Managers in OJS's Emails) can be sent to the Subscription Manager upon the completion of subscription online payments."
+
+msgid "manager.subscriptionPolicies.onlinePaymentDisabled"
+msgstr "<strong>Note:</strong> To enable these options, the Conference Proceedings Series Manager must enable the online payments module, including online payments for subscriptions, under Reader Fees."
+
+msgid "manager.subscriptionPolicies.openAccessOptions"
+msgstr "Open Access Options For Subscription Conference Proceedings Seriess"
+
+msgid "manager.subscriptionPolicies.openAccessOptionsDescription"
+msgstr "Subscription Conference Proceedings Seriess can provide \"delayed open access\" to their published content, as well as permit \"author self-archiving\" (both of which increase readership and citation of content)."
+
+msgid "manager.subscriptions.form.subscriptionContactRequired"
+msgstr "In order to send the user a notification email, the subscription contact name and email address must be specified in the Conference Proceedings Series Setup."
+
+msgid "manager.subscriptions.form.subscriptionExists"
+msgstr "This user already has a subscription for this Conference Proceedings Series."
+
+msgid "manager.subscriptions.selectSubscriber.desc"
+msgstr "Subscription access privileges are automatically granted to the Conference Proceedings Series's Conference Proceedings Series Managers, Editors, Section Editors, Layout Editors, Copyeditors, and Proofreaders."
+
+msgid "manager.setup.categories.description"
+msgstr "Choose the most appropriate categories from the set listed above. Readers will be able to browse by category from the complete Conference Proceedings Series set."
+
+msgid "manager.setup.section.description"
+msgstr "Conference Proceedings Submissions within published Conference Proceedings Volumes of a Conference Proceedings Series are organized in Sections, typically by theme or content type (e.g. Review Conference Proceedings Submissions, Research, etc)."
+
+msgid "settings.roles.gridDescription"
+msgstr "Roles are groups of users in the journal who are given access to different permission levels and associated workflows within the journal. There are five different permission levels: Journal Managers have access to everything in the Conference Proceedings Series (all content and settings); Section Editors have complete access to all assigned content; Conference Proceedings Series Assistants have limited access to all submissions that have been explicitly assigned to them by an editor; Reviewers can see and perform the Conference Proceedings Submissions they have been assigned to review; and Authors can see and interact with a limited amount of information on their own Conference Proceedings Conference Proceedings Submissions. Additionally, there are five different stage assignments that roles may be given access to: Conference Proceedings Submission, Internal Review, Review, Editorial, and Production."
+
+msgid "manager.setup.copyrightYearBasis"
+msgstr "Base new Conference Proceedings Submission's copyright year on"
+
+msgid "manager.setup.copyrightYearBasis.article"
+msgstr "Conference Proceedings Submission: default year will be drawn from the Conference Proceedings Submission's publication date, as in \"publish-as-you-go\"."
+
+msgid "manager.setup.copyrightYearBasis.issue"
+msgstr "Conference Proceedings Volume: default year will be drawn from the Conference Proceedings Volume's publication date."
+
+msgid "manager.setup.resetPermissions"
+msgstr "Reset Conference Proceedings Submission Permissions"
+
+msgid "manager.setup.resetPermissions.confirm"
+msgstr "Are you sure you wish to reset permissions data for all Conference Proceedings Submissions? This action can not be undone."
+
+msgid "manager.setup.resetPermissions.description"
+msgstr "Remove the copyright statement and license information for every published article, reverting them to the journal's current default settings. This will permanently remove all prior copyright and licensing information attached to Conference Proceedings Submissions. In some cases, you may not be legally permitted to re-license work that has been published under a different license. Please take caution when using this tool and consult legal expertise if you are unsure what rights you hold over the Conference Proceedings Submissions published in your Conference Proceedings Series."
+
+msgid "manager.setup.resetPermissions.success"
+msgstr "Conference Proceedings Submission permissions were successfully reset."
+
+msgid "grid.genres.title"
+msgstr "Conference Proceedings Submission Components"
+
+msgid "grid.genres.description"
+msgstr "These components are used for file-naming purposes and are presented in a pull-down menu on uploading files. The genres designated ## allow the user to associate the file with either the whole Conference Proceedings Conference Proceedings Submission 99Z or a particular component by number (e.g., 02)."
+
+msgid "plugins.importexport.common.export.articles"
+msgstr "Conference Proceedings Submissions"
+
+msgid "plugins.importexport.common.export.issues"
+msgstr "Conference Proceedings Volumes"
+
+msgid "plugins.importexport.common.filter.issue"
+msgstr "Any Conference Proceedings Volume"
+
+msgid "plugins.importexport.common.senderTask.warning.noDOIprefix"
+msgstr "DOI prefix is missing for the Conference Proceedings Series with the path {$path}."
+
+msgid "plugins.importexport.common.error.unknownJournal"
+msgstr "The specified journal path, \"{$Conference Proceedings SeriesPath}\", does not exist."
+
+msgid "plugins.importexport.common.error.import.issueGalleyFileMissing"
+msgstr "An Conference Proceedings Volume galley could not be imported, its file is missing."
+
+msgid "plugins.importexport.common.error.issueGalleyFileMissing"
+msgstr "The Conference Proceedings Volume galley {$id} could not be exported, its file was not found at the path \"{$path}\"."
+
+msgid "plugins.importexport.common.error.issueCoverImageMissing"
+msgstr "The cover image of the Conference Proceedings Volume {$id} was not exported, its file was not found at the path \"{$path}\"."
+
+msgid "manager.setup.notifications.copyPrimaryContact"
+msgstr "Send a copy to the primary contact, identified in the Conference Proceedings Series Settings."
+
+msgid "stats.publicationStats"
+msgstr "Conference Proceedings Submission Stats"
+
+msgid "stats.publications.details"
+msgstr "Conference Proceedings Submission Details"
+
+msgid "stats.publications.none"
+msgstr "No Conference Proceedings Submissions were found with usage statistics matching these parameters."
+
+msgid "stats.publications.countOfTotal"
+msgstr "{$count} of {$total} Conference Proceedings Submissions"

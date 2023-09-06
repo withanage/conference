@@ -1,0 +1,156 @@
+
+msgid "emails.userRegister.subject"
+msgstr "Conference Proceedings Series Registration"
+
+msgid "emails.publishNotify.subject"
+msgstr "New Conference Proceedings Volume Published"
+
+msgid "emails.publishNotify.description"
+msgstr "This email is sent to registered readers via the \"Notify Users\" link in the Editor's User Home. It notifies readers of a new Conference Proceedings Volume and invites them to visit the Conference Proceedings Series at a supplied URL."
+
+msgid "emails.lockssExistingArchive.description"
+msgstr "This email requests the keeper of a LOCKSS archive to consider including this journal in their archive. It provides the URL to the Conference Proceedings Series's LOCKSS Publisher Manifest."
+
+msgid "emails.lockssNewArchive.description"
+msgstr "This email encourages the recipient to participate in the LOCKSS initiative and include this Conference Proceedings Series in the archive. It provides information about the LOCKSS initiative and ways to become involved."
+
+msgid "emails.submissionAck.subject"
+msgstr "Conference Proceedings Submission Acknowledgement"
+
+msgid "emails.submissionAck.description"
+msgstr "This email, when enabled, is automatically sent to an author when they complete the process of submitting a manuscript to the Conference Proceedings Series. It provides information about tracking the submission through the process and thanks the author for the Conference Proceedings Conference Proceedings Submission."
+
+msgid "emails.submissionAckNotUser.subject"
+msgstr "Conference Proceedings Submission Acknowledgement"
+
+msgid "emails.submissionAckNotUser.description"
+msgstr "This email, when enabled, is automatically sent to the other authors who are not users within OJS specified during the Conference Proceedings Conference Proceedings Submission process."
+
+msgid "emails.editorAssign.description"
+msgstr "This email notifies a Section Editor that the Editor has assigned them the task of overseeing a submission through the editing process. It provides information about the Conference Proceedings Conference Proceedings Submission and how to access the Conference Proceedings Series site."
+
+msgid "emails.reviewRequest.subject"
+msgstr "Conference Proceedings Submission Review Request"
+
+msgid "emails.reviewRequest.description"
+msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission. It provides information about the submission such as the title and abstract, a review due date, and how to access the Conference Proceedings Conference Proceedings Submission itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_ATTACHED.)"
+
+msgid "emails.reviewRequestRemindAuto.subject"
+msgstr "Conference Proceedings Submission Review Request Reminder"
+
+msgid "emails.reviewRequestOneclick.subject"
+msgstr "Conference Proceedings Submission Review Request"
+
+msgid "emails.reviewRequestOneclick.description"
+msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission. It provides information about the submission such as the title and abstract, a review due date, and how to access the Conference Proceedings Conference Proceedings Submission itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review, and one-click reviewer access is enabled."
+
+msgid "emails.reviewRequestRemindAutoOneclick.subject"
+msgstr "Conference Proceedings Submission Review Request"
+
+msgid "emails.reviewRequestAttached.subject"
+msgstr "Conference Proceedings Submission Review Request"
+
+msgid "emails.reviewRequestAttached.description"
+msgstr "This email is sent by the Section Editor to a Reviewer to request that they accept or decline the task of reviewing a submission. It includes the Conference Proceedings Conference Proceedings Submission as an attachment. This message is used when the Email-Attachment Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST.)"
+
+msgid "emails.reviewRequestSubsequent.subject"
+msgstr "Conference Proceedings Submission Review Request"
+
+msgid "emails.reviewRequestSubsequent.description"
+msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission for a second or greater round of review. It provides information about the submission such as the title and abstract, a review due date, and how to access the Conference Proceedings Conference Proceedings Submission itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_ATTACHED_SUBSEQUENT.)"
+
+msgid "emails.reviewRequestOneclickSubsequent.subject"
+msgstr "Conference Proceedings Submission Review Request"
+
+msgid "emails.reviewRequestOneclickSubsequent.description"
+msgstr "This email from the Section Editor to a Reviewer requests that the reviewer accept or decline the task of reviewing a submission for a second or greater round of review. It provides information about the submission such as the title and abstract, a review due date, and how to access the Conference Proceedings Conference Proceedings Submission itself. This message is used when the Standard Review Process is selected in Management > Settings > Workflow > Review, and one-click reviewer access is enabled."
+
+msgid "emails.reviewRequestAttachedSubsequent.subject"
+msgstr "Conference Proceedings Submission Review Request"
+
+msgid "emails.reviewRequestAttachedSubsequent.description"
+msgstr "This email is sent by the Section Editor to a Reviewer to request that they accept or decline the task of reviewing a submission for a second or greater round of review. It includes the Conference Proceedings Conference Proceedings Submission as an attachment. This message is used when the Email-Attachment Review Process is selected in Management > Settings > Workflow > Review. (Otherwise see REVIEW_REQUEST_SUBSEQUENT.)"
+
+msgid "emails.reviewCancel.description"
+msgstr "This email is sent by the Section Editor to a Reviewer who has a Conference Proceedings Conference Proceedings Submission review in progress to notify them that the review has been cancelled."
+
+msgid "emails.reviewReinstate.description"
+msgstr "This email is sent by the Section Editor to a Reviewer who has a Conference Proceedings Conference Proceedings Submission review in progress to notify them that a cancelled review has been reinstated."
+
+msgid "emails.reviewAck.subject"
+msgstr "Conference Proceedings Submission Review Acknowledgement"
+
+msgid "emails.reviewRemind.subject"
+msgstr "Conference Proceedings Submission Review Reminder"
+
+msgid "emails.reviewRemindOneclick.subject"
+msgstr "Conference Proceedings Submission Review Reminder"
+
+msgid "emails.reviewRemindAuto.subject"
+msgstr "Automated Conference Proceedings Submission Review Reminder"
+
+msgid "emails.reviewRemindAutoOneclick.subject"
+msgstr "Automated Conference Proceedings Submission Review Reminder"
+
+msgid "emails.editorDecisionAccept.description"
+msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"accept submission\" decision regarding their Conference Proceedings Conference Proceedings Submission."
+
+msgid "emails.editorDecisionSendToExternal.description"
+msgstr "This email from the Editor or Section Editor to an Author notifies them that their Conference Proceedings Conference Proceedings Submission is being sent to an external review."
+
+msgid "emails.editorDecisionSendToProduction.description"
+msgstr "This email from the Editor or Section Editor to an Author notifies them that their Conference Proceedings Conference Proceedings Submission is being sent to production."
+
+msgid "emails.editorDecisionRevisions.description"
+msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"revisions required\" decision regarding their Conference Proceedings Conference Proceedings Submission."
+
+msgid "emails.editorDecisionResubmit.description"
+msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"resubmit\" decision regarding their Conference Proceedings Conference Proceedings Submission."
+
+msgid "emails.editorDecisionDecline.description"
+msgstr "This email from the Editor or Section Editor to an Author notifies them of a final \"decline\" decision regarding their Conference Proceedings Conference Proceedings Submission."
+
+msgid "emails.editorRecommendation.description"
+msgstr "This email from the recommending Editor or Section Editor to the decision making Editors or Section Editors notifies them of a final recommendation regarding the Conference Proceedings Conference Proceedings Submission."
+
+msgid "emails.copyeditRequest.description"
+msgstr "This email is sent by a Section Editor to a submission's Copyeditor to request that they begin the copyediting process. It provides information about the Conference Proceedings Conference Proceedings Submission and how to access it."
+
+msgid "emails.layoutRequest.description"
+msgstr "This email from the Section Editor to the Layout Editor notifies them that they have been assigned the task of performing layout editing on a submission. It provides information about the Conference Proceedings Conference Proceedings Submission and how to access it."
+
+msgid "emails.emailLink.subject"
+msgstr "Conference Proceedings Submission of Possible Interest"
+
+msgid "emails.emailLink.body"
+msgstr "Thought you might be interested in seeing &quot;{$Conference Proceedings Conference Proceedings SubmissionTitle}&quot; by {$authorName} published in Vol {$volume}, No {$number} ({$year}) of {$contextName} at &quot;{$Conference Proceedings SubmissionUrl}&quot;."
+
+msgid "emails.emailLink.description"
+msgstr "This email template provides a registered reader with the opportunity to send information about an Conference Proceedings Submission to somebody who may be interested. It is available via the Reading Tools and must be enabled by the Conference Proceedings Series Manager in the Reading Tools Administration page."
+
+msgid "emails.subscriptionNotify.description"
+msgstr "This email notifies a registered reader that the Manager has created a subscription for them. It provides the Conference Proceedings Series's URL along with instructions for access."
+
+msgid "emails.openAccessNotify.subject"
+msgstr "Conference Proceedings Volume Now Open Access"
+
+msgid "emails.openAccessNotify.description"
+msgstr "This email is sent to registered readers who have requested to receive a notification email when an Conference Proceedings Volume becomes open access."
+
+msgid "emails.subscriptionBeforeExpiry.description"
+msgstr "This email notifies a subscriber that their subscription will soon expire. It provides the Conference Proceedings Series's URL along with instructions for access."
+
+msgid "emails.subscriptionAfterExpiry.description"
+msgstr "This email notifies a subscriber that their subscription has expired. It provides the Conference Proceedings Series's URL along with instructions for access."
+
+msgid "emails.subscriptionAfterExpiryLast.description"
+msgstr "This email notifies a subscriber that their subscription has expired. It provides the Conference Proceedings Series's URL along with instructions for access."
+
+msgid "emails.revisedVersionNotify.description"
+msgstr "This email is automatically sent to the assigned editor when author uploads a revised version of an Conference Proceedings Submission."
+
+msgid "emails.editorDecisionInitialDecline.description"
+msgstr "This email is sent to the author if the editor declines their Conference Proceedings Conference Proceedings Submission initially, before the review stage"
+
+msgid "emails.statisticsReportNotification.description"
+msgstr "This email is automatically sent monthly to editors and Conference Proceedings Series managers to provide them a system health overview."

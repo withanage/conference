@@ -1,0 +1,6 @@
+
+msgid "reviewer.step1.viewAllDetails"
+msgstr "View All Conference Proceedings Submission Details"
+
+msgid "reviewer.submission.reviewDescription"
+msgstr "Enter (or paste) your review of this Conference Proceedings Conference Proceedings Submission into the form below."
