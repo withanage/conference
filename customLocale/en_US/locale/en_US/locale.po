@@ -263,18 +263,6 @@ msgstr "All Conference Proceedings Seriess"
 msgid "article.nonpdf.title"
 msgstr "Conference Proceedings Submission Download"
 
-msgid "site.journalsHosted"
-msgstr "Conference Proceedings Seriess hosted on this site"
-
-msgid "site.journalView"
-msgstr "View Conference Proceedings Series"
-
-msgid "site.journalCurrent"
-msgstr "Current Conference Proceedings Volume"
-
-msgid "site.noJournals"
-msgstr "There are no Conference Proceedings Seriess available."
-
 msgid "current.noCurrentIssue"
 msgstr "No Current Conference Proceedings Volume"
 
