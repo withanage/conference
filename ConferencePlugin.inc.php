@@ -25,8 +25,8 @@ class ConferencePlugin extends GenericPlugin
 
 			foreach ($files as $file) {
 				$pathinfo = pathinfo($file->getFileName());
-				if ( $pathinfo && $pathinfo['extension'] == 'po') {
-					AppLocale::registerLocaleFile($locale, Core::getBaseDir() . '/' .$file);
+				if ($pathinfo && $pathinfo['extension'] == 'po') {
+					AppLocale::registerLocaleFile($locale, Core::getBaseDir() . '/' . $file);
 				}
 			}
 
@@ -83,13 +83,15 @@ class ConferencePlugin extends GenericPlugin
 		$request = Application::get()->getRequest();
 		$context = $request->getContext();
 		$localeFilename =& $args[1];
+		if ($context) {
+			$contextFileManager = new ContextFileManager($context->getId());
+			$customLocalePath = Core::getBaseDir() . '/' . $this->getPluginPath() . "/customLocale/$locale/$localeFilename";
 
-		$contextFileManager = new ContextFileManager($context->getId());
-		$customLocalePath = Core::getBaseDir() . '/' . $this->getPluginPath() . "/customLocale/$locale/$localeFilename";
-
-		if ($contextFileManager->fileExists($customLocalePath)) {
-			AppLocale::registerLocaleFile($locale, $customLocalePath, false);
+			if ($contextFileManager->fileExists($customLocalePath)) {
+				AppLocale::registerLocaleFile($locale, $customLocalePath, false);
+			}
 		}
+
 		return true;
 	}
 
