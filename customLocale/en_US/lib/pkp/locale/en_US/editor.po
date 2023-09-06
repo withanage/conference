@@ -1,6 +1,6 @@
 
 msgid "editor.submissionArchive.confirmDelete"
-msgstr "Are you sure you want to permanently delete this Conference Proceedings Conference Proceedings Submission?"
+msgstr "Are you sure you want to permanently delete this Conference Proceedings  Submission?"
 
 msgid "editor.submission.workflowDecision.submission.declined"
 msgstr "Conference Proceedings Submission declined."
@@ -15,4 +15,4 @@ msgid "editor.submission.workflowDecision.submission.underReview"
 msgstr "Conference Proceedings Submission accepted for review."
 
 msgid "reviewer.list.currentlyAssigned"
-msgstr "This reviewer has already been assigned to review this Conference Proceedings Conference Proceedings Submission."
+msgstr "This reviewer has already been assigned to review this Conference Proceedings  Submission."

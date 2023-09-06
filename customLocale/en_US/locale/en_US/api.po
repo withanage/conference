@@ -6,7 +6,7 @@ msgid "api.emails.403.disabled"
 msgstr "The email notification feature has not been enabled for this Conference Proceedings Series."
 
 msgid "api.submissions.403.cantChangeContext"
-msgstr "You can not change the Conference Proceedings Series of a Conference Proceedings Conference Proceedings Submission."
+msgstr "You can not change the Conference Proceedings Series of a Conference Proceedings  Submission."
 
 msgid "api.submissions.403.unpublishedIssues"
 msgstr "You do not have permission to view unpublished Conference Proceedings Volumes."
@@ -33,4 +33,4 @@ msgid "api.publications.403.contextsDidNotMatch"
 msgstr "The publication that you requested is not part of this Conference Proceedings Series."
 
 msgid "api.publications.403.submissionsDidNotMatch"
-msgstr "The publication that you requested is not part of this Conference Proceedings Conference Proceedings Submission."
+msgstr "The publication that you requested is not part of this Conference Proceedings  Submission."

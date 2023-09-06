@@ -1,9 +1,9 @@
 
 msgid "navigation.submissions"
-msgstr "Conference Proceedings Conference Proceedings Submissions"
+msgstr "Conference Proceedings  Submissions"
 
 msgid "notification.removedSubmission"
-msgstr "Removed Conference Proceedings Conference Proceedings Submission."
+msgstr "Removed Conference Proceedings  Submission."
 
 msgid "notification.savedSubmissionMetadata"
 msgstr "Conference Proceedings Submission metadata saved."
@@ -12,4 +12,4 @@ msgid "search.cli.rebuildIndex.result"
 msgstr "{$numIndexed} Conference Proceedings Submissions indexed"
 
 msgid "user.authorization.invalidSubmission"
-msgstr "Invalid Conference Proceedings Conference Proceedings Submission."
+msgstr "Invalid Conference Proceedings  Submission."

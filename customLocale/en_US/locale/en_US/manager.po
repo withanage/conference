@@ -27,7 +27,7 @@ msgid "manager.journalManagement"
 msgstr "Conference Proceedings Series Management"
 
 msgid "manager.language.submissions"
-msgstr "Conference Proceedings Conference Proceedings Submissions"
+msgstr "Conference Proceedings  Submissions"
 
 msgid "manager.language.confirmDefaultSettingsOverwrite"
 msgstr "This will replace any locale-specific Conference Proceedings Series settings you had for this locale"
@@ -78,7 +78,7 @@ msgid "manager.people.enrollSyncJournal"
 msgstr "With Conference Proceedings Series"
 
 msgid "manager.people.mergeUsers.from.description"
-msgstr "Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any Conference Proceedings Conference Proceedings Conference Proceedings Submissions, assignments, etc. will be attributed to the second account."
+msgstr "Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any Conference Proceedings  Submissions, assignments, etc. will be attributed to the second account."
 
 msgid "manager.people.syncUserDescription"
 msgstr "Enrollment synchronization will enroll all users enrolled in the specified role in the specified journal into the same role in this journal. This function allows a common set of users (e.g., Reviewers) to be synchronized between Conference Proceedings Seriess."
@@ -87,7 +87,7 @@ msgid "manager.sections.alertDelete"
 msgstr "Before this section can be deleted, you must move Conference Proceedings Submissions submitted to it into other sections."
 
 msgid "manager.section.sectionEditorInstructions"
-msgstr "Add a Section Editor to this section to have Conference Proceedings Submissions automatically assigned to the Section Editor. (Otherwise, Section Editors can be assigned manually, after a submission comes in.) If added, a Section Editor can be automatically assigned to oversee the REVIEW (peer review) and/or the EDITING (copyediting, layout and proofreading) of Conference Proceedings Conference Proceedings Conference Proceedings Submissions to this section. Section Editors are created by clicking Section Editors under Roles in Conference Proceedings Series Management."
+msgstr "Add a Section Editor to this section to have Conference Proceedings Submissions automatically assigned to the Section Editor. (Otherwise, Section Editors can be assigned manually, after a submission comes in.) If added, a Section Editor can be automatically assigned to oversee the REVIEW (peer review) and/or the EDITING (copyediting, layout and proofreading) of Conference Proceedings  Submissions to this section. Section Editors are created by clicking Section Editors under Roles in Conference Proceedings Series Management."
 
 msgid "manager.sections.hideTocAuthor"
 msgstr "Omit author names for section items from Conference Proceedings Volumes' table of contents."
@@ -99,13 +99,13 @@ msgid "manager.sections.identifyTypeExamples"
 msgstr "(For example, \"Peer-reviewed Conference Proceedings Submission\", \"Non-refereed Book Review\", \"Invited Commentary\", etc.)"
 
 msgid "manager.sections.open"
-msgstr "Open Conference Proceedings Conference Proceedings Submissions"
+msgstr "Open Conference Proceedings  Submissions"
 
 msgid "manager.sections.submissionIndexing"
 msgstr "Will not be included in the indexing of the Conference Proceedings Series"
 
 msgid "manager.section.submissionsToThisSection"
-msgstr "Conference Proceedings Conference Proceedings Submissions made to this section of the Conference Proceedings Series"
+msgstr "Conference Proceedings  Submissions made to this section of the Conference Proceedings Series"
 
 msgid "manager.setup"
 msgstr "Conference Proceedings Series Settings"
@@ -132,7 +132,7 @@ msgid "manager.setup.appearInAboutJournal"
 msgstr "(To appear in About the Conference Proceedings Series) "
 
 msgid "manager.setup.competingInterests.requireAuthors"
-msgstr "Require submitting Authors to file a Competing Interest (CI) statement with their Conference Proceedings Conference Proceedings Submission."
+msgstr "Require submitting Authors to file a Competing Interest (CI) statement with their Conference Proceedings  Submission."
 
 msgid "manager.setup.history"
 msgstr "Conference Proceedings Series History"
@@ -171,7 +171,7 @@ msgid "manager.setup.focusAndScope.description"
 msgstr "Describe to authors, readers, and librarians the range of Conference Proceedings Submissions and other items the Conference Proceedings Series will publish."
 
 msgid "manager.setup.forAuthorsToIndexTheirWorkDescription"
-msgstr "OJS adheres to the <a href=\"http://www.openarchives.org/\" target=\"_blank\">Open Archives Initiative</a> Protocol for Metadata Harvesting, which is the emerging standard for providing well-indexed access to electronic research resources on a global scale. The authors will use a similar template to provide metadata for their Conference Proceedings Conference Proceedings Submission. The Conference Proceedings Series Manager should select the categories for indexing and present authors with relevant examples to assist them in indexing their work."
+msgstr "OJS adheres to the <a href=\"http://www.openarchives.org/\" target=\"_blank\">Open Archives Initiative</a> Protocol for Metadata Harvesting, which is the emerging standard for providing well-indexed access to electronic research resources on a global scale. The authors will use a similar template to provide metadata for their Conference Proceedings  Submission. The Conference Proceedings Series Manager should select the categories for indexing and present authors with relevant examples to assist them in indexing their work."
 
 msgid "manager.setup.form.journalInitialsRequired"
 msgstr "The Conference Proceedings Series initials are required."
@@ -180,10 +180,10 @@ msgid "manager.setup.form.journalTitleRequired"
 msgstr "The Conference Proceedings Series title is required."
 
 msgid "manager.setup.form.numReviewersPerSubmission"
-msgstr "The number of reviewers per Conference Proceedings Conference Proceedings Submission is required."
+msgstr "The number of reviewers per Conference Proceedings  Submission is required."
 
 msgid "manager.setup.guidingSubmissions"
-msgstr "Step 3. Guiding Conference Proceedings Conference Proceedings Submissions"
+msgstr "Step 3. Guiding Conference Proceedings  Submissions"
 
 msgid "manager.setup.identity"
 msgstr "Conference Proceedings Series Identity"
@@ -201,7 +201,7 @@ msgid "manager.setup.initialIssueDescription"
 msgstr "Depending on the format selected, identify the issue, volume, and/or year of the first Conference Proceedings Volume to be published with OJS:"
 
 msgid "manager.setup.itemsPerPage.description"
-msgstr "Limit the number of items (for example, Conference Proceedings Conference Proceedings Conference Proceedings Submissions, users, or editing assignments) to show in a list before showing subsequent items in another page."
+msgstr "Limit the number of items (for example, Conference Proceedings  Submissions, users, or editing assignments) to show in a list before showing subsequent items in another page."
 
 msgid "manager.setup.journalAbbreviation"
 msgstr "Conference Proceedings Series Abbreviation"
@@ -327,7 +327,7 @@ msgid "manager.setup.restrictSiteAccess"
 msgstr "Users must be registered and log in to view the Conference Proceedings Series site."
 
 msgid "manager.setup.reviewOptions.restrictReviewerFileAccess.description"
-msgstr "Reviewers will not be given access to the Conference Proceedings Conference Proceedings Submission file until they have agreed to review it."
+msgstr "Reviewers will not be given access to the Conference Proceedings  Submission file until they have agreed to review it."
 
 msgid "manager.setup.searchDescription.description"
 msgstr "Provide a brief description (50-300 characters) of the journal which search engines can display when listing the Conference Proceedings Series in search results."
@@ -357,16 +357,16 @@ msgid "manager.setup.submissionPreparationChecklist"
 msgstr "Conference Proceedings Submission Preparation Checklist"
 
 msgid "manager.setup.submissionPreparationChecklistDescription"
-msgstr "On making a submission to the Conference Proceedings Series, authors are first asked to check each item on the Submission Preparation Checklist as completed, before proceeding. The checklist also appears in the Author Guidelines, under About the Conference Proceedings Series. The list can be edited below, but all items on the list will require a checkmark before authors can proceed with their Conference Proceedings Conference Proceedings Submission."
+msgstr "On making a submission to the Conference Proceedings Series, authors are first asked to check each item on the Submission Preparation Checklist as completed, before proceeding. The checklist also appears in the Author Guidelines, under About the Conference Proceedings Series. The list can be edited below, but all items on the list will require a checkmark before authors can proceed with their Conference Proceedings  Submission."
 
 msgid "manager.setup.submissions"
-msgstr "Conference Proceedings Conference Proceedings Submissions"
+msgstr "Conference Proceedings  Submissions"
 
 msgid "manager.setup.disableSubmissions.description"
-msgstr "Prevent users from submitting new Conference Proceedings Submissions to the journal. Conference Proceedings Conference Proceedings Submissions can be disabled for individual journal sections on the <a href=\"{$url}\">Conference Proceedings Series sections</a> settings page."
+msgstr "Prevent users from submitting new Conference Proceedings Submissions to the journal. Conference Proceedings  Submissions can be disabled for individual journal sections on the <a href=\"{$url}\">Conference Proceedings Series sections</a> settings page."
 
 msgid "manager.setup.disableSubmissions.notAccepting"
-msgstr "This Conference Proceedings Series is not accepting Conference Proceedings Submissions at this time. Visit the workflow settings to allow Conference Proceedings Conference Proceedings Conference Proceedings Submissions."
+msgstr "This Conference Proceedings Series is not accepting Conference Proceedings Submissions at this time. Visit the workflow settings to allow Conference Proceedings  Submissions."
 
 msgid "manager.setup.uniqueIdentifierDescription"
 msgstr "Conference Proceedings Submissions and Conference Proceedings Volumes can be tagged with an identification number or string, employing a registration system such as the Digital Object Identifier System (DOI)."
@@ -381,19 +381,19 @@ msgid "manager.statistics.statistics.articleViews"
 msgstr "Conference Proceedings Submission View Counts (for Authors only)"
 
 msgid "manager.statistics.statistics.description"
-msgstr "OJS calculates the following statistics for each Conference Proceedings Series. The \"days to review\" is calculated from date of submission (or designation of Review Version) to the initial Editor Decision, while the \"days to publish\" is measured for accepted Conference Proceedings Conference Proceedings Conference Proceedings Submissions from its original uploading to its publication."
+msgstr "OJS calculates the following statistics for each Conference Proceedings Series. The \"days to review\" is calculated from date of submission (or designation of Review Version) to the initial Editor Decision, while the \"days to publish\" is measured for accepted Conference Proceedings  Submissions from its original uploading to its publication."
 
 msgid "manager.statistics.statistics.makePublic"
 msgstr "Check items to be made available to readers in About the Conference Proceedings Series."
 
 msgid "manager.statistics.statistics.note"
-msgstr "Note: Percentages for peer reviewed Conference Proceedings Conference Proceedings Conference Proceedings Submissions may not add up to 100%, as items resubmitted are either accepted, declined, or still in process."
+msgstr "Note: Percentages for peer reviewed Conference Proceedings  Submissions may not add up to 100%, as items resubmitted are either accepted, declined, or still in process."
 
 msgid "manager.statistics.statistics.numIssues"
 msgstr "Conference Proceedings Volumes published"
 
 msgid "manager.statistics.statistics.numSubmissions"
-msgstr "Total Conference Proceedings Conference Proceedings Conference Proceedings Submissions"
+msgstr "Total Conference Proceedings  Submissions"
 
 msgid "manager.statistics.statistics.selectSections"
 msgstr "Select the sections for calculating this Conference Proceedings Series's peer-reviewed statistics."
@@ -453,7 +453,7 @@ msgid "manager.setup.section.description"
 msgstr "Conference Proceedings Submissions within published Conference Proceedings Volumes of a Conference Proceedings Series are organized in Sections, typically by theme or content type (e.g. Review Conference Proceedings Submissions, Research, etc)."
 
 msgid "settings.roles.gridDescription"
-msgstr "Roles are groups of users in the journal who are given access to different permission levels and associated workflows within the journal. There are five different permission levels: Journal Managers have access to everything in the Conference Proceedings Series (all content and settings); Section Editors have complete access to all assigned content; Conference Proceedings Series Assistants have limited access to all submissions that have been explicitly assigned to them by an editor; Reviewers can see and perform the Conference Proceedings Submissions they have been assigned to review; and Authors can see and interact with a limited amount of information on their own Conference Proceedings Conference Proceedings Submissions. Additionally, there are five different stage assignments that roles may be given access to: Conference Proceedings Submission, Internal Review, Review, Editorial, and Production."
+msgstr "Roles are groups of users in the journal who are given access to different permission levels and associated workflows within the journal. There are five different permission levels: Journal Managers have access to everything in the Conference Proceedings Series (all content and settings); Section Editors have complete access to all assigned content; Conference Proceedings Series Assistants have limited access to all submissions that have been explicitly assigned to them by an editor; Reviewers can see and perform the Conference Proceedings Submissions they have been assigned to review; and Authors can see and interact with a limited amount of information on their own Conference Proceedings  Submissions. Additionally, there are five different stage assignments that roles may be given access to: Conference Proceedings Submission, Internal Review, Review, Editorial, and Production."
 
 msgid "manager.setup.copyrightYearBasis"
 msgstr "Base new Conference Proceedings Submission's copyright year on"
@@ -480,7 +480,7 @@ msgid "grid.genres.title"
 msgstr "Conference Proceedings Submission Components"
 
 msgid "grid.genres.description"
-msgstr "These components are used for file-naming purposes and are presented in a pull-down menu on uploading files. The genres designated ## allow the user to associate the file with either the whole Conference Proceedings Conference Proceedings Submission 99Z or a particular component by number (e.g., 02)."
+msgstr "These components are used for file-naming purposes and are presented in a pull-down menu on uploading files. The genres designated ## allow the user to associate the file with either the whole Conference Proceedings  Submission 99Z or a particular component by number (e.g., 02)."
 
 msgid "plugins.importexport.common.export.articles"
 msgstr "Conference Proceedings Submissions"

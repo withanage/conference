@@ -1,6 +1,6 @@
 
 msgid "user.login.registrationComplete.manageSubmissions"
-msgstr "View Conference Proceedings Conference Proceedings Submissions"
+msgstr "View Conference Proceedings  Submissions"
 
 msgid "user.login.registrationComplete.newSubmission"
 msgstr "Make a New Conference Proceedings Submission"

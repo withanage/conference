@@ -1,6 +1,6 @@
 
 msgid "editor.submissionsAndPublishing"
-msgstr "Conference Proceedings Conference Proceedings Submissions and Publishing"
+msgstr "Conference Proceedings  Submissions and Publishing"
 
 msgid "editor.submissionQueue"
 msgstr "Conference Proceedings Submission Queue"
@@ -12,7 +12,7 @@ msgid "editor.publishedIssues"
 msgstr "Published Conference Proceedings Volumes"
 
 msgid "editor.submissionArchive.noSubmissions"
-msgstr "No Conference Proceedings Conference Proceedings Conference Proceedings Submissions in the archive."
+msgstr "No Conference Proceedings  Submissions in the archive."
 
 msgid "editor.notifyUsers.includeToc"
 msgstr "Include the table of contents from this Conference Proceedings Volume:"
@@ -120,7 +120,7 @@ msgid "editor.navigation.issueArchive"
 msgstr "Back Conference Proceedings Volumes"
 
 msgid "editor.submissions.noSubmissions"
-msgstr "No Conference Proceedings Conference Proceedings Submissions"
+msgstr "No Conference Proceedings  Submissions"
 
 msgid "issues.submissions.issueIds"
 msgstr "Assigned to Conference Proceedings Volume"

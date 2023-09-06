@@ -30,10 +30,10 @@ msgid "navigation.skip.issue"
 msgstr "Skip to the current Conference Proceedings Volume"
 
 msgid "common.queue.long.submissionsInEditing"
-msgstr "Conference Proceedings Conference Proceedings Submissions in Editing"
+msgstr "Conference Proceedings  Submissions in Editing"
 
 msgid "common.queue.long.submissionsInReview"
-msgstr "Conference Proceedings Conference Proceedings Submissions in Review"
+msgstr "Conference Proceedings  Submissions in Review"
 
 msgid "section.abbreviation.example"
 msgstr "(For example, Conference Proceedings Submissions=ART)"
@@ -60,7 +60,7 @@ msgid "article.submission"
 msgstr "Conference Proceedings Submission"
 
 msgid "article.submissions"
-msgstr "Conference Proceedings Conference Proceedings Submissions"
+msgstr "Conference Proceedings  Submissions"
 
 msgid "article.return"
 msgstr "Return to Conference Proceedings Submission Details"
@@ -96,7 +96,7 @@ msgid "user.registerForOtherJournals"
 msgstr "Register for Other Conference Proceedings Seriess"
 
 msgid "user.reviewerPrompt"
-msgstr "Would you be willing to review Conference Proceedings Conference Proceedings Conference Proceedings Submissions to this Conference Proceedings Series?"
+msgstr "Would you be willing to review Conference Proceedings  Submissions to this Conference Proceedings Series?"
 
 msgid "user.register.contextsPrompt"
 msgstr "Which Conference Proceedings Seriess on this site would you like to register with?"
@@ -156,10 +156,10 @@ msgid "submission.event.general.articlePublished"
 msgstr "Conference Proceedings Submission published"
 
 msgid "submission.event.editor.editorAssigned"
-msgstr "Editor assigned to Conference Proceedings Conference Proceedings Submission"
+msgstr "Editor assigned to Conference Proceedings  Submission"
 
 msgid "submission.event.editor.editorUnassigned"
-msgstr "Editor unassigned from Conference Proceedings Conference Proceedings Submission"
+msgstr "Editor unassigned from Conference Proceedings  Submission"
 
 msgid "submission.event.editor.submissionArchived"
 msgstr "Conference Proceedings Submission sent to archive"
@@ -168,22 +168,22 @@ msgid "submission.event.editor.submissionRestored"
 msgstr "Conference Proceedings Submission restored from archive"
 
 msgid "submission.event.copyedit.copyeditorAssigned"
-msgstr "Copyeditor assigned to Conference Proceedings Conference Proceedings Submission"
+msgstr "Copyeditor assigned to Conference Proceedings  Submission"
 
 msgid "submission.event.copyedit.copyeditorUnassigned"
-msgstr "Copyeditor unassigned from Conference Proceedings Conference Proceedings Submission"
+msgstr "Copyeditor unassigned from Conference Proceedings  Submission"
 
 msgid "submission.event.proofread.proofreaderAssigned"
-msgstr "Proofreader assigned to Conference Proceedings Conference Proceedings Submission"
+msgstr "Proofreader assigned to Conference Proceedings  Submission"
 
 msgid "submission.event.proofread.proofreaderUnassigned"
-msgstr "Proofreader unassigned from Conference Proceedings Conference Proceedings Submission"
+msgstr "Proofreader unassigned from Conference Proceedings  Submission"
 
 msgid "submission.event.layout.layoutEditorAssigned"
-msgstr "Layout editor assigned to Conference Proceedings Conference Proceedings Submission"
+msgstr "Layout editor assigned to Conference Proceedings  Submission"
 
 msgid "submission.event.layout.layoutEditorUnassigned"
-msgstr "Layout editor unassigned from Conference Proceedings Conference Proceedings Submission"
+msgstr "Layout editor unassigned from Conference Proceedings  Submission"
 
 msgid "comments.commentsOnArticle"
 msgstr "Comments on this Conference Proceedings Submission"
@@ -201,10 +201,10 @@ msgid "plugins.categories.viewableFiles"
 msgstr "Conference Proceedings Submission Galley Plugins"
 
 msgid "sectionEditor.noneAssigned"
-msgstr "No Conference Proceedings Conference Proceedings Conference Proceedings Submissions assigned."
+msgstr "No Conference Proceedings  Submissions assigned."
 
 msgid "sectionEditor.regrets.title"
-msgstr "#{$Conference Proceedings Conference Proceedings SubmissionId} Reviewer Regrets, Cancellations & Earlier Rounds"
+msgstr "#{$Conference Proceedings  SubmissionId} Reviewer Regrets, Cancellations & Earlier Rounds"
 
 msgid "reviewer.pendingReviews"
 msgstr "Conference Proceedings Submissions Pending Review"
@@ -222,10 +222,10 @@ msgid "reviewer.article.submissionToBeReviewed"
 msgstr "Conference Proceedings Submission To Be Reviewed"
 
 msgid "reviewer.article.notifyEditorA"
-msgstr "Notify the Conference Proceedings Conference Proceedings Submission's editor"
+msgstr "Notify the Conference Proceedings  Submission's editor"
 
 msgid "reviewer.article.enterReviewA"
-msgstr "Click on icon to enter (or paste) your review of this Conference Proceedings Conference Proceedings Submission."
+msgstr "Click on icon to enter (or paste) your review of this Conference Proceedings  Submission."
 
 msgid "submission.logType.article"
 msgstr "Conference Proceedings Submission"
@@ -249,10 +249,10 @@ msgid "user.register.authorDescription"
 msgstr "Able to submit items to the Conference Proceedings Series."
 
 msgid "user.register.reviewerDescriptionNoInterests"
-msgstr "Willing to conduct peer review of Conference Proceedings Conference Proceedings Conference Proceedings Submissions to the Conference Proceedings Series."
+msgstr "Willing to conduct peer review of Conference Proceedings  Submissions to the Conference Proceedings Series."
 
 msgid "user.register.reviewerDescription"
-msgstr "Willing to conduct peer review of Conference Proceedings Conference Proceedings Conference Proceedings Submissions to the site."
+msgstr "Willing to conduct peer review of Conference Proceedings  Submissions to the site."
 
 msgid "search.searchFor"
 msgstr "Search Conference Proceedings Submissions for"
@@ -294,22 +294,22 @@ msgid "about.history"
 msgstr "Conference Proceedings Series History"
 
 msgid "about.submissions"
-msgstr "Conference Proceedings Conference Proceedings Submissions"
+msgstr "Conference Proceedings  Submissions"
 
 msgid "about.onlineSubmissions.registrationRequired"
-msgstr "{$login} or {$register} to make a Conference Proceedings Conference Proceedings Submission."
+msgstr "{$login} or {$register} to make a Conference Proceedings  Submission."
 
 msgid "about.onlineSubmissions.submissionActions"
-msgstr "{$newSubmission} or {$viewConference Proceedings Conference Proceedings Submissions}."
+msgstr "{$newSubmission} or {$viewConference Proceedings  Submissions}."
 
 msgid "about.onlineSubmissions.submitToSection"
-msgstr "Make a new Conference Proceedings Conference Proceedings Submission to the <a href=\"{$url}\">{$name}</a> section."
+msgstr "Make a new Conference Proceedings  Submission to the <a href=\"{$url}\">{$name}</a> section."
 
 msgid "about.onlineSubmissions.newSubmission"
-msgstr "Make a new Conference Proceedings Conference Proceedings Submission"
+msgstr "Make a new Conference Proceedings  Submission"
 
 msgid "about.onlineSubmissions.viewSubmissions"
-msgstr "view your pending Conference Proceedings Conference Proceedings Conference Proceedings Submissions"
+msgstr "view your pending Conference Proceedings  Submissions"
 
 msgid "about.submissionPreparationChecklist"
 msgstr "Conference Proceedings Submission Preparation Checklist"
@@ -345,28 +345,28 @@ msgid "installer.upgradeApplication"
 msgstr "Upgrade Open Conference Proceedings Series Systems"
 
 msgid "log.review.resubmit"
-msgstr "The submission {$Conference Proceedings Conference Proceedings SubmissionId} has been resubmitted for review."
+msgstr "The submission {$Conference Proceedings  SubmissionId} has been resubmitted for review."
 
 msgid "log.copyedit.copyeditorFile"
-msgstr "A copyeditor version of the Conference Proceedings Conference Proceedings Submission file has been uploaded."
+msgstr "A copyeditor version of the Conference Proceedings  Submission file has been uploaded."
 
 msgid "log.editor.metadataModified"
 msgstr "The metadata for this Conference Proceedings Submission was modified by {$editorName}."
 
 msgid "log.editor.editorFile"
-msgstr "An editor version of the Conference Proceedings Conference Proceedings Submission file has been uploaded."
+msgstr "An editor version of the Conference Proceedings  Submission file has been uploaded."
 
 msgid "log.editor.archived"
-msgstr "The submission {$Conference Proceedings Conference Proceedings SubmissionId} has been archived."
+msgstr "The submission {$Conference Proceedings  SubmissionId} has been archived."
 
 msgid "log.editor.restored"
-msgstr "The submission {$Conference Proceedings Conference Proceedings SubmissionId} has been restored to the queue."
+msgstr "The submission {$Conference Proceedings  SubmissionId} has been restored to the queue."
 
 msgid "log.proofread.complete"
-msgstr "{$proofreaderName} has submitted {$Conference Proceedings Conference Proceedings SubmissionId} for scheduling."
+msgstr "{$proofreaderName} has submitted {$Conference Proceedings  SubmissionId} for scheduling."
 
 msgid "log.imported"
-msgstr "{$userName} has imported Conference Proceedings Submission {$Conference Proceedings Conference Proceedings SubmissionId}."
+msgstr "{$userName} has imported Conference Proceedings Submission {$Conference Proceedings  SubmissionId}."
 
 msgid "metadata.pkp.peerReviewed"
 msgstr "Peer-reviewed Conference Proceedings Submission"
@@ -393,7 +393,7 @@ msgid "user.authorization.invalidIssue"
 msgstr "Invalid Conference Proceedings Volume requested!"
 
 msgid "user.authorization.invalidCopyditorSubmission"
-msgstr "Invalid copyeditor submission or no copyeditor Conference Proceedings Conference Proceedings Submission requested!"
+msgstr "Invalid copyeditor submission or no copyeditor Conference Proceedings  Submission requested!"
 
 msgid "grid.action.createContext"
 msgstr "Create a New Conference Proceedings Series"
