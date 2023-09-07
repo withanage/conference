@@ -5,8 +5,13 @@ class ConferencePlugin extends GenericPlugin
 
 
 {
-	public $confLocales = [];
 
+	/**
+	 * @param $category
+	 * @param $path
+	 * @param $mainContextId
+	 * @return bool
+	 */
 	public function register($category, $path, $mainContextId = NULL)
 	{
 		$success = parent::register($category, $path, $mainContextId);
@@ -29,7 +34,6 @@ class ConferencePlugin extends GenericPlugin
 					AppLocale::registerLocaleFile($locale, Core::getBaseDir() . '/' . $file);
 				}
 			}
-
 
 			HookRegistry::register('PKPLocale::registerLocaleFile', array($this, 'addCustomLocale'));
 
@@ -59,6 +63,9 @@ class ConferencePlugin extends GenericPlugin
 		}
 	}
 
+	/**
+	 * @return string[]
+	 */
 	function getAdditionalFields()
 	{
 		$fiellds = array(
@@ -71,11 +78,11 @@ class ConferencePlugin extends GenericPlugin
 		return $fiellds;
 	}
 
-	function getSeq()
-	{
-		return -1;
-	}
-
+	/**
+	 * @param $hookName
+	 * @param $args
+	 * @return bool
+	 */
 	function addCustomLocale($hookName, $args)
 	{
 		import('lib.pkp.classes.file.ContextFileManager');
@@ -95,6 +102,11 @@ class ConferencePlugin extends GenericPlugin
 		return true;
 	}
 
+	/**
+	 * @param $hookName
+	 * @param $params
+	 * @return false|mixed|string|null
+	 */
 	function issueViewHandler($hookName, $params)
 	{
 		$request = Application::get()->getRequest();
@@ -105,6 +117,11 @@ class ConferencePlugin extends GenericPlugin
 		return $metadataView;
 	}
 
+	/**
+	 * @param $hookName
+	 * @param $params
+	 * @return void
+	 */
 	function setupHandler($hookName, $params)
 	{
 		import('plugins.generic.conference.controllers.ConferenceHandler');
