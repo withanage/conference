@@ -130,7 +130,7 @@ class ConferencePlugin extends GenericPlugin
 	 */
 	public function getDisplayName()
 	{
-		return 'Support Conferences';
+		return __('plugins.generic.conference.displayName');
 	}
 
 	/***
@@ -138,7 +138,7 @@ class ConferencePlugin extends GenericPlugin
 	 */
 	public function getDescription(): string
 	{
-		return '';
+		return __('plugins.generic.conference.description');
 	}
 
 	/**
