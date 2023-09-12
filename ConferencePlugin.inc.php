@@ -25,18 +25,19 @@ class ConferencePlugin extends GenericPlugin
 
 			$locale = AppLocale::getLocale();
 			$customLocalePath = $this->getPluginPath() . "/customLocale/" . $locale . '/';
-			$dir = new RecursiveDirectoryIterator($customLocalePath);
-			$files = new RecursiveIteratorIterator($dir);
+			if(is_dir($customLocalePath)) {
+				$dir = new RecursiveDirectoryIterator($customLocalePath);
+				$files = new RecursiveIteratorIterator($dir);
 
-			foreach ($files as $file) {
-				$pathinfo = pathinfo($file->getFileName());
-				if ($pathinfo && $pathinfo['extension'] == 'po') {
-					AppLocale::registerLocaleFile($locale, Core::getBaseDir() . '/' . $file);
+				foreach ($files as $file) {
+					$pathinfo = pathinfo($file->getFileName());
+					if ($pathinfo && $pathinfo['extension'] == 'po') {
+						AppLocale::registerLocaleFile($locale, Core::getBaseDir() . '/' . $file);
+					}
 				}
+
+				HookRegistry::register('PKPLocale::registerLocaleFile', array($this, 'addCustomLocale'));
 			}
-
-			HookRegistry::register('PKPLocale::registerLocaleFile', array($this, 'addCustomLocale'));
-
 		}
 
 		HookRegistry::register('Schema::get::issue', function ($hookName, $args) {
@@ -90,9 +91,9 @@ class ConferencePlugin extends GenericPlugin
 		$request = Application::get()->getRequest();
 		$context = $request->getContext();
 		$localeFilename =& $args[1];
-		if ($context) {
+		$customLocalePath = Core::getBaseDir() . '/' . $this->getPluginPath() . "/customLocale/".$locale."/$localeFilename";
+		if ($context && $customLocalePath) {
 			$contextFileManager = new ContextFileManager($context->getId());
-			$customLocalePath = Core::getBaseDir() . '/' . $this->getPluginPath() . "/customLocale/$locale/$localeFilename";
 
 			if ($contextFileManager->fileExists($customLocalePath)) {
 				AppLocale::registerLocaleFile($locale, $customLocalePath, false);

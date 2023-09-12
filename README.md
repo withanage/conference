@@ -18,17 +18,9 @@ We welcome ideas, feature requests in the [discussion](https://github.com/withan
 
 
 ### Installation
+- Search for the plugin in  plugin gallery and click "Conference publishing"
+- Enable the plugin for required conferences
 
-```bash
-# Software download
-cd $OJS/plugins/generic
-git clone  https://github.com/withanage/conference
-
-# configuration
-> Go to Plugins e.g. $JOURNAL/management/settings/website#plugins/installedPlugins
-> Enable Plugin: Support Conferences
-
-```
 
 
 ### Concept, Dev-Lead
