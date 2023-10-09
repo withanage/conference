@@ -122,6 +122,9 @@
 		</div>
     {/if}
 
+    {if $issue->getData('conferenceOnline')}
+        {translate key="plugins.generic.conference.metadata.conferenceOnline.title"}
+    {/if}
 
     {* Full-issue galleys *}
     {if $issueGalleys}

@@ -74,7 +74,8 @@ class ConferencePlugin extends GenericPlugin
 			'conferenceDateEnd',
 			'conferencePlaceStreet',
 			'conferencePlaceCity',
-			'conferencePlaceCountry'
+			'conferencePlaceCountry',
+			'conferenceOnline'
 		);
 		return $fiellds;
 	}
@@ -190,19 +191,19 @@ class ConferencePlugin extends GenericPlugin
 	function formExecute($hookName, $params): bool
 	{
 		$issue =& $params[0]->issue;
-		$requestVars = $this->getRequest()->getUserVars();
+		if ($issue) {
 
-		foreach ($this->getAdditionalFields() as $field) {
-			if (array_key_exists($field, $requestVars)) {
-				$conferenceDateBegin = $requestVars[$field];
-				if ($issue && $conferenceDateBegin) {
-					$issue->setData($field, $conferenceDateBegin);
+			$requestVars = $this->getRequest()->getUserVars();
+			foreach ($this->getAdditionalFields() as $field) {
+				if (array_key_exists($field, $requestVars)) {
+					$issue->setData($field, $requestVars[$field]);
+				}
+				else {
+					$issue->setData($field,"");
 				}
 			}
 		}
 		return false;
-
-
 	}
 
 

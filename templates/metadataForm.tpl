@@ -16,3 +16,12 @@
     {/fbvFormSection}
 </div>
 
+
+<div id="conferenceOnlineStatus">
+    {fbvFormSection for="conferenceOnlineStatus" size=$fbvStyles.size.MEDIUM list=true}
+
+        {fbvElement type="checkbox" id="conferenceOnline" label="plugins.generic.conference.metadata.conferenceOnline.checkBox" checked=$conferenceOnline}
+
+    {/fbvFormSection}
+</div>
+
