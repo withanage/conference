@@ -1,0 +1,7 @@
+
+msgid "reviewer.step1.viewAllDetails"
+msgstr "Alle Details der Konferenzbeitragseinreichung ansehen"
+
+msgid "reviewer.submission.reviewDescription"
+msgstr "Geben Sie ihr Gutachten für die Konferenzbeitragseinreichung in das untenstehende Formular ein."
+

@@ -1,0 +1,3 @@
+
+msgid "admin.scheduledTask.publishSubmissions"
+msgstr "Die zur Veröffentlichung vorgesehenen Konferenzbeiträge jetzt veröffentlichen"
