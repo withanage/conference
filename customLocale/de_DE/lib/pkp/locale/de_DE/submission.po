@@ -1,48 +1,48 @@
 
 msgid "submission.submit.contactConsentDescription"
-msgstr "Yes, I would like to be contacted about this Conference Proceedings  Submission."
+msgstr "Ja, ich würde gerne bezüglich dieser Konferenzbeitragseinreichung kontaktiert werden."
 
 msgid "submission.submit.submissionChecklist"
-msgstr "Conference Proceedings Submission Requirements"
+msgstr "Konferenzbeitragseinreichungs-Anforderungen"
 
 msgid "submission.submit.submissionComplete"
-msgstr "Conference Proceedings Submission complete"
+msgstr "Die Konferenzbeitragseinreichung ist abgeschlossen"
 
 msgid "submission.submit.whatNext.review"
-msgstr "Review this Conference Proceedings  Submission"
+msgstr "Die Konferenzbeitragseinreichung begutachten"
 
 msgid "submission.submit.whatNext.create"
-msgstr "Create a new Conference Proceedings  Submission"
+msgstr "Eine neue Konferenzbeitragseinreichung erstellen"
 
 msgid "metadata.property.displayName.article-title"
-msgstr "Conference Proceedings Submission/Paper Title"
+msgstr "Konferenzbeitrags/Paper-Titel"
 
 msgid "metadata.property.validationMessage.article-title"
-msgstr "Please enter a valid Conference Proceedings Submission/paper title."
+msgstr "Bitte geben Sie einen gültigen Konferenzbeitrags/Paper-Titel ein."
 
 msgid "metadata.property.displayName.issue"
-msgstr "Conference Proceedings Volume"
+msgstr "Konferenzbeitragsausgabe"
 
 msgid "metadata.property.validationMessage.issue"
-msgstr "Please enter a valid Conference Proceedings Volume."
+msgstr "Bitte geben Sie eine gültige Ausgabe ein."
 
 msgid "common.queue.long.submissionsArchived"
-msgstr "Archived Conference Proceedings  Submissions"
+msgstr "Archivierte Konferenzbeiträge"
 
 msgid "submission.backToSubmissionEditing"
-msgstr "Back to Conference Proceedings Submission Editing"
+msgstr "Zurück zur Konferenzbeitragsbearbeitung"
 
 msgid "submission.email.confirmClearLog"
-msgstr "Are you sure you want to clear the email log for this Conference Proceedings  Submission?"
+msgstr "Sind Sie sicher, dass Sie das E-Mail-Protokoll zu diesem Konferenzbeitrag löschen wollen?"
 
 msgid "submission.event.confirmClearLog"
-msgstr "Are you sure you want to clear the event log for this Conference Proceedings  Submission?"
+msgstr "Sind Sie sicher, dass Sie das Ereignisprotokoll zu diesem Konferenzbeitrag löschen wollen?"
 
 msgid "submission.event.submissionSubmitted"
-msgstr "Initial Conference Proceedings  Submission completed."
+msgstr "Erst-Konferenzbeitragseinreichung abgeschlossen."
 
 msgid "submission.event.fileRevised"
-msgstr "Revision \"{$name}\" was uploaded for file {$submissionFileId}."
+msgstr "Revision \"{$name}\" was uploaded for file {$Conference Proceedings  SubmissionFileId}."
 
 msgid "submission.event.general.metadataUpdated"
 msgstr "Conference Proceedings Submission metadata updated"

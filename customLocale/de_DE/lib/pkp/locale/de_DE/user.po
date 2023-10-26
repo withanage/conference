@@ -1,0 +1,13 @@
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Zeige Konferenzbeitragseinreichungen"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Neuen Konferenzbeitrag einreichen"
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "E-Mail-Benachrichtigung: Freien Zugang zu Konferenzband Ausgaben"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "E-Mail-Benachrichtigung: neue Konferenzband Ausgaben erschienen"
+
