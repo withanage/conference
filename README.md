@@ -33,7 +33,10 @@ git clone  https://github.com/withanage/conference
 
 ### Concept, Dev-Lead
 
-- [https://github.com/withanage](mailto:dulip.withanage@gmail.com)
+- [https://github.com/withanage](mailto:dulip.withanage@gmail.com)  @ [TIB](https://tib.eu)
+### Contributions
+
+- [Sebastian Schmidt](https://github.com/basti95) @ [Sächsische Landesbibliothek -Staats- und Universitätsbibliothek Dresden](https://slub-dresden.de)  
 
 
 
