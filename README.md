@@ -36,7 +36,7 @@ git clone  https://github.com/withanage/conference
 - [https://github.com/withanage](mailto:dulip.withanage@gmail.com)  @ [TIB](https://tib.eu)
 ### Contributions
 
-- [Sebastian Schmidt](https://github.com/basti95) @ [Sächsische Landesbibliothek -Staats- und Universitätsbibliothek Dresden](https://slub-dresden.de)  
+- [Sebastian Schmidt](https://github.com/basti95) @ [Sächsische Landesbibliothek -Staats- und Universitätsbibliothek Dresden](https://www.slub-dresden.de/)  
 
 
 
