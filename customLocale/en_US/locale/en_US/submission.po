@@ -69,10 +69,10 @@ msgid "publication.invalidIssue"
 msgstr "The Conference Proceedings Volume for this publication could not be found."
 
 msgid "publication.publishedIn"
-msgstr "Published in <a href=\"{$issueUrl}\">{$Conference Proceedings VolumeName}</a>."
+msgstr "Published in <a href=\"{$issueUrl}\">{issueTitle}</a>."
 
 msgid "publication.scheduledIn"
-msgstr "Scheduled for publication in <a href=\"{$issueUrl}\">{$Conference Proceedings VolumeName}</a>."
+msgstr "Scheduled for publication in <a href=\"{$issueUrl}\">{$journalTitle}</a>."
 
 msgid "publication.unscheduledIn"
 msgstr "This has not been scheduled for publication in an Conference Proceedings Volume."

@@ -1,0 +1,522 @@
+msgid "manager.distribution.copyrightYearBasis.description"
+msgstr "Bitte wählen Sie aus, wie das Standard Copyright Datum für einen Konferenzbeitrag ausgewählt werden soll. Dieser Standard kann von Fall zu Fall überschrieben werden. Praktizieren Sie \publish as you go\, nutzen Sie nicht das Publikationsdatum des Konferenzbands."
+
+msgid "manager.distribution.copyrightYearBasis.issue"
+msgstr "Das Publikationsdatum des Konferenzbands verwenden"
+
+msgid "manager.distribution.copyrightYearBasis.submission"
+msgstr "Das Publikationsdatum des Konferenzbeitrags verwenden"
+
+msgid "manager.distribution.publishingMode.none"
+msgstr "OJS wird nicht verwendet, um die Konferenzbändeinhalte online zu veröffentlichen."
+
+msgid "manager.distribution.publishingMode.openAccess"
+msgstr "Die Konferenzband bietet freien Zugang (Open Access) zu ihren Inhalten."
+
+msgid "manager.distribution.publishingMode.subscription"
+msgstr "Einige oder alle Inhalte des Konferenzbands sind nur für Abonnent/innen zugänglich."
+
+msgid "manager.emails.confirmResetAll"
+msgstr "Sind Sie sicher, dass Sie alle E-Mail-Vorlagen in dieser Konferenzbandreihe zurücksetzen möchten? Sie werden alle Anpassungen verlieren, die Sie vorgenommen haben."
+
+msgid "manager.files.note"
+msgstr "Anmerkung: Der Dateinavigator ermöglicht die unmittelbare Betrachtung und Bearbeitung der mit einer Konferenzband verbundenen Dateien und Verzeichnisse."
+
+msgid "manager.journalManagement"
+msgstr "Konferenzbändeverwaltung"
+
+msgid "manager.language.submissions"
+msgstr "Beiträge"
+
+msgid "manager.language.confirmDefaultSettingsOverwrite"
+msgstr "Dies wird alle Konferenzband-Einstellungen, die Sie für diese Regionaleinstellung gewählt hatten, ersetzen"
+
+msgid "manager.languages.noneAvailable"
+msgstr "Leider ist keine weitere Sprache verfügbar. Setzen Sie sich mit Ihrer Administratorin/Ihrem Administrator in Verbindung, wenn Sie in dem Konferenzband weitere Sprachen verwenden möchten."
+
+msgid "manager.languages.primaryLocaleInstructions"
+msgstr "Dies ist die Standardsprache der Konferenzband-Website."
+
+msgid "manager.payment.generalFeesDescription"
+msgstr "\Institutionelle Mitgliedschaft\ steht im \Über uns\ des Konferenzbands unter \Zur Konferenzband\."
+
+msgid "manager.payment.options.acceptSubscriptionPayments"
+msgstr "Hier werden Abonnementzahlungen aktiviert. Art, Kosten, Dauer und Abonnent/innen werden durch die Abonnementverwaltung verwaltet."
+
+msgid "manager.payment.options.enablePayments"
+msgstr "Klicken Sie hier, um das Zahlungsmodul zu aktivieren. Sie müssen die Zahlungsmodalitäten im Formular unten konfigurieren. Bitte beachten Sie, dass die Benutzer/innen eingeloggt sein müssen, um Zahlungen vornehmen zu können."
+
+msgid "manager.payment.options.onlypdf"
+msgstr "Eingeschränkter Zugriff nur auf die PDF-Versionen von Konferenzbeiträgen"
+
+msgid "manager.payment.options.publicationFee"
+msgstr "Veröffentlichung von Konferenzbeiträgen"
+
+msgid "manager.payment.options.purchaseArticleFee"
+msgstr "Konferenzbeitrag erwerben"
+
+msgid "manager.payment.options.purchaseIssueFee"
+msgstr "Konferenzband erwerben"
+
+msgid "manager.payment.readerFeesDescription"
+msgstr "Die ausgewählten Optionen (zusammen mit der jeweiligen Beschreibung und den Gebühren, die weiter unten bearbeitet werden können) erscheinen im \Über uns\ der Konferenzband unter \Zur Konferenzband\ und an allen Stellen, an denen eine Zahlung erforderlich ist."
+
+msgid "manager.people.allEnrolledUsers"
+msgstr "Bei diesem Konferenzband registrierte Benutzer/innen"
+
+msgid "manager.people.allJournals"
+msgstr "Alle Konferenzbände"
+
+msgid "manager.people.allSiteUsers"
+msgstr "Benutzer/innen der Website für diesen Konferenzband registrieren"
+
+msgid "manager.people.confirmRemove"
+msgstr "Diese/n Benutze/in aus diesem Konferenzband streichen? Die Benutzerin/der Benutzer wird dadurch keine Funktionen mehr in diesem Konferenzband haben."
+
+msgid "manager.people.enrollSyncJournal"
+msgstr "Mit dem Konferenzband"
+
+msgid "manager.people.mergeUsers.from.description"
+msgstr "Wählen Sie eine/n Benutzer/in aus, deren/dessen Daten in einem anderen Konto zusammengeführt werden sollen (wenn jemand z.B. zwei Konten hat). Das zuerst ausgewählte Konto wird gelöscht, seine Beiträge, Aufgaben usw. werden dem zweiten Konto zugeschrieben."
+
+msgid "manager.people.syncUserDescription"
+msgstr "Mit der Synchronisierung werden alle in einem anderen Konferenzband in einer bestimmten Funktion eingeschriebenen Benutzer/innen in diesen Konferenzband mit eben dieser Funktion eingetragen. So können Konferenzbände eine bestimmte Benutzer/innen-Gruppe (z.B. Gutachter/innen) miteinander abgleichen."
+
+msgid "manager.sections.alertDelete"
+msgstr "Bevor diese Rubrik entfernt werden kann, müssen Sie Konferenzbeiträge aus dieser Rubrik in andere Rubriken verschieben."
+
+msgid "manager.section.sectionEditorInstructions"
+msgstr "Fügen Sie dieser Rubrik eine/n Rubrikredakteur/in aus den zur Verfügung stehenden Rubrikredakteur/innen hinzu. Sobald er/sie hinzugefügt worden ist, geben Sie an, ob die/der Rubrikredakteur/in den BEGUTACHTUNGS- (Peer Review) oder den REDAKTIONSPROZESS (Lektorat, Layout und Korrekturlektorat) von Beiträgen zu dieser Rubrik durchführen soll. Rubrikredakteur/innen können Sie anlegen, in dem Sie auf <a href=\{$sectionEditorsUrl}\>Rubrikredakteur/innen</a> unter Funktionen in der Konferenzbandverwaltung klicken."
+
+msgid "manager.sections.hideTocAuthor"
+msgstr "Autor/innennamen zu Beiträgen in dieser Rubrik nicht im Inhaltsverzeichnis aufführen."
+
+msgid "manager.sections.hideTocTitle"
+msgstr "Diese Rubrik nicht im Inhaltsverzeichnis des Konferenzbandes aufführen."
+
+msgid "manager.sections.identifyTypeExamples"
+msgstr "(z.B. \Begutachteter Konferenzbeitrag\, \Nicht begutachteter Review\, \Konferenzbeitrag auf Aufforderung\ usw.)"
+
+msgid "manager.sections.open"
+msgstr "Konferenzbeitragseinreichung möglich"
+
+msgid "manager.sections.submissionIndexing"
+msgstr "Wird nicht in den Index des Konferenzbandes aufgenommen"
+
+msgid "manager.section.submissionsToThisSection"
+msgstr "Eingereichte Beiträge für diese Rubrik"
+
+msgid "manager.setup"
+msgstr "Setup"
+
+msgid "manager.setup.homepageContent"
+msgstr "Inhalte der Konferenzband-Homepage"
+
+msgid "manager.setup.homepageContentDescription"
+msgstr "Die Konferenzband-Homepage besteht standardmäßig aus Navigations-Links. Zusätzliche Inhalte können hinzugefügt werden, indem eine oder alle der folgenden Optionen ausgewählt werden. Sie werden in der angezeigten Reihenfolge auftauchen."
+
+msgid "manager.setup.useStyleSheet"
+msgstr "Style sheet des Konferenzbands"
+
+msgid "manager.setup.contextName"
+msgstr "Name des Konferenzbands"
+
+msgid "manager.setup.pageHeader"
+msgstr "Header der Konferenzband-Homepage"
+
+msgid "manager.setup.addItemtoAboutJournal"
+msgstr "Text einfügen, der unter \Über uns\ erscheinen soll"
+
+msgid "manager.setup.appearInAboutJournal"
+msgstr "(Erscheint unter \Über uns\) "
+
+msgid "manager.setup.competingInterests.requireAuthors"
+msgstr "Verlangen Sie von Autor/innen, die einen Konferenzbeitrag einreichen wollen, zusätzlich eine Erklärung zu möglicherweise bestehenden Interessenkonflikten."
+
+msgid "manager.setup.history"
+msgstr "Konferenzband-Geschichte"
+
+msgid "manager.setup.historyDescription"
+msgstr "Dieser Text erscheint auf der \Über uns\-Seite der Konferenzband und kann genutzt werden, um Änderungen des Titels, in der Besetzung des Beirats und in anderen wesentlichen Belangen der Konferenzbandgeschichte zu beschreiben."
+
+msgid "manager.setup.currentIssue"
+msgstr "Aktuelle Konferenzband"
+
+msgid "manager.setup.details.description"
+msgstr "Name der Konferenzband, ISSN, Kontakte, Unterstützer/innen und Suchmaschinen."
+
+msgid "manager.setup.disableUserRegistration"
+msgstr "Konferenzbändeverwalter/innen registrieren alle Benutzer/innen; Redakteur/innen und Rubrikredakteur/innen können nur Gutachter/innen registrieren."
+
+msgid "manager.setup.disciplineDescription"
+msgstr "Hilfreich im Fall eines fachübergreifenden Konferenzbands oder wenn Autor/innen disziplinübergreifende Themen behandeln."
+
+msgid "manager.setup.disciplineProvideExamples"
+msgstr "Geben Sie Beispiele für die relevanten Fachgebiete des Konferenzbands an"
+
+msgid "manager.setup.displayCurrentIssue"
+msgstr "Fügen Sie das Inhaltsverzeichnis (falls vorhanden) des aktuellen Konferenzbands ein."
+
+msgid "manager.setup.emailSignature.description"
+msgstr "Alle E-Mails, die vom System im Namen der Konferenzbandreihe verschickt werden, tragen die folgende Signatur."
+
+msgid "manager.setup.enableAnnouncements.description"
+msgstr "Sie können die Leser/innen über die Konferenzband betreffende Neuigkeiten und Ereignisse auf der Mitteilungsseite des Konferenzbands informieren."
+
+msgid "manager.setup.enableUserRegistration"
+msgstr "Besucher/innen können einen Benutzeraccount bei der Konferenzbandreihe registrieren."
+
+msgid "manager.setup.focusAndScope.description"
+msgstr "Beschreiben Sie Autor/innen, Leser/innen und Bibliothekar/innen die Bandbreite der Konferenzbeiträge und anderer hier zu veröffentlichenden Werke."
+
+msgid "manager.setup.forAuthorsToIndexTheirWorkDescription"
+msgstr "OJS unterstützt das Protocol for Metadata Harvesting der <a href=\http://www.openarchives.org/\ target=\_blank\>Open Archives Initiative</a>, das den Zugang zu gut katalogisierten Forschungsquellen weltweit eröffnet. Die Autor/innen veröffentlichen Metadaten ihrer Beiträge nach einer ähnlichen Vorlage. Die Konferenzbandverwalterin/der Konferenzbandverwalter sollte die Kategorien für die Indizierung auswählen und den Autor/innen passende Beispiele an die Hand geben, die die Indizierung ihrer Arbeit erleichtern, wobei die Begriffe durch Semikolon getrennt werden (z.B. Begriff1; Begriff2). Die Einträge sollten als Beispiele (mit \z.B.\ oder \zum Beispiel\) gekennzeichnet sein."
+
+msgid "manager.setup.form.journalInitialsRequired"
+msgstr "Das Kürzel des Konferenzbandes ist erforderlich."
+
+msgid "manager.setup.form.journalTitleRequired"
+msgstr "Der Titel der Konferenzbandes ist erforderlich."
+
+msgid "manager.setup.form.numReviewersPerSubmission"
+msgstr "Die Zahl der Gutachter/innen pro Konferenzbeitrag wird benötigt."
+
+msgid "manager.setup.guidingSubmissions"
+msgstr "3. Schritt: Konferenzbeitragseinreichung"
+
+msgid "manager.setup.identity"
+msgstr "Konferenzbandidentität"
+
+msgid "manager.setup.includeCreativeCommons"
+msgstr "Für Konferenzbände, die unmittelbaren oder verzögerten Open Access liefern, allen veröffentlichten Werken zu gegebener Zeit eine Creative-Commons-Lizenz hinzufügen."
+
+msgid "manager.setup.information.description"
+msgstr "Kurzbeschreibungen der Konferenzband für Bibliothekar/innen, potentielle Autor/innen und Leser/innen finden sich unter \Informationen\ in der Seitenleiste."
+
+msgid "manager.setup.initialIssue"
+msgstr "Initialer Konferenzband"
+
+msgid "manager.setup.initialIssueDescription"
+msgstr "Geben Sie dem Initialen Konferenzband (je nach gewähltem Format) eine eindeutige Bezeichnung:"
+
+msgid "manager.setup.itemsPerPage.description"
+msgstr "Begrenzen Sie die Anzahl an Objekten (z.B. Konferenzbeitragseinreichungen, Nutzer oder Zuweisungen durch die Redaktion), die in einer Liste angezeigt werden sollen, bevor weitere auf einer Folgeseite angezeigt werden."
+
+msgid "manager.setup.journalAbbreviation"
+msgstr "Abkürzung des Konferenzbandnamens"
+
+msgid "manager.setup.journalArchiving"
+msgstr "Archivierung des Konferenzbands"
+
+msgid "manager.setup.contextSummary"
+msgstr "Zusammenfassung des Konferenzbands"
+
+msgid "manager.setup.contextAbout"
+msgstr "Über uns"
+
+msgid "manager.setup.contextAbout.description"
+msgstr "Nehmen Sie alle Informationen über Ihren Konferenzband mit auf, die von Interesse für Leser/innen, Autor/innen oder Gutachter/innen sein könnten. Hierzu könnten Ihre Open-Access-Policy, das Konzept Ihres Konferenzbands, Copyright-Angaben, Informationen über Sponsoren, die Geschichte des Konferenzbands, Angaben zum Datenschutz und die Beteiligung an LOCKSS- oder CLOCKSS-Archivierungssystemen gehören."
+
+msgid "manager.setup.journalHomepageContent"
+msgstr "Inhalt der Eingangsseite des Konferenzbands"
+
+msgid "manager.setup.journalHomepageContentDescription"
+msgstr "Standardmäßig besteht die Eingangsseite nur aus Navigationslinks. Zusätzlicher Inhalt kann mit einer der folgenden Optionen hinzugefügt werden. Er erscheint in der Reihenfolge der Optionen. Bitte beachten Sie, dass der aktuelle Konferenzband der Konferenzbandreihe immer über den \Aktuelle Konferenzband\-Link in der Navigationsleiste zu erreichen ist."
+
+msgid "manager.setup.journalHomepageHeader"
+msgstr "Kopfzeile der Startseite"
+
+msgid "manager.setup.journalHomepageHeader.altText"
+msgstr "Kopfzeile der Startseite des Konferenzband"
+
+msgid "manager.setup.journalHomepageHeaderDescription"
+msgstr "Grafische Versionen der Konferenzbandtitel und -logo (als .gif-, .jpg- oder .png-Dateien) können für die Startseite hochgeladen werden (ansonsten erscheint eine Textversion)."
+
+msgid "manager.setup.contextInitials"
+msgstr "Kürzel des Konferenzbands"
+
+msgid "manager.setup.journalLayout"
+msgstr "Konferenzbandlayout"
+
+msgid "manager.setup.journalLayoutDescription"
+msgstr "Entscheiden Sie sich für eine Designvorlage für Ihren Konferenzband und wählen Sie hier mögliche Layout-Bestandteile aus. Sie können auch ein Konferenzband-Style Sheet hochladen, mit dessen Hilfe Sie die durch die System- und Themen-Style Sheets vorgegebenen Einstellungen ersetzen können."
+
+msgid "manager.setup.journalLogo"
+msgstr "Logo des Konferenzbands"
+
+msgid "manager.setup.journalLogo.altText"
+msgstr "Logo des Konferenzbands"
+
+msgid "manager.setup.journalPageFooter"
+msgstr "Fußzeile des Konferenzbands"
+
+msgid "manager.setup.journalPageFooterDescription"
+msgstr "Dies ist die Fußzeile Ihres Konferenzbands. Sollten Sie sie ändern oder aktualisieren wollen, kopieren Sie den neuen HTML-Text in das nachstehende Textfeld. Beispiele könnten eine zusätzliche Navigationszeile oder ein Zähler sein. Diese Fußzeile wird auf allen Seiten erscheinen."
+
+msgid "manager.setup.journalPolicies"
+msgstr "2. Schritt: Konferenzbandrichtlinien und Publikationsprozess"
+
+msgid "manager.setup.journalSetup"
+msgstr "Einrichten des Konferenzbands"
+
+msgid "manager.setup.journalSetupUpdated"
+msgstr "Die Konfiguration Ihres Konferenzbands wurde aktualisiert."
+
+msgid "manager.setup.journalStyleSheetInvalid"
+msgstr "Das Format des Konferenzband-Style Sheets ist ungültig. Das gültige Format ist .css."
+
+msgid "manager.setup.journalTheme"
+msgstr "Konferenzband-Designvorlage"
+
+msgid "manager.setup.journalThumbnail"
+msgstr "Vorschaubild des Konferenzbands"
+
+msgid "manager.setup.journalThumbnail.description"
+msgstr "Ein kleines Logo oder Symbol Ihres Konferenzbands, das in der Liste der Konferenzbände angezeigt werden kann."
+
+msgid "manager.setup.contextTitle"
+msgstr "Titel der Konferenzband"
+
+msgid "manager.setup.keyInfo.description"
+msgstr "Geben Sie eine kurze Beschreibung Ihres Konferenzbands ein und benennen Sie Redakteure, Direktoren und andere Mitglieder Ihres Redaktionsteams."
+
+msgid "manager.setup.plnDescription"
+msgstr "Das PKP Preservation Network (PN) stellt freie Archivierungsdienste für jede OJS-Konferenzbandreihe bereit, die einige grundsätzliche Kriterien erfüllt."
+
+msgid "manager.setup.plnPluginNotInstalled"
+msgstr "Das PKP Preservation Network (PN) stellt freie Archivierungsdienste für jede OJS-Konferenzbandreihe bereit, die einige grundsätzliche Kriterien erfüllt. Das PKP-PN-Plugin für OJS 3 wird momentan entwickelt und wird bald in der Plugin-Gallerie verfügbar sein."
+
+msgid "manager.setup.lockssEnable"
+msgstr "Aktivieren Sie LOCKSS und speichern und verteilen Sie den Inhalt des Konferenzbands bei den an LOCKSS teilnehmenden Bibliotheken über ein <a href=\{$lockssUrl}\ target=\_blank\>LOCKSS-Manifest</a>."
+
+msgid "manager.setup.lockssLicenseDescription"
+msgstr "Eine LOCKSS-Lizenz wird in \Über uns\ unter Archivierung erscheinen: <a href=\http://www.lockss.org/community/publishers-titles-gln/\ target=\_blank\>LOCKSS-Lizenz</a>"
+
+msgid "manager.setup.lockssRegister"
+msgstr "Identifizieren Sie 6 bis 10 Bibliotheken, die die Konferenzband registrieren und archivieren sollen. Wenden Sie sich zum Beispiel an Einrichtungen, in denen Mitglieder der Redaktion oder des Beirats arbeiten und/oder Einrichtungen, die bereits an LOCKSS beteiligt sind. Siehe <a href=\http://www.lockss.org/community/\ target=\_blank\>the LOCKSS community</a>."
+
+msgid "manager.setup.clockssEnable"
+msgstr "Aktivieren Sie CLOCKSS und speichern und verteilen Sie den Inhalt des Konferenzbands bei den an CLOCKSS teilnehmenden Bibliotheken über ein <a href=\{$clockssUrl}\ target=\_blank\>CLOCKSS-Manifest</a>."
+
+msgid "manager.setup.clockssLicenseDescription"
+msgstr "Eine CLOCKSS-Lizenz wird in \Über uns\ unter Archivierung erscheinen: <a href=\http://clockss.org/\ target=\_blank\>CLOCKSS-Lizenz</a>"
+
+msgid "manager.setup.look.description"
+msgstr "Titel der Startseite, Inhalt, Kopfzeile des Konferenzbands, Fußzeile, Navigationsleiste und Style Sheet."
+
+msgid "manager.setup.managingTheJournal"
+msgstr "4. Schritt: Den Konferenzband verwalten"
+
+msgid "manager.setup.navItemIsLiteral"
+msgstr "Die Seitenbenennung besteht aus einer Buchstabenkette (z.B. \Einrichtung des Konferenzbands\) und nicht aus einem Lokalisierungsschlüssel (z.B. \manager.setup\)"
+
+msgid "manager.setup.notifications.submissionAckDisabled"
+msgstr "<strong>Anmerkung:</strong> Die Funktion \Eingangsbestätigung per E-Mail\ ist deaktiviert. Um diese Funktion zu nutzen, aktivieren Sie \SUBMISSION_ACK email\ in E-Mails."
+
+msgid "manager.setup.proofingInstructionsDescription"
+msgstr "Die Anweisungen für das Korrekturlektorat werden den Korrekturlektor/innen, Autor/innen, Layouter/innen und Rubrikredakteur/innen während der redaktionellen Bearbeitung des Konferenzbeitrags übermittelt. Nachstehend finden Sie einen Standardsatz von Anweisungen in HTML-Format, die jederzeit von der Konferenzbandverwaltung geändert werden können (in HTML oder einfachem Text)."
+
+msgid "manager.setup.publicationScheduleDescription"
+msgstr "Die Beiträge des Konferenzbands können zusammen veröffentlicht werden, als Teil einer Konferenzband mit eigenem Inhaltsverzeichnis. Es können auch einzelne fertige Konferenzbeitrag durch Anfügen an das Inhaltsverzeichnis der \aktuellen Konferenzband\ veröffentlicht werden. Erläutern Sie den Leser/innen unter \Über uns\ das Veröffentlichungssystem und die vorgesehene Erscheinungsfrequenz der Konferenzband."
+
+msgid "manager.setup.publicIdentifier"
+msgstr "Kennung des Inhalts des Konferenzbands"
+
+msgid "manager.setup.restrictSiteAccess"
+msgstr "Benutzer/innen müssen registriert und angemeldet sein, um die Konferenzbandseite aufrufen zu können."
+
+msgid "manager.setup.reviewOptions.restrictReviewerFileAccess.description"
+msgstr "Erst wenn sie der Übernahme der Begutachtung zugestimmt haben, erhalten Gutachter/innen Zugriff auf die jeweilige Konferenzbeitragsdatei."
+
+msgid "manager.setup.searchDescription.description"
+msgstr "Geben Sie eine kurze Beschreibung (50-300 Zeichen) des Konferenzbands an, die Suchmaschinen anzeigen können, wenn der Konferenzband in den Suchergebnissen aufgelistet wird."
+
+msgid "manager.setup.sectionsDefaultSectionDescription"
+msgstr "(Falls keine Rubrik angegeben wird, werden die Beiträge standardmäßig für die Rubrik Konferenzbeitrag eingereicht.)"
+
+msgid "manager.setup.sectionsDescription"
+msgstr "Gehen Sie zur Rubrikverwaltung, um Konferenzbandrubriken einzurichten oder zu verändern (z.B. Konferenzbeitrag, Rezensionen usw.).<br /><br /> Wenn Beiträge eingereicht werden, schlagen die Autor/innen eine Rubrik vor."
+
+msgid "manager.setup.selectEditorDescription"
+msgstr "Redakteur/in, die/der den Konferenzbeitrag betreut."
+
+msgid "manager.setup.selectSectionDescription"
+msgstr "Die Rubrik des Konferenzbands, für die der Konferenzbeitrag in Frage kommt."
+
+msgid "manager.setup.siteAccess.viewContent"
+msgstr "Konferenzbeitragsinhalt ansehen"
+
+msgid "manager.setup.stepsToJournalSite"
+msgstr "Fünf Schritte zu einem Konferenzband"
+
+msgid "manager.setup.submissionGuidelines"
+msgstr "Richtlinien für die Konferenzbeitragseinreichung"
+
+msgid "manager.setup.submissionPreparationChecklist"
+msgstr "Checkliste zur Vorbereitung der Einreichung des Konferenzbandbeitrags"
+
+msgid "manager.setup.submissionPreparationChecklistDescription"
+msgstr "Bei der Einreichung eines Konferenzbeitrags zur Konferenzbandreihe werden die Autoren zunächst gebeten, jedes Element in der Checkliste zur Vorbereitung der Einreichung als abgeschlossen zu markieren, bevor sie fortfahren. Die Checkliste findet sich auch in den Autorenrichtlinien, unter „Über die Konferenzbandreihe“. Die Liste kann unten bearbeitet werden, aber alle Elemente auf der Liste müssen mit einem Häkchen versehen sein, bevor die Autoren mit ihrer Konferenzbandbeitragseinreichung fortfahren können."
+
+msgid "manager.setup.submissions"
+msgstr "Konferenzbeitragseinreichung"
+
+msgid "manager.setup.disableSubmissions.description"
+msgstr "Verhindern Sie, dass Nutzer/innen neue Konferenzbeitrag für diese Konferenzband einreichen. Auf der Seite <a href=\{$url}\>journal sections</a> können Konferenzbeitragseinreichungen für individuelle Rubriken deaktiviert werden."
+
+msgid "manager.setup.disableSubmissions.notAccepting"
+msgstr "Dieser Konferenzband nimmt derzeit keine Konferenzbeitragseinreichungen entgegen. Gehen Sie zu Workflow-Einstellungen, um Konferenzbeitragseinreichungen zu aktivieren."
+
+msgid "manager.setup.uniqueIdentifierDescription"
+msgstr "Konferenzbeiträge und Konferenzbände können mit einer Identifikationsnummer oder einer Zeichenkette gekennzeichnet werden, wobei ein System, z.B. das DOI (Digital Object Identifier)-System, verwendet werden sollte."
+
+msgid "manager.setup.useEditorialReviewBoard"
+msgstr "Der Konferenzband hat eine Redaktion bzw. ein Herausgeber/innengremium."
+
+msgid "manager.statistics.statistics"
+msgstr "Konferenzbandstatistik"
+
+msgid "manager.statistics.statistics.articleViews"
+msgstr "Konferenzbeitrag angesehen (nur für Autor/innen)"
+
+msgid "manager.statistics.statistics.description"
+msgstr "OJS berechnet folgende Statistiken für jede Konferenzbandreihe: \Tage bis zur Begutachtung\ wird vom Konferenzbeitragseingang (oder dem Eingang der zu begutachtenden Version) bis zur ersten Redaktionsentscheidung berechnet, während die \Tage bis zur Veröffentlichung\ der angenommenen Beiträge vom Hochladen des Originals bis zur Veröffentlichung berechnet werden."
+
+msgid "manager.statistics.statistics.makePublic"
+msgstr "Mitteilungen, die den Leser/innen in \Über uns\ vermittelt werden."
+
+msgid "manager.statistics.statistics.note"
+msgstr "Anmerkung: Die Prozentsätze der Gutachter/innenempfehlungen summieren sich nicht notwendigerweise auf 100 %, weil erneut eingereichte Beiträge entweder angenommen, abgelehnt oder noch in Bearbeitung sein können."
+
+msgid "manager.statistics.statistics.numIssues"
+msgstr "Erschienene Konferenzbände"
+
+msgid "manager.statistics.statistics.numSubmissions"
+msgstr "Gesamtzahl der Konferenzbeiträge"
+
+msgid "manager.statistics.statistics.selectSections"
+msgstr "Wählen Sie die Rubriken für die Berechnung der Peer-Review-Statistiken des Konferenzbands aus."
+
+msgid "manager.statistics.reports.defaultReport.articleDownloads"
+msgstr "Downloads von Konferenzbeitragsdateien"
+
+msgid "manager.statistics.reports.defaultReport.articleAbstract"
+msgstr "Aufrufe der Abstractseiten von Konferenzbeiträgen"
+
+msgid "manager.statistics.reports.defaultReport.articleAbstractAndDownloads"
+msgstr "Abstractseiten und Downloads"
+
+msgid "manager.statistics.reports.defaultReport.journalIndexPageViews"
+msgstr "Startseiten-Aufrufe"
+
+msgid "manager.statistics.reports.defaultReport.issuePageViews"
+msgstr "Aufrufe des Inhaltverzeichnis des Konferenzbands"
+
+msgid "manager.statistics.reports.filters.byContext.description"
+msgstr "Ergebnisse nach Kontext eingrenzen (Konferenzbände und/oder Konferenzbandbeiträge)."
+
+msgid "manager.statistics.reports.filters.byObject.description"
+msgstr "Ergebnisse nach Objekttyp (Konferenzbandreihe, Konferenzband, Konferenzbandbeiträge, Dateitypen) und/oder nach einer oder mehreren Objekt-IDs eingrenzen."
+
+msgid "manager.subscriptionPolicies.expiryRemindersDescription"
+msgstr "Automatische E-Mails zur Erinnerung (verfügbar unter den Standard-E-Mails des OJS) können den Abonnent/innen sowohl vor als auch nach dem Ablauf des Abonnements zugehen."
+
+msgid "manager.subscriptionPolicies.openAccessNotificationDescription"
+msgstr "Eingetragene Benutzer/innen können sich das Inhaltsverzeichnis eines Konferenzbands per E-Mail zuschicken lassen, sobald dieser frei zugänglich ist."
+
+msgid "manager.subscriptionPolicies.onlinePaymentNotificationsDescription"
+msgstr "An die Abonnementverwalter/innen können automatische Mailbenachrichtigungen (verfügbar für Konferenzbandeverwalter/innen in den OJS-E-Mail-Vorlagen) verschickt werden bei Vervollständigung der Online-Zahlung von Abonnements."
+
+msgid "manager.subscriptionPolicies.onlinePaymentDisabled"
+msgstr "<strong>Hinweis:</strong> Um diese Optionen zu aktivieren, muss die Konferenzbanverwalterin/der Konferenzbandverwalter unter Leser/innengebühren die Onlinezahlungsmodule aktivieren, incl. der Onlinezahlungen für Abonnements."
+
+msgid "manager.subscriptionPolicies.openAccessOptions"
+msgstr "Open-Access-Optionen für Abonnement-Konferenzbände"
+
+msgid "manager.subscriptionPolicies.openAccessOptionsDescription"
+msgstr "Konferenzbände mit Abonnement können \verzögerten Open Access\ und/oder \Selbstarchivierung durch die/den Autor/in\ anbieten und damit die Leser/innenschaft vergrößern und die Häufigkeit, in der Beiträge zitiert werden, heraufsetzen."
+
+msgid "manager.subscriptions.form.subscriptionContactRequired"
+msgstr "Um der Benutzerin/dem Benutzer eine Benachrichtigung per E-Mail zuschicken zu können, müssen Name und E-Mail-Adresse der Abonnementverwaltung bei der Einrichtung des Konferenzbands festgelegt werden."
+
+msgid "manager.subscriptions.form.subscriptionExists"
+msgstr "Diese/r Benutzer/in hat diesen Konferenzband bereits abonniert."
+
+msgid "manager.subscriptions.selectSubscriber.desc"
+msgstr "Die Konferenzbandverwalter/innen, Redakteur/innen, Rubrikredakteur/innen, Layouter/innen, Lektor/innen und Korrekturlektor/innen haben automatisch die Zugangsprivilegien von Abonnent/innen."
+
+msgid "manager.setup.categories.description"
+msgstr "Wählen Sie die passendsten Kategorien aus der oben angezeigten Menge. Leser/innen können die gesamte Konferenzbandreihe dann nach Kategorien durchsehen."
+
+msgid "manager.setup.section.description"
+msgstr "Konferenzbeiträge innerhalb veröffentlichter Konferenzbände einer Konferenzbandreihe sind in Rubriken organisiert, normalerweise anhand eines Themas oder Inhaltstyps (z.B. Überblicksartikel, Forschung etc.)."
+
+msgid "settings.roles.gridDescription"
+msgstr "Rollen sind Nutzergruppen des Konferenzbands, die Zugang zu verschiedenen Rechteleveln und damit verbundenen Workflows erhalten. Es gibt fünf verschiedene Rechtelevel: Konferenzbandverwalter/innen haben kompletten Zugriff auf die Konferenzband (alle Inhalte und Einstellungen); Rubrikredakteur/innen haben kompletten Zugriff auf alle ihnen zugewiesenen Konferenzbeitragseinreichungen; Konferenzbandassistent/innen haben begrenzten Zugriff auf alle Konferenzbeitragseinreichungen, die ihnen explizit durch eine/n Redakteur/in zugewiesen worden sind. Gutachter/innen können die ihnen zugewiesenen Beiträge sehen und begutachten, und Autor/innen können im begrenzten Umfang Informationen über ihre eigenen Konferenzbeitragseinreichungen sehen und bearbeiten. Zusätzlich gibt es fünf verschiedene Phasen, auf die Rollen Zugriff erhalten können: Konferenzbeitragseinreichung, Interne Begutachtung, Externe Begutachtung, Lektorat und Produktion."
+
+msgid "manager.setup.copyrightYearBasis"
+msgstr "Basiere das Copyright-Jahr eines neuen Konferenzbeitrags auf"
+
+msgid "manager.setup.copyrightYearBasis.article"
+msgstr "Konferenzbeitrag: das Standardjahr wird aus dem Veröffentlichungsjahr des Konferenzbeitrags abgeleitet, wie bei \publish-as-you-go\."
+
+msgid "manager.setup.copyrightYearBasis.issue"
+msgstr "Konferenzband: das Standardjahr wird aus dem Veröffentlichungsdatum des Konferenzbands abgeleitet."
+
+msgid "manager.setup.resetPermissions"
+msgstr "Konferenzbeitragsrechte zurücksetzen"
+
+msgid "manager.setup.resetPermissions.confirm"
+msgstr "Sind Sie sicher, dass Sie die Rechte, die bisher den Konferenzbeiträgen zugewiesen sind, zurücksetzen möchten? Diese Aktion kann nicht rückgängig gemacht werden."
+
+msgid "manager.setup.resetPermissions.description"
+msgstr "Entfernen Sie die Urheberrechtserklärung und die Lizenzinformationen für jeden veröffentlichten Konferenzbeitrag, um sie auf die aktuellen Standardeinstellungen des Konferenzbands zurückzusetzen. Dadurch werden alle früheren Copyright- und Lizenzinformationen, die den Konferenzbeiträgen beigefügt waren, dauerhaft entfernt. In einigen Fällen ist es Ihnen gesetzlich nicht gestattet, Werke, die unter einer anderen Lizenz veröffentlicht wurden, neu zu lizenzieren. Bitte seien Sie vorsichtig bei der Verwendung dieses Tools und konsultieren Sie juristischen Beistand, wenn Sie sich nicht sicher sind, welche Rechte Sie an den in Ihres Konferenzbands veröffentlichten Konferenzbeiträgen haben."
+
+msgid "manager.setup.resetPermissions.success"
+msgstr "Konferenzbeitragsrechte wurden erfolgreich zurückgesetzt."
+
+msgid "grid.genres.title"
+msgstr "Konferenzbeitragsbestandteile"
+
+msgid "grid.genres.description"
+msgstr "Diese Bestandteile werden genutzt, um Dateien zu benennen. Sie werden in einem Pull-Down-Menü beim Hochladen von Dateien angezeigt. Die Genres, die mit ## markiert sind, ermöglichen es der Nutzerin/dem Nutzer, die Datei entweder mit der kompletten Konferenzbeitragseinreichung 99Z oder einem bestimmten Bestandteil, identifiziert anhand der Nummer (z.B. 02), zu verknüpfen."
+
+msgid "plugins.importexport.common.export.articles"
+msgstr "Konferenzbeitrag"
+
+msgid "plugins.importexport.common.export.issues"
+msgstr "Konferenzbände"
+
+msgid "plugins.importexport.common.filter.issue"
+msgstr "Jeder Konferenzband"
+
+msgid "plugins.importexport.common.senderTask.warning.noDOIprefix"
+msgstr "DOI-Präfix fehlt für den Konferenzband mit dem Pfad {$path}."
+
+msgid "plugins.importexport.common.error.unknownJournal"
+msgstr "Der angegebene Pfad der Konferenzbandreihe, {$journalPath}, existiert nicht."
+
+msgid "plugins.importexport.common.error.import.issueGalleyFileMissing"
+msgstr "Eine Fahne konnte nicht importiert werden, die Datei fehlt."
+
+msgid "plugins.importexport.common.error.issueGalleyFileMissing"
+msgstr "Die Konferenzbandfahne {$id} konnte nicht exportiert werden, die Datei wurde nicht unter dem Pfad \{$path}\ gefunden."
+
+msgid "plugins.importexport.common.error.issueCoverImageMissing"
+msgstr "Das Titelbild dea Konferenzbands {$id} wurde nicht exportiert, die Datei wurde nicht unter dem Pfad \{$path}\ gefunden."
+
+msgid "manager.setup.notifications.copyPrimaryContact"
+msgstr "Eine Kopie an den in den Einstellungen der Konferenzband festgelegten Hauptkontakt senden."
+
+msgid "stats.publicationStats"
+msgstr "Konferenzbeitragstatistik"
+
+msgid "stats.publications.details"
+msgstr "Konferenzbeitragdetails"
+
+msgid "stats.publications.none"
+msgstr "Es wurden keine Konferenzbeiträge mit Nutzungsstatistiken gefunden, die diesen Parametern entsprechen."
+
+msgid "stats.publications.countOfTotal"
+msgstr "{$count} von {$total} Konferenzbeiträgen"
+

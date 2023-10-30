@@ -123,7 +123,7 @@ msgid "emails.emailLink.subject"
 msgstr "Conference Proceedings Submission of Possible Interest"
 
 msgid "emails.emailLink.body"
-msgstr "Thought you might be interested in seeing &quot;{$Conference Proceedings  SubmissionTitle}&quot; by {$authorName} published in Vol {$volume}, No {$number} ({$year}) of {$contextName} at &quot;{$Conference Proceedings SubmissionUrl}&quot;."
+msgstr "Thought you might be interested in seeing &quot; {$submissionTitle}&quot; by {$authorName} published in Vol {$volume}, No {$number} ({$year}) of {$contextName} at &quot; {$submissionUrl}&quot;."
 
 msgid "emails.emailLink.description"
 msgstr "This email template provides a registered reader with the opportunity to send information about an Conference Proceedings Submission to somebody who may be interested. It is available via the Reading Tools and must be enabled by the Conference Proceedings Series Manager in the Reading Tools Administration page."
