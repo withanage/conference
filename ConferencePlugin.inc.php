@@ -52,7 +52,7 @@ class ConferencePlugin extends GenericPlugin
 	 * @param mixed $schema
 	 * @return void
 	 */
-	function addProperties(mixed $schema): void
+	function addProperties($schema): void
 	{
 		foreach ($this->getAdditionalFields() as $field) {
 			$schema->properties->$field = (object)[
