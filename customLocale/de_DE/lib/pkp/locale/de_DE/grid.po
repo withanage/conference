@@ -1,3 +1,6 @@
+# Heike Riegler <heike.riegler@julius-kuehn.de>, 2022.
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2022, 2023.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
 
 msgid "grid.action.requestRevisions"
 msgstr "Überarbeitung für diese Konferenzbeitragseinreichung anfordern"

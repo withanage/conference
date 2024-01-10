@@ -495,7 +495,7 @@ msgid "plugins.importexport.common.senderTask.warning.noDOIprefix"
 msgstr "DOI prefix is missing for the Conference Proceedings Series with the path {$path}."
 
 msgid "plugins.importexport.common.error.unknownJournal"
-msgstr "The specified journal path, \"{$Conference Proceedings SeriesPath}\", does not exist."
+msgstr "The specified Conference Proceedings Series path, \"{$journalPath}\", does not exist."
 
 msgid "plugins.importexport.common.error.import.issueGalleyFileMissing"
 msgstr "An Conference Proceedings Volume galley could not be imported, its file is missing."

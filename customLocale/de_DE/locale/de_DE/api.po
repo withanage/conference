@@ -1,0 +1,36 @@
+msgid "api.announcements.400.contextsNotMatched"
+msgstr "Die angefragte Mitteilung ist nicht Teil dieser Konferenzband."
+
+msgid "api.emails.403.disabled"
+msgstr "Die E-Mail-Benachrichtigungsfunktion wurde für dieses Journal nicht aktiviert."
+
+msgid "api.submissions.403.cantChangeContext"
+msgstr "Sie können die Konferenzband einer Konferenzbeitragseinreichung nicht ändern."
+
+msgid "api.submissions.403.unpublishedIssues"
+msgstr "Sie haben keine Berechtigung, unveröffentlichte Ausgaben zu sehen."
+
+msgid "api.contexts.403.requestedDisabledContexts"
+msgstr "Sie können nur Konferenzbände ansehen die freigeschaltet sind."
+
+msgid "api.contexts.403.notAllowed"
+msgstr "Sie haben keine Berechtigung diesen Konferenzband anzusehen."
+
+msgid "api.contexts.403.requiresContext"
+msgstr "Sie können diese Konferenzband nicht von der site-wide API aus ändern."
+
+msgid "api.contexts.403.notAllowedEdit"
+msgstr "Sie haben keine Berechtigung diese Konferenzband zu ändern."
+
+msgid "api.contexts.403.notAllowedDelete"
+msgstr "Sie haben keine Berechtigung diese Konferenzband zu löschen."
+
+msgid "api.contexts.404.contextNotFound"
+msgstr "Der Konferenzband, nach dem Sie suchen, wurde nicht gefunden."
+
+msgid "api.publications.403.contextsDidNotMatch"
+msgstr "Der Beitrag, den Sie suchen, ist nicht Teil dieses Konferenzband."
+
+msgid "api.publications.403.submissionsDidNotMatch"
+msgstr "Die Publikation, den Sie suchen, ist nicht Teil dieser Konferenzbandeinreichung."
+

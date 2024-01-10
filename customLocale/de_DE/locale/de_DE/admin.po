@@ -1,0 +1,33 @@
+msgid "admin.hostedContexts"
+msgstr "Konferenzbände auf dieser Website"
+
+msgid "admin.settings.redirect"
+msgstr "Umleitung zu dem Konferenzband"
+
+msgid "admin.journals.journalSettings"
+msgstr "Konferenzbände-Einstellungen"
+
+msgid "admin.journals.noneCreated"
+msgstr "Es wurde keine Konferenzband eingerichtet."
+
+msgid "admin.contexts.create"
+msgstr "Einen Konferenzband einrichten"
+
+msgid "admin.contexts.form.pathExists"
+msgstr "Der gewählte Zugangspfad wird bereits für einen anderen Konferenzband verwendet."
+
+msgid "admin.contexts.form.primaryLocaleNotSupported"
+msgstr "Die primäre Regionaleinstellung muss aus einer Regionaleinstellung der Konferenzband ausgewählt werden."
+
+msgid "admin.journals.enableJournalInstructions"
+msgstr "Einstellen, dass dieser Konferenzband öffentlich auf der Website auftaucht"
+
+msgid "admin.contexts.contextDescription"
+msgstr "Beschreibung des Konferenzbandes"
+
+msgid "admin.journal.pathImportInstructions"
+msgstr "Existierender oder einzurichtender Zugangspfad zum Konferenzband (z.B. \ojs\)."
+
+msgid "admin.journals.transcode"
+msgstr "Metadaten des Konferenzbeitrags aus ISO 8859-1 umkodieren"
+
