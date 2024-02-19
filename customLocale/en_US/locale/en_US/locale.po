@@ -69,7 +69,7 @@ msgid "submission.submissionEditing"
 msgstr "Conference Proceedings Submission Editing"
 
 msgid "submission.scheduledIn"
-msgstr "Scheduled for publication in {$Conference Proceedings VolumeName}."
+msgstr "Scheduled for publication in {$issueName}."
 
 msgid "submission.search"
 msgstr "Conference Proceedings Submission Search"
@@ -204,7 +204,7 @@ msgid "sectionEditor.noneAssigned"
 msgstr "No Conference Proceedings  Submissions assigned."
 
 msgid "sectionEditor.regrets.title"
-msgstr "#{$Conference Proceedings  SubmissionId} Reviewer Regrets, Cancellations & Earlier Rounds"
+msgstr "#{$submissionId} Reviewer Regrets, Cancellations & Earlier Rounds"
 
 msgid "reviewer.pendingReviews"
 msgstr "Conference Proceedings Submissions Pending Review"
@@ -333,7 +333,7 @@ msgid "installer.upgradeApplication"
 msgstr "Upgrade Open Conference Proceedings Series Systems"
 
 msgid "log.review.resubmit"
-msgstr "The submission {$Conference Proceedings  SubmissionId} has been resubmitted for review."
+msgstr "The submission {$SubmissionId} has been resubmitted for review."
 
 msgid "log.copyedit.copyeditorFile"
 msgstr "A copyeditor version of the Conference Proceedings  Submission file has been uploaded."
@@ -345,16 +345,16 @@ msgid "log.editor.editorFile"
 msgstr "An editor version of the Conference Proceedings  Submission file has been uploaded."
 
 msgid "log.editor.archived"
-msgstr "The submission {$Conference Proceedings  SubmissionId} has been archived."
+msgstr "The submission {$SubmissionId} has been archived."
 
 msgid "log.editor.restored"
-msgstr "The submission {$Conference Proceedings  SubmissionId} has been restored to the queue."
+msgstr "The submission {$SubmissionId} has been restored to the queue."
 
 msgid "log.proofread.complete"
-msgstr "{$proofreaderName} has submitted {$Conference Proceedings  SubmissionId} for scheduling."
+msgstr "{$proofreaderName} has submitted {$SubmissionId} for scheduling."
 
 msgid "log.imported"
-msgstr "{$userName} has imported Conference Proceedings Submission {$Conference Proceedings  SubmissionId}."
+msgstr "{$userName} has imported Conference Proceedings Submission {$SubmissionId}."
 
 msgid "metadata.pkp.peerReviewed"
 msgstr "Peer-reviewed Conference Proceedings Submission"
@@ -399,7 +399,7 @@ msgid "article.view.interstitial"
 msgstr "Please choose an Conference Proceedings Submission file to download."
 
 msgid "search.cli.rebuildIndex.indexing"
-msgstr "Indexing \"{$Conference Proceedings SeriesName}\""
+msgstr "Indexing \"{$journalName}\""
 
 msgid "search.cli.rebuildIndex.indexingByJournalNotSupported"
 msgstr "This search implementation does not allow per-Conference Proceedings Series re-indexing."
