@@ -9,7 +9,7 @@ msgid "context.select"
 msgstr "Switch to another Conference Proceedings Series:"
 
 msgid "common.software"
-msgstr "Open Conference Proceedings Series Systems"
+msgstr "Open Journal Systems"
 
 msgid "common.journalHomepageImage.altText"
 msgstr "Conference Proceedings Series Homepage Image"
