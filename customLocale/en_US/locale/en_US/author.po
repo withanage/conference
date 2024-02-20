@@ -96,7 +96,7 @@ msgid "author.submit.noSupplementaryFiles"
 msgstr "No supplementary files have been added to this Conference Proceedings  Submission."
 
 msgid "author.submit.confirmationDescription"
-msgstr "To submit your manuscript to {$journalTitle} click Finish Submission. The submission's principal contact will receive an acknowledgement by email and will be able to view the Conference Proceedings  Submission's progress through the editorial process by logging in to the journal web site. Thank you for your interest in publishing with {$Conference Proceedings SeriesTitle}."
+msgstr "To submit your manuscript to {$journalTitle} click Finish Submission. The submission's principal contact will receive an acknowledgement by email and will be able to view the Conference Proceedings  Submission's progress through the editorial process by logging in to the journal web site. Thank you for your interest in publishing with {$journalTitle}."
 
 msgid "author.submit.noFiles"
 msgstr "No files have been attached to this Conference Proceedings  Submission."
@@ -105,7 +105,7 @@ msgid "author.submit.finishSubmission"
 msgstr "Finish Conference Proceedings Submission"
 
 msgid "author.submit.submissionComplete"
-msgstr "Conference Proceedings Submission complete. Thank you for your interest in publishing with {$Conference Proceedings SeriesTitle}."
+msgstr "Conference Proceedings Submission complete. Thank you for your interest in publishing with {$journalTitle}."
 
 msgid "author.submit.authorSubmitLoginMessage"
 msgstr "A user account is required to submit to this Conference Proceedings Series. This allows our editors to track your Conference Proceedings  Submissions and contact you when the status of your Conference Proceedings  Submission changes, or if additional information is required from you."
