@@ -15,4 +15,25 @@ msgid "plugins.generic.conference.metadata.conferenceDateBegin.title"
 msgstr "Konferenz Metadaten"
 
 msgid "plugins.generic.conference.metadata.conferenceDateBegin"
-msgstr "<![CDATA[Konferenz DOI von <a href=\"https://projects.tib.eu/confident/\><https://projects.tib.eu/confident/>]"
+msgstr "Startdatum"
+
+msgid "plugins.generic.conference.metadata.conferenceDateEnd"
+msgstr "Enddatum"
+
+msgid "plugins.generic.conference.metadata.conferencePlace.title"
+msgstr "Ort der Konferenz"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceStreet"
+msgstr "Straße / Platz"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceCity"
+msgstr "Stadt"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceCountry"
+msgstr "Land"
+
+msgid "plugins.generic.conference.displayName"
+msgstr "Konferenzveröffentlichung"
+
+msgid "plugins.generic.conference.description"
+msgstr "Ermöglicht Konferenzen in OJS abzubilden. Konferenzspezifische Metadaten werden nach aktivierung automatisch hinzugefügt und das Frontend und Backend wird angepasst um Konferenzveröffentlichungen darzustellen."

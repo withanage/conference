@@ -1,0 +1,17 @@
+# Sebastian Wolf <bibliothekswelt@htmlwolf.de>, 2021.
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2021, 2023.
+# Heike Riegler <heike.riegler@julius-kuehn.de>, 2022.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "user.login.registrationComplete.manageSubmissions"
+msgstr "Zeige Konferenzbeitragseinreichungen"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Neuen Konferenzbeitrag einreichen"
+
+msgid "user.profile.form.openAccessNotifications"
+msgstr "E-Mail-Benachrichtigung: Freien Zugang zu Konferenzband Ausgaben"
+
+msgid "user.profile.form.publishedNotifications"
+msgstr "E-Mail-Benachrichtigung: neue Konferenzband Ausgaben erschienen"
+

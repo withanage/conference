@@ -1,0 +1,39 @@
+# Heike Riegler <heike.riegler@julius-kuehn.de>, 2022.
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2022, 2023.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "grid.action.requestRevisions"
+msgstr "Überarbeitung für diese Konferenzbeitragseinreichung anfordern"
+
+msgid "grid.action.accept"
+msgstr "Diese Konferenzbeitragseinreichung annehmen"
+
+msgid "grid.action.decline"
+msgstr "Konferenzbeitragseinreichung ablehnen"
+
+msgid "grid.action.internalReview"
+msgstr "Konferenzbeitragseinreichung in die internen Begutachtung schicken"
+
+msgid "grid.action.externalReview"
+msgstr "Konferenzbeitragseinreichung in die externe Begutachtung schicken"
+
+msgid "grid.action.sendToProduction"
+msgstr "Konferenzbeitragseinreichung in die Produktion schicken"
+
+msgid "grid.action.viewMetadata"
+msgstr "Die Metadaten zu dieser Konferenzbeitragseinreichung ansehen"
+
+msgid "grid.action.bookInfo"
+msgstr "Informationen zur Konferenzbeitragseinreichung"
+
+msgid "grid.libraryFiles.submission.title"
+msgstr "Konferenzbeitragseinreichungsbibliothek"
+
+msgid "grid.submissionChecklist.title"
+msgstr "Checkliste für Konferenzbeitragseinreichungen"
+
+msgid "grid.artworkFile.placement"
+msgstr "Platzierung in der Konferenzbeitragseinreichung"
+
+msgid "grid.submission.active.selectOrphaned"
+msgstr "Inklusive unfertiger Konferenzbeitragseinreichungen, die nicht durch eine/n Autor/in eingereicht wurden."

@@ -1,0 +1,21 @@
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2022, 2023.
+# Heike Riegler <heike.riegler@julius-kuehn.de>, 2022.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "api.publicFiles.500.badFilesDir"
+msgstr "Das Verzeichnis für öffentliche Dokumente wurde nicht gefunden oder Dateien können nicht dorthin gespeichert werden. Bitte wenden Sie sich zur Problemlösung an Ihre/n Administrator/in."
+
+msgid "api.submissionFiles.400.badDependentFileAssocType"
+msgstr "Sie können eine Datei aus dieser Einreichungsstufe nicht mit einer anderen Einreichungsdatei für Konferenzbeiträge verknüpfen."
+
+msgid "api.submissionFiles.400.reviewRoundSubmissionNotMatch"
+msgstr "Die von Ihnen bereitgestllte Begutachtungsrunde ist nicht Teil dieser Einreichung für den Konferenzband."
+
+msgid "api.submissions.403.deleteSubmissionOutOfContext"
+msgstr "Sie können keine Einreichung für einen Konferenzbeitrag löschen die nicht diesem Kontext zugeordnet ist."
+
+msgid "api.submissions.403.requestedOthersUnpublishedSubmissions"
+msgstr "Sie können nur die Ihnen zugeordneten unveröffentlichte Konferenzbeiträge einsehen."
+
+msgid "api.submissions.403.unauthorizedDeleteSubmission"
+msgstr "Sie sind nicht berechtigt, diese Einreichung für die Konferenz zu löschen."

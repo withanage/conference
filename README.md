@@ -13,7 +13,7 @@ We welcome ideas, feature requests in the [discussion](https://github.com/withan
 | Conference type | online                  | no       | https://github.com/withanage/conference/issues/5 | 3.3   |
 |  Name | Current issue name      | no       | https://github.com/withanage/conference/issues/2 | 3.3   |
 | Place       | Location, City, Country | yes      | https://github.com/withanage/conference/issues/3 | 3.3 |
-| Date        | Begin Date and End-Date | no       | https://github.com/withanage/conference/issues/4 | 3.3|
+| Date        | Begin Date and End-Date | yes      | https://github.com/withanage/conference/issues/4 | 3.3|
 
 
 
@@ -25,7 +25,10 @@ We welcome ideas, feature requests in the [discussion](https://github.com/withan
 
 ### Concept, Dev-Lead
 
-- [https://github.com/withanage](mailto:dulip.withanage@gmail.com)
+- [https://github.com/withanage](mailto:dulip.withanage@gmail.com)  @ [TIB](https://tib.eu)
+### Contributions
+
+- [Sebastian Schmidt](https://github.com/basti95) @ [Sächsische Landesbibliothek -Staats- und Universitätsbibliothek Dresden](https://www.slub-dresden.de/)  
 
 
 

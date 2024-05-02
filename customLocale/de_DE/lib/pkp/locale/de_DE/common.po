@@ -1,0 +1,18 @@
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2021, 2022, 2023.
+# Heike Riegler <heike.riegler@julius-kuehn.de>, 2022.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "navigation.submissions"
+msgstr "Konferenzbeitragseinreichungen"
+
+msgid "notification.removedSubmission"
+msgstr "Konferenzbeitragseinreichung entfernt"
+
+msgid "notification.savedSubmissionMetadata"
+msgstr "Metadaten für Konferenzbeitragseinreichung gespeichert."
+
+msgid "search.cli.rebuildIndex.result"
+msgstr "{$numIndexed} Konferenzbeitragseinreichungen indexiert."
+
+msgid "user.authorization.invalidSubmission"
+msgstr "Ungültige Konferenzbeitragseinreichung."

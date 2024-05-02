@@ -42,7 +42,7 @@ msgid "submission.event.submissionSubmitted"
 msgstr "Initial Conference Proceedings  Submission completed."
 
 msgid "submission.event.fileRevised"
-msgstr "Revision \"{$name}\" was uploaded for file {$Conference Proceedings  SubmissionFileId}."
+msgstr "Revision \"{$name}\" was uploaded for file {$submissionFileId}."
 
 msgid "submission.event.general.metadataUpdated"
 msgstr "Conference Proceedings Submission metadata updated"

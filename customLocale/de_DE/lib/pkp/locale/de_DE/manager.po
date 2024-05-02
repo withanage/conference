@@ -1,0 +1,241 @@
+# Sebastian Wolf <bibliothekswelt@htmlwolf.de>, 2021.
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2021, 2022, 2023.
+# Heike Riegler <heike.riegler@julius-kuehn.de>, 2022.
+# Martin Brändle <martin.braendle@uzh.ch>, 2023.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "manager.genres.alertDelete"
+msgstr "Bevor diese Komponente gelöscht werden kann, müssen alle zugehörigen Konferenzbeitragseinreichungen einer anderen Komponente zugewiesen werden."
+
+msgid "manager.publication.submissionStage"
+msgstr "Konferenzbeitragseinreichung"
+
+msgid "manager.language.submissions"
+msgstr "Konferenzbeitragseinreichungen"
+
+msgid "manager.representative.inUse"
+msgstr "Sie können diesen Vertreter nicht löschen. Er ist den market Metadaten eines oder mehrerer Puklikationsformate  des Konferenzbandes zugeordnet."
+
+msgid "manager.statistics.reports.description"
+msgstr "Das System erstellt Berichte, die die Details der Verarbeitung von Konferenzbeiträgen aus der Perspektive von Beiträgen, Redakteur/innen, Gutachter/innen sowie Rubriken über einen festgelegten Zeitraum nachzeichnen. Die Berichte werden im CSV-Format erstellt, die mit einer Tabellenkalkulation betrachtet werden können."
+
+msgid "manager.setup.copyrightNotice.description"
+msgstr "Autor/innen müssen im Konferenzbeitragseinreichungsverfahren der Lizenz zustimmen."
+
+msgid "manager.setup.authorGuidelines.description"
+msgstr "Für die Richtlinien werden Standards für Bibliografie und Format sowie Beispiele für gängige Zitierformate, die in Konferenbeitragseinreichungen benutzt werden sollen, vorgeschlagen."
+
+msgid "manager.setup.disableSubmissions"
+msgstr "Einreichung von Konferenzbeiträgen deaktivieren"
+
+msgid "manager.setup.notifications"
+msgstr "Bestätigung der Konferenzbeitragseinreichung durch die Autor/innen"
+
+msgid "manager.setup.notifications.description"
+msgstr "Autor/innen erhalten automatisch eine E-Mail, die ihnen den Eingang ihrer Konferenzbeitragseinreichung bestätigt. Darüber hinaus können Kopien der Bestätigungs-E-Mail an die folgenden Adressen verschickt werden:"
+
+msgid "manager.setup.peerReview.description"
+msgstr "Beschreiben Sie die Begutachtungsrichtlinien und die Abläufe für Leser/innen und Autor/innen. Diese Beschreibung enthält üblicherweise die Anzahl der Gutachter/innen, die typischerweise eine Konferenzbeitragseinreichung begutachten, die Kriterien, anhand derer Gutachter/innen urteilen sollen, die erwartete Begutachtungsdauer und die Grundsätze der Gutachter/innenauswahl."
+
+
+msgid "manager.setup.privacyStatement.description"
+msgstr "Diese Erklärung wird während der Registrierung neuer Nutzer/innen, bei Autor/innenkonferenzbeitragseinreichungen und auf der öffentlichen Seite zum Datenschutz angezeigt. In manchen Staaten sind Sie rechtlich verpflichtet, in dieser Erklärung anzugeben, wie Sie mit den Daten der Nutzer/innen verfahren."
+
+msgid "manager.sections.form.deactivateSection"
+msgstr "Diese Sektion deaktivieren und keine neuen Konferenzbeitragseinreichungen zu dieser Sektion zulassen."
+
+msgid "settings.roles.permitMetadataEdit"
+msgstr "Änderung der Metadaten dieser Konferezbeitragseinreichung erlauben."
+
+msgid "manager.setup.metadata.submission"
+msgstr "Konferenzbeitragseinreichungs-Formular"
+
+msgid "manager.setup.metadata.coverage.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Metadaten zur Abdeckung von Autor/in erfragen."
+
+msgid "manager.setup.metadata.coverage.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Angaben zur Abdeckung bitten."
+
+msgid "manager.setup.metadata.coverage.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zur Abdeckung von Autor/in verlangen."
+
+msgid "manager.setup.metadata.keywords.description"
+msgstr "Schlagworte sind typischerweise ein bis drei Worte lange Phrasen, die auf das Fachgebiet der Konferenzbeitragseinreichung hinweisen."
+
+msgid "manager.setup.metadata.keywords.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Schlagworte von Autor/in erfragen."
+
+msgid "manager.setup.metadata.keywords.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Angaben zu Schlagworten bitten."
+
+msgid "manager.setup.metadata.keywords.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zu Schlagworten von Autor/in verlangen."
+
+msgid "manager.setup.metadata.languages.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Angabe zur Sprache von Autor/in erfragen."
+
+msgid "manager.setup.metadata.languages.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zur Sprache von Autor/in verlangen."
+
+msgid "manager.setup.metadata.rights.description"
+msgstr "Alle Rechte an diesem Konferenzbeitrag einschließlich Schutz- und Urheberrechten sowie Eigentumsrechten"
+
+msgid "manager.setup.metadata.rights.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Angaben zu Rechten von Autor/in erfragen."
+
+msgid "manager.setup.metadata.rights.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Angaben zur Rechten bitten."
+
+msgid "manager.setup.metadata.rights.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zu Rechten von Autor/in verlangen."
+
+msgid "manager.setup.metadata.source.description"
+msgstr "Die Quelle kann eine ID wie z.B. eine DOI eines anderen Werkes sein, welches Grundlage der vorliegenden Konferenzbeitragseinreichung war."
+
+msgid "manager.setup.metadata.source.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Quellen-URL von Autor/in erfragen."
+
+msgid "manager.setup.metadata.source.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Quellen-URL bitten."
+
+msgid "manager.setup.metadata.source.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zur Quellen-URL von Autor/in verlangen."
+
+msgid "manager.setup.metadata.subjects.description"
+msgstr "Themen sind Stichworte, Stichwortketten oder Klassifizierungscodes, die das Fachgebiet einer Konferenzbeitragseinreichung beschreiben."
+
+msgid "manager.setup.metadata.subjects.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Angaben zu Themen von Autor/in erfragen."
+
+msgid "manager.setup.metadata.subjects.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Angaben zum Thema bitten."
+
+msgid "manager.setup.metadata.subjects.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zu Themen von Autor/in verlangen."
+
+msgid "manager.setup.metadata.type.description"
+msgstr "Art oder Genre vom Hauptteil der Konferenzbeitragseinreichung. Der Typ ist normalerweise \"Text\", kann aber auch \"Datensatz\", \"Bild\" oder jedem anderen der <a target=\"_blank\" href=\"http://dublincore.org/documents/dcmi-type-vocabulary/#section-7-dcmi-type-vocabulary\">Dublin Core Typen</a> entsprechen."
+
+msgid "manager.setup.metadata.type.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Angaben zum Typ von Autor/in erfragen."
+
+msgid "manager.setup.metadata.type.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Angaben zum Typ bitten."
+
+msgid "manager.setup.metadata.type.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zum Typ von Autor/in verlangen."
+
+msgid "manager.setup.metadata.disciplines.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Angabe zu Disziplinen von Autor/in erfragen."
+
+msgid "manager.setup.metadata.disciplines.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Angaben zu Disziplinen bitten."
+
+msgid "manager.setup.metadata.disciplines.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zu Disziplinen von Autor/in verlangen."
+
+msgid "manager.setup.metadata.agencies.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine unterstützenden Organistationen von Autor/in erfragen."
+
+msgid "manager.setup.metadata.agencies.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Angaben zu unterstützenden Organistationen bitten."
+
+msgid "manager.setup.metadata.agencies.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zu unterstützenden Organistationen von Autor/in verlangen."
+
+msgid "manager.setup.metadata.citations.description"
+msgstr "Die Referenzen einer Konferenzbeitragseinreichung in einem separaten Feld sammeln. Dies könnte erforderlich sein, um Erfordernissen von Services zu Zitationszählungen wie Crossref zu entsprechen."
+
+msgid "manager.setup.metadata.citations.noRequest"
+msgstr "Bei der Konferenzbeitragseinreichung keine Referenzen von Autor/in erfragen."
+
+msgid "manager.setup.metadata.citations.request"
+msgstr "Autor/in bei der Konferenzbeitragseinreichung um Angaben zu Referenzen bitten."
+
+msgid "manager.setup.metadata.citations.require"
+msgstr "Vor Annahme der Konferenzbeitragseinreichung Angaben zu Referenzen von Autor/in verlangen."
+
+msgid "plugins.importexport.common.error.missingGivenName"
+msgstr "Autor/in {$authorName} hat keinen Vornamen in der in der Konferenzbeitragseinreichung verwendeten Sprache, {$localeName}. Die Konferenzbeitragseinreichung kann nicht importiert werden ohne diese Information."
+
+msgid "plugins.importexport.common.error.duplicateRevisionForSubmission"
+msgstr "Die Überarbeitung \"{$revisionId}\" für die Konferenzbeitragseinreichungsdatei \"{$fileId}\" würde einen doppelten Eintrag anlegen"
+
+msgid "plugins.importexport.native.error.submissionFileImportFailed"
+msgstr "Die Konferenzbeitragseinreichungsdatei konnte nicht importiert werden"
+
+msgid "plugins.importexport.native.error.submissionFileSkipped"
+msgstr "Die Konferenzbeitragseinreichungsdatei {$id} wurde übersprungen, weil sie an einen Datensatz angehängt ist, der nicht importiert wird, z. B. eine Begutachtung oder eine Diskussion."
+
+msgid "plugins.importexport.native.error.submissionFileWithoutRevision"
+msgstr "Die Konferenzbeitragseinreichungsdatei {$id} wurde übersprungen, da sie keine gültige Überarbeitung hat."
+
+msgid "plugins.importexport.native.error.submissionFileRevisionMissing"
+msgstr "Die Überarbeitung {$revision} der Konferenzbeitragseinreichungsdatei {$id} wurde übersprungen, da die Datei nicht unter dem Pfad \"{$path}\" gefunden wurde."
+
+msgid "manager.navigationMenus.form.submenuWarning"
+msgstr "Falls ein Menüeintrag ein Untermenü öffnet, kann der Link nicht mit allen Geräten genutzt werden. Beispielsweise, falls Sie ein \"Über uns\" Eintrag haben mit einem Untermenü \"Kontakt\" und \"Redaktion\", können nicht unbedingt alle Geräte den \"Über uns\" Link aufrufen. Im Standardmenü wird dies dadurch behoben, dass ein zweiter Menüeintrag \"Über die Konferenzbandreihe\" erstellt wird, welcher im Untermenü erscheint."
+
+msgid "manager.navigationMenus.about.description"
+msgstr "Dieser Link wird nur angezeigt, falls Sie den Abschnitt Über uns in den Einstellungen  > Konferenzbandreihe ausgefüllt haben."
+
+msgid "manager.navigationMenus.about.conditionalWarning"
+msgstr "Dieser Link wird nur angezeigt, falls Sie den Abschnitt Über uns in den Einstellungen > Konferenzbandreihe ausgefüllt haben."
+
+msgid "manager.navigationMenus.editorialTeam.description"
+msgstr "Link zur Seite, welche den Inhalt des Impressums aus den Einstellungen > Konferenzbandreihe anzeigt."
+
+msgid "manager.navigationMenus.editorialTeam.conditionalWarning"
+msgstr "This link will only be displayed if you have filled out the Editorial Team section under Settings > Conference Proceedings Series."
+
+msgid "manager.navigationMenus.submissions.description"
+msgstr "Link to the page displaying Conference Proceedings  Submission instructions."
+
+msgid "manager.navigationMenus.current.description"
+msgstr "Link to your current Conference Proceedings Volume."
+
+msgid "manager.navigationMenus.archives.description"
+msgstr "Link to your Conference Proceedings Volume archive."
+
+msgid "manager.navigationMenus.privacyStatement.conditionalWarning"
+msgstr "This link will only be displayed if you have entered a privacy statement under Settings > Workflow > Conference Proceedings  Submissions."
+
+msgid "stats.description.acceptRejectRate"
+msgstr "Der Anteil für den gewählten Datumsbereich wird berechnet auf Grundlage der Konferenzbeitragseinreichungen, die innerhalb dieses Datumsbereichs eingereicht wurden und für die eine endgültige Entscheidung getroffen wurde.<br><br> Gingen zum Beispiel zehn Konferenzbeitragseinreichungen innerhalb des Datumsbereichs ein, von denen vier angenommen wurden, vier abgelehnt wurden und zwei noch unentschieden sind, so liegt die Annahmerate bei 50% (vier von acht Konferenzbeitragseinreichungen), denn über zwei Konferenzbeitragseinreichungen wurde noch nicht abschließend entschieden."
+
+msgid "stats.description.daysToDecision"
+msgstr "Die Anzahl der Tage, bis eine erste redaktionelle Entscheidung für eine Konferenzbeitragseinreichung getroffen wird, wie zum Beispiel direkte Ablehnung oder Versenden zum Review.<br><br> Diese Zahlen zeigen, dass für 80% aller Konferenzbeitragseinreichungen eine Entscheidung innerhalb der angegebenen Anzahl von Tagen getroffen wird.<br><br> Diese Statistik versucht anzugeben, wann die Mehrheit der Autoren dieser Konferenzbandreihe eine Entscheidung erwarten können."
+
+msgid "stats.description.submissionsSkipped"
+msgstr "Dies beinhaltet Konferenzbeitragseinreichungen, die nicht in anderen Gesamtzahlen gezählt werden, z.B. solche, die noch bearbeitet werden oder solche, die importiert wurden."
+
+msgid "stats.submissionsActive"
+msgstr "Aktive Konferenzbeitragseinreichungen"
+
+msgid "stats.name.submissionsReceived"
+msgstr "Erhaltene Konferenzbeitragseinreichungen"
+
+msgid "stats.name.submissionsSkipped"
+msgstr "Andere Konferenzbeitragseinreichungen"
+
+msgid "stats.name.submissionsInProgress"
+msgstr "Laufende Konferenzbeitragseinreichungen"
+
+msgid "stats.name.submissionsImported"
+msgstr "Importierte Konferenzbeitragseinreichungen"
+
+msgid "stats.name.submissionsAccepted"
+msgstr "Angenommene Konferenzbeitragseinreichungen"
+
+msgid "stats.name.submissionsDeclined"
+msgstr "Abgelehnte Konferenzbeitragseinreichungen"
+
+msgid "stats.name.submissionsDeclinedDeskReject"
+msgstr "Abgelehnte Konferenzbeitragseinreichungen (direkt ohne Peer Review, desk rejection)"
+
+msgid "stats.name.submissionsDeclinedPostReview"
+msgstr "Abgelehnte Konferenzbeitragseinreichungen (nach Peer Review)"
+
+msgid "stats.name.submissionsPublished"
+msgstr "Veröffentlichte Konferenzbeitragseinreichungen"
+

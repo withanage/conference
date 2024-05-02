@@ -1,0 +1,157 @@
+
+msgid "emails.userRegister.subject"
+msgstr "Registrierung bei dem Konferenzband"
+
+msgid "emails.publishNotify.subject"
+msgstr "Neuer Konferenzband veröffentlicht"
+
+msgid "emails.publishNotify.description"
+msgstr "Diese E-Mail wird an registrierte Leser über den Link \Benutzer benachrichtigen\ im Benutzer-Startbereich des Herausgebers gesendet. Sie informiert die Leser über einen neuen Konferenzband und lädt sie ein, die Konferenzbandreihe unter einer angegebenen URL zu besuchen."
+
+msgid "emails.lockssExistingArchive.description"
+msgstr "Diese E-Mail bittet den Verwalter eines LOCKSS-Archivs, die Aufnahme dieser Zeitschrift in ihr Archiv in Erwägung zu ziehen. Sie stellt die URL zum LOCKSS Publisher Manifest der Konferenzbandreihe bereit."
+
+msgid "emails.lockssNewArchive.description"
+msgstr  "Diese E-Mail ermutigt den Empfänger, an der LOCKSS-Initiative teilzunehmen und diese Konferenzbandreihe in das Archiv aufzunehmen. Sie liefert Informationen über die LOCKSS-Initiative und Möglichkeiten zur Beteiligung."
+
+msgid "emails.submissionAck.subject"
+msgstr "Bestätigung der Einreichung des Konferenzbandbeitrags"
+
+msgid "emails.submissionAck.description"
+msgstr "Diese E-Mail wird, wenn aktiviert, automatisch an einen Autor gesendet, wenn er den Prozess der Einreichung eines Manuskripts bei der Konferenzbandreihe abgeschlossen hat. Sie liefert Informationen über das Tracking der Einreichung durch den Prozess und dankt dem Autor für die Einreichung des Konferenzbandbeitrags."
+
+msgid "emails.submissionAckNotUser.subject"
+msgstr "Bestätigung der Einreichung des Konferenzbandbeitrags"
+
+msgid "emails.submissionAckNotUser.description"
+msgstr "Diese E-Mail wird, wenn aktiviert, automatisch an die anderen Autoren gesendet, die während des Einreichungsprozesses des Konferenzbandbeitrags nicht als Benutzer im OJS spezifiziert wurden."
+
+msgid "emails.editorAssign.description"
+msgstr "Diese E-Mail benachrichtigt einen Rubrikherausgeber darüber, dass der Herausgeber ihm die Aufgabe übertragen hat, eine Einreichung durch den Bearbeitungsprozess zu begleiten. Sie liefert Informationen über die Einreichung des Konferenzbandbeitrags und wie man auf die Website der Konferenzbandreihe zugreifen kann."
+
+msgid "emails.reviewRequest.subject"
+msgstr "Einladung zur Begutachtung"
+
+msgid "emails.reviewRequest.description"
+msgstr "Diese E-Mail vom Rubrikherausgeber an einen Gutachter bittet diesen, die Aufgabe der Begutachtung einer Konferenzbandeinreichung zu akzeptieren oder abzulehnen. Sie liefert Informationen über die Einreichung wie Titel und Abstract, ein Abgabedatum für das Gutachten und wie man auf die Einreichung des Konferenzbandbeitrags selbst zugreifen kann. Diese Nachricht wird verwendet, wenn der Standard-Überprüfungsprozess in Management > Einstellungen > Workflow > Gutachten ausgewählt ist. (Andernfalls siehe REVIEW_REQUEST_ATTACHED.)"
+
+msgid "emails.reviewRequestRemindAuto.subject"
+msgstr "Erinnerung an die Gutachtenanfrage für die Konferenzbeitragseinreichung"
+
+msgid "emails.reviewRequestOneclick.subject"
+msgstr "Gutachtenanfrage für die Konferenzbeitragseinreichung"
+
+msgid "emails.reviewRequestOneclick.description"
+msgstr "Diese E-Mail vom Rubrikherausgeber an einen Gutachter bittet diesen, die Aufgabe der Begutachtung einer Konferenzbandeinreichung zu akzeptieren oder abzulehnen. Sie liefert Informationen über die Einreichung wie Titel und Abstract, ein Abgabedatum für das Gutachten und wie man auf die Einreichung des Konferenzbandbeitrags selbst zugreifen kann. Diese Nachricht wird verwendet, wenn der Standard-Überprüfungsprozess in Management > Einstellungen > Workflow > Gutachten ausgewählt ist und der Zugriff auf den Gutachter mit einem Klick aktiviert ist."
+
+msgid "emails.reviewRequestRemindAutoOneclick.subject"
+msgstr "Überprüfungsanfrage für den Konferenzbandbeitrag"
+
+msgid "emails.reviewRequestAttached.subject"
+msgstr "Überprüfungsanfrage für den Konferenzbandbeitrag"
+
+msgid "emails.reviewRequestAttached.description"
+msgstr  "Diese E-Mail wird vom Rubrikherausgeber an einen Gutachter gesendet, um diesen zu bitten, die Aufgabe der Begutachtung einer Einreichung zu akzeptieren oder abzulehnen. Sie enthält die Einreichung des Konferenzbandbeitrags als Anhang. Diese Nachricht wird verwendet, wenn der Überprüfungsprozess per E-Mail-Anhang in Management > Einstellungen > Workflow > Gutachten ausgewählt ist. (Andernfalls siehe REVIEW_REQUEST.)"
+
+msgid "emails.reviewRequestSubsequent.subject"
+msgstr "Anfrage zur Begutachtung einer überarbeiteten Konferenzbeitragseinreichung"
+
+msgid "emails.reviewRequestSubsequent.description"
+msgstr "Diese E-Mail vom Rubrikherausgeber an einen Gutachter bittet diesen, die Aufgabe der Begutachtung einer Einreichung für eine zweite oder weitere Runde der Überprüfung zu akzeptieren oder abzulehnen. Sie liefert Informationen über die Einreichung wie Titel und Abstract, ein Abgabedatum für das Gutachten und wie man auf die Einreichung des Konferenzbandbeitrags selbst zugreifen kann. Diese Nachricht wird verwendet, wenn der Standard-Überprüfungsprozess in Management > Einstellungen > Workflow > Gutachten ausgewählt ist. (Andernfalls siehe REVIEW_REQUEST_ATTACHED_SUBSEQUENT.)"
+
+msgid "emails.reviewRequestOneclickSubsequent.subject"
+msgstr "Überprüfungsanfrage für die Konferenzbeitragseinreichung"
+
+msgid "emails.reviewRequestOneclickSubsequent.description"
+msgstr "Diese E-Mail vom Rubrikherausgeber an einen Gutachter bittet diesen, die Aufgabe der Begutachtung einer Einreichung für eine zweite oder weitere Runde der Überprüfung zu akzeptieren oder abzulehnen. Sie liefert Informationen über die Einreichung wie Titel und Abstract, ein Abgabedatum für das Gutachten und wie man auf die Einreichung des Konferenzbandbeitrags selbst zugreifen kann. Diese Nachricht wird verwendet, wenn der Standard-Überprüfungsprozess in Management > Einstellungen > Workflow > Gutachten ausgewählt ist und der Zugriff auf den Gutachter mit einem Klick aktiviert ist."
+
+msgid "emails.reviewRequestAttachedSubsequent.subject"
+msgstr "Überprüfungsanfrage für die Konferenzbeitragseinreichung"
+
+msgid "emails.reviewRequestAttachedSubsequent.description"
+msgstr "Diese E-Mail wird vom Rubrikherausgeber an einen Gutachter gesendet, um diesen zu bitten, die Aufgabe der Begutachtung einer Einreichung für eine zweite oder weitere Runde der Überprüfung zu akzeptieren oder abzulehnen. Sie enthält die Einreichung des Konferenzbandbeitrags als Anhang. Diese Nachricht wird verwendet, wenn der Überprüfungsprozess per E-Mail-Anhang in Management > Einstellungen > Workflow > Gutachten ausgewählt ist. (Andernfalls siehe REVIEW_REQUEST_SUBSEQUENT.)"
+
+msgid "emails.reviewCancel.description"
+msgstr "Diese E-Mail wird vom Rubrikherausgeber an einen Gutachter gesendet, der gerade eine Begutachtung einer Konferenzbeitragseinreichung durchführt, um ihn darüber zu informieren, dass die Begutachtung abgebrochen wurde."
+
+msgid "emails.reviewReinstate.description"
+msgstr "Diese E-Mail wird vom Rubrikherausgeber an einen Gutachter gesendet, der gerade eine Begutachtung einer Konferenzbeitragseinreichung durchführt, um ihn darüber zu informieren, dass eine abgebrochene Begutachtung wiederhergestellt wurde."
+
+msgid "emails.reviewAck.subject"
+msgstr "Bestätigung der Begutachtung der Konferenzbeitragseinreichung"
+
+msgid "emails.reviewRemind.subject"
+msgstr "Eine Erinnerung, Ihr Gutachten bitte abzuschließen"
+
+msgid "emails.reviewRemindOneclick.subject"
+msgstr "Erinnerung an die Begutachtung der Konferenzbeitragseinreichung"
+
+msgid "emails.reviewRemindAuto.subject"
+msgstr "Eine Erinnerung, Ihr Gutachten bitte abzuschließen"
+
+msgid "emails.reviewRemindAutoOneclick.subject"
+msgstr "Automatische Erinnerung an die Begutachtung der Konferenzbeitragseinreichung"
+
+msgid "emails.editorDecisionAccept.description"
+msgstr "Diese E-Mail vom Herausgeber oder Rubrikherausgeber an einen Autor informiert diesen über die endgültige Entscheidung zur \Annahme\ seiner Konferenzbeitragseinreichung."
+
+msgid "emails.editorDecisionSendToExternal.description"
+msgstr "Diese E-Mail vom Herausgeber oder Rubrikherausgeber an einen Autor informiert diesen, dass seine Konferenzbeitragseinreichung zur externen Begutachtung gesendet wird."
+
+msgid "emails.editorDecisionSendToProduction.description"
+msgstr "Diese E-Mail vom Herausgeber oder Rubrikherausgeber an einen Autor informiert diesen, dass seine Konferenzbeitragseinreichung in die Produktion übergeht."
+
+msgid "emails.editorDecisionRevisions.description"
+msgstr "Diese E-Mail vom Herausgeber oder Rubrikherausgeber an einen Autor informiert diesen über die endgültige Entscheidung, dass an seiner Konferenzbeitragseinreichung \Überarbeitungen erforderlich\ sind."
+
+msgid "emails.editorDecisionResubmit.description"
+msgstr "Diese E-Mail vom Herausgeber oder Rubrikherausgeber an einen Autor informiert diesen über die endgültige Entscheidung, dass seine Konferenzbeitragseinreichung \erneut eingereicht\ werden muss."
+
+msgid "emails.editorDecisionDecline.description"
+msgstr "Diese E-Mail vom Herausgeber oder Rubrikherausgeber an einen Autor informiert diesen über die endgültige Entscheidung, dass seine Konferenzbeitragseinreichung \abgelehnt\ wurde."
+
+msgid "emails.editorRecommendation.description"
+msgstr "Diese E-Mail vom empfehlenden Herausgeber oder Rubrikherausgeber an die entscheidenden Herausgeber oder Rubrikherausgeber informiert sie über eine endgültige Empfehlung bezüglich der Konferenzbeitragseinreichung."
+
+msgid "emails.copyeditRequest.description"
+msgstr "Diese E-Mail wird von einem Rubrikherausgeber an den Lektor eines Beitrags gesendet, um diesen aufzufordern, mit dem Lektoratsprozess zu beginnen. Sie enthält Informationen über die Konferenzbeitragseinreichung und darüber, wie darauf zugegriffen werden kann."
+
+msgid "emails.layoutRequest.description"
+msgstr "Diese E-Mail vom Rubrikherausgeber an den Layout-Editor informiert diesen, dass er mit der Aufgabe betraut wurde, das Layout für einen Beitrag zu bearbeiten. Sie enthält Informationen über die Einreichung des Konferenzbandbeitrags und darüber, wie darauf zugegriffen werden kann."
+
+msgid "emails.emailLink.subject"
+msgstr "Möglicherweise interessanter Konferenzbeitrag"
+
+msgid "emails.emailLink.body"
+msgstr "Ich dachte, dass Sie vielleicht Interesse daran haben könnten, „{$submissionTitle}“ von {$authorName} zu sehen, veröffentlicht in Konferenzband {$volume}, Nummer {$number} ({$year}) von {$contextName} unter „{$submissionUrl}“."
+
+msgid "emails.emailLink.description"
+msgstr "Diese E-Mail-Vorlage bietet registrierten Leser/innen die Möglichkeit, Informationen über einen Konferenzbeitrag an eine interessierte Person zu senden. Sie ist über die Reading Tools verfügbar und muss von dem/der Konferenzbandemanager/in auf der Verwaltungsseite der Reading Tools aktiviert werden."
+
+msgid "emails.subscriptionNotify.description"
+msgstr "Diese E-Mail benachrichtigt einen registrierten Leser, dass der Manager ein Abonnement für sie/ihn erstellt hat. Sie enthält die URL der Konferenzbandreihe sowie Hinweise für den Zugang."
+
+msgid "emails.openAccessNotify.subject"
+msgstr "Konferenzband ist jetzt Open Access"
+
+msgid "emails.openAccessNotify.description"
+msgstr  "Diese E-Mail wird an registrierte Leser gesendet, die angefordert haben, eine Benachrichtigungs-E-Mail zu erhalten, wenn ein Konferenzband Open Access wird."
+
+msgid "emails.subscriptionBeforeExpiry.description"
+msgstr "Diese E-Mail benachrichtigt einen Abonnenten darüber, dass sein Abonnement bald ablaufen wird. Sie enthält die URL der Konferenzbandreihe sowie Anweisungen für den Zugang."
+
+msgid "emails.subscriptionAfterExpiry.description"
+msgstr "Diese E-Mail benachrichtigt einen Abonnenten darüber, dass sein Abonnement abgelaufen ist. Sie enthält die URL der Konferenzbandreihe sowie Anweisungen für den Zugang."
+
+msgid "emails.subscriptionAfterExpiryLast.description"
+msgstr "Diese E-Mail benachrichtigt einen Abonnenten darüber, dass sein Abonnement abgelaufen ist. Sie enthält die URL der Konferenzbandreihe sowie Anweisungen für den Zugang."
+
+msgid "emails.revisedVersionNotify.description"
+msgstr "Diese E-Mail wird automatisch an den zugewiesenen Editor gesendet, wenn der Autor eine überarbeitete Version einer Konferenzbeitragseinreichung hochlädt."
+
+msgid "emails.editorDecisionInitialDecline.description"
+msgstr "Diese E-Mail wird an den Autor gesendet, wenn der Editor seine Konferenzbandeinreichung initial ablehnt, noch bevor die Überprüfungsphase beginnt."
+
+msgid "emails.statisticsReportNotification.description"
+msgstr "Diese E-Mail wird automatisch monatlich an Editoren und Manager der Konferenzbandreihe gesendet, um ihnen einen Überblick über den Zustand des Systems zu geben."
+

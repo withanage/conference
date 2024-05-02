@@ -1,0 +1,21 @@
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2021, 2023.
+# Heike Riegler <heike.riegler@julius-kuehn.de>, 2022.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "editor.submissionArchive.confirmDelete"
+msgstr "Sind Sie sicher, dass Sie diese Konferenzbeitragseinreichung endgültig löschen möchten?"
+
+msgid "editor.submission.workflowDecision.submission.declined"
+msgstr "Konferenzbeitragseinreichung abgelehnt."
+
+msgid "editor.submission.workflowDecision.submission.accepted"
+msgstr "Konferenzbeitragseinreichung akzeptiert."
+
+msgid "editor.submission.workflowDecision.submission.published"
+msgstr "Konferenzbeitragseinreichung veröffentlicht"
+
+msgid "editor.submission.workflowDecision.submission.underReview"
+msgstr "Konferenzbeitragseinreichung zum Review zugelassen."
+
+msgid "reviewer.list.currentlyAssigned"
+msgstr "Dieser Gutachter wurde bereits mit der Begutachtung dieser Konferenzbeitragseinreichung beauftragt."

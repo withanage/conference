@@ -1,0 +1,4 @@
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "admin.scheduledTask.publishSubmissions"
+msgstr "Die zur Veröffentlichung vorgesehenen Konferenzbeiträge jetzt veröffentlichen"

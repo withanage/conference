@@ -1,0 +1,99 @@
+msgid "submission.submit.title"
+msgstr "Konferenzbeitrag einreichen"
+
+msgid "submission.submit.userGroupDescription"
+msgstr "Wählen Sie die Rolle aus, in der Sie diesen Konferenzbandbeitrag einreichen."
+
+msgid "submission.upload.selectComponent"
+msgstr "Konferenzbeitrag-Bestandteil auswählen"
+
+msgid "submission.title"
+msgstr "Konferenzbeitragstitel"
+
+msgid "submission.submit.newSubmissionMultiple"
+msgstr "Eine neue Konferenzbeitragseinreichung beginnen in"
+
+msgid "submission.submit.newSubmissionSingle"
+msgstr "Neue Konferenzbeitragseinreichung"
+
+msgid "grid.action.workflow"
+msgstr "Konferenzbeitragseinreichungsworkflow"
+
+msgid "submission.submit.noContext"
+msgstr "Der Konferenzband für diese Konferenzbeitragseinreichung konnte nicht gefunden werden."
+
+msgid "grid.action.galleyInIssueEntry"
+msgstr "Fahne in dem Konferenzband angezeigt"
+
+msgid "grid.action.issueEntry"
+msgstr "Die Metadaten dieses Konferenzbeitrages ansehen"
+
+msgid "submission.event.articleGalleyMadeAvailable"
+msgstr "Die Konferenzbeitragfahne \{$galleyFormatName}\ wird verfügbar gemacht."
+
+msgid "submission.event.articleGalleyMadeUnavailable"
+msgstr "Die Konferenzbeitragfahne \{$galleyFormatName}\ wird nicht mehr verfügbar sein."
+
+msgid "submission.event.publicIdentifiers"
+msgstr "Die Identifier des Konferenzbeitrages wurden aktualisiert."
+
+msgid "submission.confirmSubmit"
+msgstr "Sind Sie sicher, dass Sie diesen Beitrag zum Konferenzband für die Konferenzbandreihe einreichen möchten?"
+
+msgid "submission.event.issueMetadataUpdated"
+msgstr "Die Metadaten des Konferenbandes dieser Konferenzbeitragseinreichung wurden aktualisiert."
+
+msgid "submission.upload.fileContents"
+msgstr "Konferenzbeitrag-Bestandteil"
+
+msgid "submission.submit.form.localeRequired"
+msgstr "Bitte wählen Sie eine Sprache für die Einreichung Ihres Konferenzbandbeitrags aus."
+
+msgid "submission.submit.submissionChecklist"
+msgstr "Konferenzbeitragseinreichungs-Checkliste"
+
+msgid "submission.submit.form.titleRequired"
+msgstr "Bitte geben Sie den Titel Ihres Konferenzbeitrags an."
+
+msgid "submission.submit.form.abstractRequired"
+msgstr "Bitte geben Sie das Abstract Ihres Konferenzbeitrags an."
+
+msgid "publication.assignToissue"
+msgstr "Einem Konferenzband zuordnen"
+
+msgid "publication.changeIssue"
+msgstr "Konferenzband ändern"
+
+msgid "publication.invalidIssue"
+msgstr "Der Konferenzband für diese Veröffentlichung konnte nicht gefunden werden."
+
+msgid "publication.publishedIn"
+msgstr "Veröffentlicht in <a href=\{$issueUrl}\>{$issueName}</a>."
+
+msgid "publication.scheduledIn"
+msgstr "Vorgesehen zur Veröffentlichung in <a href=\{$issueUrl}\>{$issueName}</a>."
+
+msgid "publication.unscheduledIn"
+msgstr "Dieser Konferenzbeitrag wurde nicht für die Veröffentlichung in einem Konferenzband vorgesehen."
+
+msgid "publication.selectIssue"
+msgstr "Wählen Sie einen Konferenzband zur Planung der Veröffentlichung"
+
+msgid "publication.event.published"
+msgstr "Der Konferenzbeitrag wurde veröffentlicht."
+
+msgid "publication.event.scheduled"
+msgstr "Der Konferenzbeitrag wurde zur Veröffentlichung vorgesehen."
+
+msgid "publication.event.unpublished"
+msgstr "Der Konferenzbeitrag wurde zurückgezogen."
+
+msgid "publication.invalidSubmission"
+msgstr "Die Konferenzbeitragseinreichung für diese Veröffentlichung konnte nicht gefunden werden."
+
+msgid "publication.required.declined"
+msgstr "Ein abgelehnter Konferenzbeitrag kann nicht veröffentlicht werden."
+
+msgid "submission.copyrightOther.description"
+msgstr "Die Rechte am veröffentlichten Konferenzbeitrag folgender Gruppe zuordnen."
+
