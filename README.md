@@ -22,8 +22,9 @@ Development is led by [TIB](https://tib.eu) in collaboration with [PKP](https://
 ### Concept, Dev-Lead
 
 - [https://github.com/withanage](mailto:dulip.withanage@gmail.com)  @ [TIB](https://tib.eu)
-### Contributions
--
+
+###  Contributions
+
 - [Sebastian Schmidt](https://github.com/basti95) @ [Sächsische Landesbibliothek -Staats- und Universitätsbibliothek Dresden](https://www.slub-dresden.de/)
 
 
