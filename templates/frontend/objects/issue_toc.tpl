@@ -116,12 +116,17 @@
 				</span>
 			<span class="value">
 					{$issue->getData('conferencePlaceStreet')}
-					{$issue->getData('conferencePlaceCity')}
+					{if $issue->getData('conferencePlaceCity')}
+						{$issue->getData('conferencePlaceCity')},
+					{/if}
 					{$issue->getData('conferencePlaceCountry')}
 				</span>
 		</div>
     {/if}
 
+    {if $issue->getData('conferenceOnline')}
+        {translate key="plugins.generic.conference.metadata.conferenceOnline.title"}
+    {/if}
 
     {* Full-issue galleys *}
     {if $issueGalleys}

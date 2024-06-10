@@ -21,7 +21,7 @@ msgid "editor.issues.createIssue"
 msgstr "Create Conference Proceedings Volume"
 
 msgid "editor.issues.editIssue"
-msgstr "Conference Proceedings Volume Management: {$Conference Proceedings VolumeIdentification}"
+msgstr "Conference Proceedings Volume Management:  {$issueIdentification}"
 
 msgid "editor.issues.currentIssue"
 msgstr "Current Conference Proceedings Volume"

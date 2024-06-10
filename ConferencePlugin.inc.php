@@ -25,18 +25,19 @@ class ConferencePlugin extends GenericPlugin
 
 			$locale = AppLocale::getLocale();
 			$customLocalePath = $this->getPluginPath() . "/customLocale/" . $locale . '/';
-			$dir = new RecursiveDirectoryIterator($customLocalePath);
-			$files = new RecursiveIteratorIterator($dir);
+			if(is_dir($customLocalePath)) {
+				$dir = new RecursiveDirectoryIterator($customLocalePath);
+				$files = new RecursiveIteratorIterator($dir);
 
-			foreach ($files as $file) {
-				$pathinfo = pathinfo($file->getFileName());
-				if ($pathinfo && $pathinfo['extension'] == 'po') {
-					AppLocale::registerLocaleFile($locale, Core::getBaseDir() . '/' . $file);
+				foreach ($files as $file) {
+					$pathinfo = pathinfo($file->getFileName());
+					if ($pathinfo && $pathinfo['extension'] == 'po') {
+						AppLocale::registerLocaleFile($locale, Core::getBaseDir() . '/' . $file);
+					}
 				}
+
+				HookRegistry::register('PKPLocale::registerLocaleFile', array($this, 'addCustomLocale'));
 			}
-
-			HookRegistry::register('PKPLocale::registerLocaleFile', array($this, 'addCustomLocale'));
-
 		}
 
 		HookRegistry::register('Schema::get::issue', function ($hookName, $args) {
@@ -73,7 +74,8 @@ class ConferencePlugin extends GenericPlugin
 			'conferenceDateEnd',
 			'conferencePlaceStreet',
 			'conferencePlaceCity',
-			'conferencePlaceCountry'
+			'conferencePlaceCountry',
+			'conferenceOnline'
 		);
 		return $fiellds;
 	}
@@ -90,9 +92,9 @@ class ConferencePlugin extends GenericPlugin
 		$request = Application::get()->getRequest();
 		$context = $request->getContext();
 		$localeFilename =& $args[1];
-		if ($context) {
+		$customLocalePath = Core::getBaseDir() . '/' . $this->getPluginPath() . "/customLocale/".$locale."/$localeFilename";
+		if ($context && $customLocalePath) {
 			$contextFileManager = new ContextFileManager($context->getId());
-			$customLocalePath = Core::getBaseDir() . '/' . $this->getPluginPath() . "/customLocale/$locale/$localeFilename";
 
 			if ($contextFileManager->fileExists($customLocalePath)) {
 				AppLocale::registerLocaleFile($locale, $customLocalePath, false);
@@ -189,19 +191,19 @@ class ConferencePlugin extends GenericPlugin
 	function formExecute($hookName, $params): bool
 	{
 		$issue =& $params[0]->issue;
-		$requestVars = $this->getRequest()->getUserVars();
+		if ($issue) {
 
-		foreach ($this->getAdditionalFields() as $field) {
-			if (array_key_exists($field, $requestVars)) {
-				$conferenceDateBegin = $requestVars[$field];
-				if ($issue && $conferenceDateBegin) {
-					$issue->setData($field, $conferenceDateBegin);
+			$requestVars = $this->getRequest()->getUserVars();
+			foreach ($this->getAdditionalFields() as $field) {
+				if (array_key_exists($field, $requestVars)) {
+					$issue->setData($field, $requestVars[$field]);
+				}
+				else {
+					$issue->setData($field,"");
 				}
 			}
 		}
 		return false;
-
-
 	}
 
 
