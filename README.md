@@ -1,6 +1,6 @@
 ### Description
 
-This plugin supports the publication of conference proceedings with OJS LTS 3.3 and higher.
+This plugin supports the publication of conference proceedings with OJS LTS 3.3.
 
 Development is led by [TIB](https://tib.eu) in collaboration with [PKP](https://pkp.sfu.ca) and PKP development partners.
 
