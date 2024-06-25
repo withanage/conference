@@ -116,9 +116,7 @@
 				</span>
 			<span class="value">
 					{$issue->getData('conferencePlaceStreet')}
-					{if $issue->getData('conferencePlaceCity')}
-						{$issue->getData('conferencePlaceCity')},
-					{/if}
+					{$issue->getData('conferencePlaceCity')}
 					{$issue->getData('conferencePlaceCountry')}
 				</span>
 		</div>

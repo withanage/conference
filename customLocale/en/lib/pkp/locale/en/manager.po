@@ -1,0 +1,234 @@
+
+msgid "manager.genres.alertDelete"
+msgstr "Before this component can be deleted, you must associate all related Conference Proceedings Submission files with a different component."
+
+msgid "manager.publication.submissionStage"
+msgstr "Conference Proceedings Submission"
+
+msgid "manager.language.submissions"
+msgstr "Conference Proceedings Submissions"
+
+msgid "manager.representative.inUse"
+msgstr "You can not delete this representative because they are assigned to the market metadata for one or more publication formats for this Conference Proceedings Submission."
+
+msgid "manager.statistics.reports.description"
+msgstr "The system generates reports that track the details associated with site usage and Conference Proceedings Submissions over a given period of time. Reports are generated in CSV format which requires a spreadsheet application to view."
+
+msgid "manager.setup.copyrightNotice.description"
+msgstr "Require authors to agree to the following copyright notice as part of the Conference Proceedings Submission process."
+
+msgid "manager.setup.authorGuidelines.description"
+msgstr "Recommended guidelines include bibliographic and formatting standards alongside examples of common citation formats to be used in Conference Proceedings Submissions."
+
+msgid "manager.setup.disableSubmissions"
+msgstr "Disable Conference Proceedings Submissions"
+
+msgid "manager.setup.notifications"
+msgstr "Notification of Author Conference Proceedings Submission"
+
+msgid "manager.setup.notifications.description"
+msgstr "Authors are automatically sent an email acknowledging their Conference Proceedings Submission. You may have copies of this email sent to the following:"
+
+msgid "manager.setup.peerReview.description"
+msgstr "Outline the peer review policy and processes for readers and authors. This description often includes the number of reviewers typically used in reviewing a submission, the criteria by which reviewers are asked to judge Conference Proceedings Submissions, expected time required to conduct the reviews, and the principles used to select reviewers."
+
+msgid "manager.setup.privacyStatement.description"
+msgstr "This statement will appear during user registration, author Conference Proceedings Submission, and on the publicly available Privacy page. In some jurisdictions, you are legally required to disclose how you handle user data in this privacy policy."
+
+msgid "manager.sections.form.deactivateSection"
+msgstr "Deactivate this section and do not allow new Conference Proceedings Submissions to be made to it."
+
+msgid "settings.roles.permitMetadataEdit"
+msgstr "Permit Conference Proceedings Submission metadata edit."
+
+msgid "manager.setup.metadata.submission"
+msgstr "Conference Proceedings Submission Form"
+
+msgid "manager.setup.metadata.coverage.noRequest"
+msgstr "Do not request coverage metadata from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.coverage.request"
+msgstr "Ask the author to suggest coverage metadata during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.coverage.require"
+msgstr "Require the author to suggest coverage metadata before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.keywords.description"
+msgstr "Keywords are typically one- to three-word phrases that are used to indicate the main topics of a Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.keywords.noRequest"
+msgstr "Do not request keywords from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.keywords.request"
+msgstr "Ask the author to suggest keywords during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.keywords.require"
+msgstr "Require the author to suggest keywords before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.languages.noRequest"
+msgstr "Do not request the submission's languages from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.languages.require"
+msgstr "Require the author to enter the submission's languages before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.rights.description"
+msgstr "Any rights held over the Conference Proceedings Submission, which may include Intellectual Property Rights (IPR), Copyright, and various Property Rights."
+
+msgid "manager.setup.metadata.rights.noRequest"
+msgstr "Do not request a rights disclosure from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.rights.request"
+msgstr "Ask the author to disclose any prior access rights during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.rights.require"
+msgstr "Require the author to disclose any prior access rights before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.source.description"
+msgstr "The source may be an ID, such as a DOI, of another work or resource from which the Conference Proceedings Submission is derived."
+
+msgid "manager.setup.metadata.source.noRequest"
+msgstr "Do not request a source URL from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.source.request"
+msgstr "Ask the author to provide a source URL during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.source.require"
+msgstr "Require the author to provide a source URL before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.subjects.description"
+msgstr "Subjects will be keywords, key phrases or classification codes that describe a topic of the Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.subjects.noRequest"
+msgstr "Do not request subjects from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.subjects.request"
+msgstr "Ask the author to provide subjects during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.subjects.require"
+msgstr "Require the author to provide subjects before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.type.description"
+msgstr "The nature or genre of the main content of the Conference Proceedings Submission. The type is usually \"Text\", but may also be \"Dataset\", \"Image\" or any of the <a target=\"_blank\" href=\"http://dublincore.org/documents/dcmi-type-vocabulary/#section-7-dcmi-type-vocabulary\">Dublin Core types</a>."
+
+msgid "manager.setup.metadata.type.noRequest"
+msgstr "Do not request the type from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.type.request"
+msgstr "Ask the author to provide the type during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.type.require"
+msgstr "Require the author to provide the type before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.disciplines.noRequest"
+msgstr "Do not request disciplines from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.disciplines.request"
+msgstr "Ask the author to provide disciplines during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.disciplines.require"
+msgstr "Require the author to provide disciplines before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.agencies.noRequest"
+msgstr "Do not request supporting agencies from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.agencies.request"
+msgstr "Ask the author to disclose any supporting agencies during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.agencies.require"
+msgstr "Require the author to disclose any supporting agencies before accepting their Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.citations.description"
+msgstr "Collect a Conference Proceedings Submission's references in a separate field. This may be required to comply with citation-tracking services such as Crossref."
+
+msgid "manager.setup.metadata.citations.noRequest"
+msgstr "Do not request references from the author during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.citations.request"
+msgstr "Ask the author to provide references during Conference Proceedings Submission."
+
+msgid "manager.setup.metadata.citations.require"
+msgstr "Require the author to provide references before accepting their Conference Proceedings Submission."
+
+msgid "plugins.importexport.common.error.missingGivenName"
+msgstr "The author {$authorName} does not have a given name in the submission's language, {$localeName}. The Conference Proceedings Submission can not be imported without this information."
+
+msgid "plugins.importexport.common.error.duplicateRevisionForSubmission"
+msgstr "The revision \"{$revisionId}\" for Conference Proceedings Submission file \"{$fileId}\" would create a duplicate record"
+
+msgid "plugins.importexport.native.error.submissionFileImportFailed"
+msgstr "The Conference Proceedings Submission file could not be imported"
+
+msgid "plugins.importexport.native.error.submissionFileSkipped"
+msgstr "The Conference Proceedings Submission file {$id} was skipped because it is attached to a record that will not be imported, such as a review assignment or discussion."
+
+msgid "plugins.importexport.native.error.submissionFileWithoutRevision"
+msgstr "The Conference Proceedings Submission file {$id} was skipped because it does not have a valid revision."
+
+msgid "plugins.importexport.native.error.submissionFileRevisionMissing"
+msgstr "The revision {$revision} of the Conference Proceedings Submission file {$id} was skipped because the file was not found at the path \"{$path}\"."
+
+msgid "manager.navigationMenus.form.submenuWarning"
+msgstr "When a menu item opens a submenu, it's link can not be followed on all devices. For example, if you have an \"About\" item which opens a submenu with \"Contact\" and \"Editorial Team\", the \"About\" link may not be reachable on all devices. In the default menu, this is handled by creating a second menu item, \"About the Conference Proceedings Series\", which appears in the submenu."
+
+msgid "manager.navigationMenus.about.description"
+msgstr "Link to a page displaying the About the Journal content in Settings > Conference Proceedings Series"
+
+msgid "manager.navigationMenus.about.conditionalWarning"
+msgstr "This link will only be displayed if you have filled out the About the Journal section under Settings > Conference Proceedings Series."
+
+msgid "manager.navigationMenus.editorialTeam.description"
+msgstr "Link to a page displaying the Masthead content in Settings > Conference Proceedings Series."
+
+msgid "manager.navigationMenus.editorialTeam.conditionalWarning"
+msgstr "This link will only be displayed if you have filled out the Editorial Team section under Settings > Conference Proceedings Series."
+
+msgid "manager.navigationMenus.submissions.description"
+msgstr "Link to the page displaying Conference Proceedings Submission instructions."
+
+msgid "manager.navigationMenus.current.description"
+msgstr "Link to your current Conference Proceedings Volume."
+
+msgid "manager.navigationMenus.archives.description"
+msgstr "Link to your Conference Proceedings Volume archive."
+
+msgid "manager.navigationMenus.privacyStatement.conditionalWarning"
+msgstr "This link will only be displayed if you have entered a privacy statement under Settings > Workflow > Conference Proceedings Submissions."
+
+msgid "stats.description.acceptRejectRate"
+msgstr "The percentage for the selected date range is calculated for Conference Proceedings Submissions that were submitted during this date range and have received a final decision.<br><br>"
+
+msgid "stats.description.daysToDecision"
+msgstr "The number of days it takes for most Conference Proceedings Submissions to receive the first editorial decision, such as desk rejection or send for review.<br><br>"
+
+msgid "stats.description.submissionsSkipped"
+msgstr "This includes Conference Proceedings Submissions that are not counted in other totals, such as those that are still in progress and those that appear to have been imported."
+
+msgid "stats.submissionsActive"
+msgstr "Active Conference Proceedings Submissions"
+
+msgid "stats.name.submissionsReceived"
+msgstr "Conference Proceedings Submissions Received"
+
+msgid "stats.name.submissionsSkipped"
+msgstr "Other Conference Proceedings Submissions"
+
+msgid "stats.name.submissionsInProgress"
+msgstr "Conference Proceedings Submissions In Progress"
+
+msgid "stats.name.submissionsImported"
+msgstr "Imported Conference Proceedings Submissions"
+
+msgid "stats.name.submissionsAccepted"
+msgstr "Conference Proceedings Submissions Accepted"
+
+msgid "stats.name.submissionsDeclined"
+msgstr "Conference Proceedings Submissions Declined"
+
+msgid "stats.name.submissionsDeclinedDeskReject"
+msgstr "Conference Proceedings Submissions Declined (Desk Reject)"
+
+msgid "stats.name.submissionsDeclinedPostReview"
+msgstr "Conference Proceedings Submissions Declined (After Review)"
+
+msgid "stats.name.submissionsPublished"
+msgstr "Conference Proceedings Submissions Published"

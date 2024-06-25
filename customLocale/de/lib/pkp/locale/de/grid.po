@@ -1,0 +1,39 @@
+# Heike Riegler <heike.riegler@julius-kuehn.de>, 2022.
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2022, 2023.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "grid.action.requestRevisions"
+msgstr "Überarbeitung für diese Konferenzbandbeitragseinreichung anfordern"
+
+msgid "grid.action.accept"
+msgstr "Diese Konferenzbandbeitragseinreichung annehmen"
+
+msgid "grid.action.decline"
+msgstr "Konferenzbandbeitragseinreichung ablehnen"
+
+msgid "grid.action.internalReview"
+msgstr "Konferenzbandbeitragseinreichung in die internen Begutachtung schicken"
+
+msgid "grid.action.externalReview"
+msgstr "Konferenzbandbeitragseinreichung in die externe Begutachtung schicken"
+
+msgid "grid.action.sendToProduction"
+msgstr "Konferenzbandbeitragseinreichung in die Produktion schicken"
+
+msgid "grid.action.viewMetadata"
+msgstr "Die Metadaten zu dieser Konferenzbandbeitragseinreichung ansehen"
+
+msgid "grid.action.bookInfo"
+msgstr "Informationen zur Konferenzbandbeitragseinreichung"
+
+msgid "grid.libraryFiles.submission.title"
+msgstr "Konferenzbandbeitragseinreichungsbibliothek"
+
+msgid "grid.submissionChecklist.title"
+msgstr "Checkliste für Konferenzbandbeitragseinreichungen"
+
+msgid "grid.artworkFile.placement"
+msgstr "Platzierung in der Konferenzbandbeitragseinreichung"
+
+msgid "grid.submission.active.selectOrphaned"
+msgstr "Inklusive unfertiger Konferenzbandbeitragseinreichungen, die nicht durch eine/n Autor/in eingereicht wurden."
