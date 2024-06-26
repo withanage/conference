@@ -33,13 +33,6 @@ use stdClass;
 
 class ConferencePlugin extends GenericPlugin
 {
-	/**
-	 * @param $category
-	 * @param $path
-	 * @param $mainContextId
-	 * @return bool
-	 */
-
 	public function __construct()
         {
                 parent::__construct();
