@@ -1,0 +1,99 @@
+
+msgid "submission.submit.title"
+msgstr "Submit an Conference Proceedings Submission"
+
+msgid "submission.submit.userGroupDescription"
+msgstr "Choose the capacity under which you are submitting this Conference Proceedings Submission."
+
+msgid "submission.upload.selectComponent"
+msgstr "Select Conference Proceedings Submission component"
+
+msgid "submission.title"
+msgstr "Conference Proceedings Submission Title"
+
+msgid "submission.submit.newSubmissionMultiple"
+msgstr "Start a New Conference Proceedings Submission in"
+
+msgid "submission.submit.newSubmissionSingle"
+msgstr "New Conference Proceedings Submission"
+
+msgid "grid.action.workflow"
+msgstr "Conference Proceedings Submission Workflow"
+
+msgid "submission.submit.noContext"
+msgstr "This Conference Proceedings  Submission's Conference Proceedings Series could not be found."
+
+msgid "grid.action.galleyInIssueEntry"
+msgstr "Galley appears in Conference Proceedings Volume entry"
+
+msgid "grid.action.issueEntry"
+msgstr "View this Conference Proceedings  Submission's metadata"
+
+msgid "submission.event.articleGalleyMadeAvailable"
+msgstr "The Conference Proceedings Submission galley \"{$galleyFormatName}\" is made available."
+
+msgid "submission.event.articleGalleyMadeUnavailable"
+msgstr "The Conference Proceedings Submission galley \"{$galleyFormatName}\" is made unavailable."
+
+msgid "submission.event.publicIdentifiers"
+msgstr "The Conference Proceedings  Submission's public identifiers updated."
+
+msgid "submission.confirmSubmit"
+msgstr "Are you sure you wish to submit this Conference Proceedings Submission to the Conference Proceedings Series?"
+
+msgid "submission.event.issueMetadataUpdated"
+msgstr "The Conference Proceedings  Submission's Conference Proceedings Volume metadata was updated."
+
+msgid "submission.upload.fileContents"
+msgstr "Conference Proceedings Submission Component"
+
+msgid "submission.submit.form.localeRequired"
+msgstr "Please select a Conference Proceedings  Submission language."
+
+msgid "submission.submit.submissionChecklist"
+msgstr "Conference Proceedings Submission Checklist"
+
+msgid "submission.submit.form.titleRequired"
+msgstr "Please enter the title of your Conference Proceedings Submission."
+
+msgid "submission.submit.form.abstractRequired"
+msgstr "Please enter your Conference Proceedings Submission's abstract."
+
+msgid "publication.assignToissue"
+msgstr "Assign to Conference Proceedings Volume"
+
+msgid "publication.changeIssue"
+msgstr "Change Conference Proceedings Volume"
+
+msgid "publication.invalidIssue"
+msgstr "The Conference Proceedings Volume for this publication could not be found."
+
+msgid "publication.publishedIn"
+msgstr "Published in <a href=\"{$issueUrl}\">{issueTitle}</a>."
+
+msgid "publication.scheduledIn"
+msgstr "Scheduled for publication in <a href=\"{$issueUrl}\">{$journalTitle}</a>."
+
+msgid "publication.unscheduledIn"
+msgstr "This has not been scheduled for publication in an Conference Proceedings Volume."
+
+msgid "publication.selectIssue"
+msgstr "Select an Conference Proceedings Volume to schedule for publication"
+
+msgid "publication.event.published"
+msgstr "The Conference Proceedings  Submission was published."
+
+msgid "publication.event.scheduled"
+msgstr "The Conference Proceedings  Submission was scheduled for publication."
+
+msgid "publication.event.unpublished"
+msgstr "The Conference Proceedings  Submission was unpublished."
+
+msgid "publication.invalidSubmission"
+msgstr "The Conference Proceedings  Submission for this publication could not be found."
+
+msgid "publication.required.declined"
+msgstr "A declined Conference Proceedings  Submission can not be published."
+
+msgid "submission.copyrightOther.description"
+msgstr "Assign copyright for published Conference Proceedings  Submissions to the following party."

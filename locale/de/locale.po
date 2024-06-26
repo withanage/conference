@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T11:05:16+00:00\n"
+"PO-Revision-Date: 2019-11-19T11:05:16+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.conference.metadata.conferenceDate.title"
+msgstr "Daten der Konferenz"
+
+msgid "plugins.generic.conference.metadata.conferenceDateBegin"
+msgstr "Anfangsdatum"
+
+msgid "plugins.generic.conference.metadata.conferenceDateEnd"
+msgstr "Enddatum"
+
+msgid "plugins.generic.conference.metadata.conferencePlace.title"
+msgstr "Ort der Konferenz"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceStreet"
+msgstr "Straße / Platz"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceCity"
+msgstr "Stadt"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceCountry"
+msgstr "Land"
+
+msgid "plugins.generic.conference.displayName"
+msgstr "Konferenzveröffentlichung"
+
+msgid "plugins.generic.conference.description"
+msgstr "Ermöglicht Konferenzbandreihen  in OJS abzubilden. Konferenzspezifische Metadaten werden nach Aktivierung automatisch hinzugefügt, und das Frontend und Backend wird angepasst um Konferenzveröffentlichungen darzustellen."
+
+msgid "plugins.generic.conference.metadata.conferenceOnline.title"
+msgstr "Onlinekonferenz"
+
+msgid "plugins.generic.conference.metadata.conferenceOnline.checkBox"
+msgstr "Das ist eine Online-Konferenz"
+~                                             

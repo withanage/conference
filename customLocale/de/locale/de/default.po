@@ -1,0 +1,45 @@
+msgid "section.default.title"
+msgstr "Konferenzbandbeitrag"
+
+msgid "default.genres.article"
+msgstr "Konferenzbandbeitragtext"
+
+msgid "default.contextSettings.checklist.notPreviouslyPublished"
+msgstr "Der Konferenzbandbeitrag ist bisher unveröffentlicht und wurde auch keiner anderen Konferenzbandreihe vorgelegt (andernfalls ist eine Erklärung in \"Kommentare für die Redaktion\" beigefügt)."
+
+msgid "default.contextSettings.checklist.fileFormat"
+msgstr "Die Konferenzbandbeitragsdatei liegt im Format OpenOffice, Microsoft Word oder RTF vor."
+
+msgid "default.contextSettings.privacyStatement"
+msgstr "<p>Namen und E-Mail-Adressen, die auf den Webseiten der Konferenzbandreihe eingegeben werden, werden ausschließlich zu den angegebenen Zwecken verwendet und nicht an Dritte weitergegeben.</p>"
+
+msgid "default.contextSettings.openAccessPolicy"
+msgstr "Diese Konferenzbandreihe bietet freien Zugang (Open Access) zu ihren Inhalten, entsprechend der Grundannahme, dass die freie öffentliche Verfügbarkeit von Forschung einem weltweiten Wissensaustausch zugute kommt."
+
+msgid "default.contextSettings.forReaders"
+msgstr "Wir empfehlen unseren Leser/innen, sich für die Benachrichtigung bei neuen Veröffentlichungen dieser Konferenzbandreihe einzutragen. Verwenden Sie den <a href=\{$indexUrl}/{$contextPath}/user/register\>Registrieren</a>-Link oben auf der Startseite der Konferenzbandreihe. Angemeldete Leser/innen erhalten zu jeder neuen Ausgabe der Konferenzbandreihe die Inhaltsangabe per E-Mail zugeschickt. Die Anmeldung ermöglicht es gleichzeitig der Konferenzbandreihe, einen gewissen Grad an Unterstützung oder eine gewisse Leser/innenschaft zu belegen. Siehe die Regelungen zum <a href=\{$indexUrl}/{$contextPath}/about/submissions#privacyStatement\>Schutz personenbezogener Daten</a> der Konferenzbandreihe, die sicherstellen, dass weder Namen noch E-Mail-Adressen registrierter Benutzer/innen zu anderen Zwecken verwendet werden."
+
+msgid "default.contextSettings.forAuthors"
+msgstr "Haben Sie Interesse, einen Beitrag bei dieser Konferenzbandreihe einzureichen? Wir möchten Sie auf <a href=\{$indexUrl}/{$contextPath}/about\>Über uns</a>, wo Sie die Richtlinien der Konferenzbandreihe einsehen können, und auf <a href=\{$indexUrl}/{$contextPath}/about/submissions#authorGuidelines\>Richtlinien für Autor/innen</a> verweisen. Autor/innen müssen sich <a href=\{$indexUrl}/{$contextPath}/user/register\>registrieren</a>, bevor Sie einen Beitrag für die Konferenzbandreihe einreichen können. Falls Sie bereits angemeldet sind, einfach <a href=\{$indexUrl}/{$contextPath}/login\>einloggen</a> und die \"Fünf Schritte zur Konferenzbandbeitragseinreichung\" abarbeiten."
+
+msgid "default.contextSettings.forLibrarians"
+msgstr "Wir ermutigen Forschungsbibliotheken, diese Konferenzbandreihe in die Liste ihrer elektronischen Konferenzbandreihen aufzunehmen. Darüber hinaus bietet das Open Source Veröffentlichungssystem dieser Konferenzbandreihe Bibliotheken die Möglichkeit, Konferenzbände, an denen Mitglieder ihrer Fakultät mitarbeiten, online bereitzustellen. Siehe <a href=\http://pkp.sfu.ca\>Public Knowledge Project</a>."
+
+msgid "default.contextSettings.lockssLicense"
+msgstr "Diese Konferenzbandreihe verwendet das LOCKSS-System, um mit Hilfe der teilnehmenden Bibliotheken ein dezentralen Achivierungssystem zu schaffen, bei dem diese Bibliotheken die Konferenzband zu Aufbewahrungs- und Wiederherstellungszwecken permanent archivieren. <a href=\http://www.lockss.org/\>Mehr...</a>"
+
+msgid "default.contextSettings.clockssLicense"
+msgstr "Diese Konferenzbandreihe benutzt das CLOCKSS-System, um ein verteiltes Archivsystem zwischen teilnehmenden Bibliotheken zu ermöglichen. Sie erlaubt diesen Bibliotheken, dauerhafte Archive des Konferenzbandes zu Zwecken des Bewahrens und Wiederherstellens anzulegen. <a href=\http://clockss.org/\>Mehr...</a>"
+
+msgid "default.groups.name.manager"
+msgstr "Konferenzbandreihe-Verwalter/in"
+
+msgid "default.groups.plural.manager"
+msgstr "Konferenzbandreihe-Verwalter/innen"
+
+msgid "default.groups.name.editor"
+msgstr "Konferenzbandreihe-Redakteur/in"
+
+msgid "default.groups.plural.editor"
+msgstr "Konferenzbandreihe-Redakteur/innen"
+

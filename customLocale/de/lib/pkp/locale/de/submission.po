@@ -1,0 +1,187 @@
+# Sebastian Wolf <bibliothekswelt@htmlwolf.de>, 2021.
+# Pia Piontkowitz <pia.piontkowitz@rub.de>, 2021, 2023.
+# Martin Brändle <martin.braendle@uzh.ch>, 2022.
+# Sebastian Schmidt <sebastian.schmidt@slub-dresden.de>, 2023
+
+msgid "submission.submit.contactConsentDescription"
+msgstr "Ja, ich würde gerne bezüglich dieser Konferenzbandbeitragseinreichung kontaktiert werden."
+
+msgid "submission.submit.submissionChecklist"
+msgstr "Anforderungen an die Konferenzbandbeitragseinreichung"
+
+msgid "submission.submit.submissionComplete"
+msgstr "Die Konferenzbandbeitragseinreichung ist abgeschlossen"
+
+msgid "submission.submit.whatNext.review"
+msgstr "Die Konferenzbandbeitragseinreichung begutachten"
+
+msgid "submission.submit.whatNext.create"
+msgstr "Eine neue Konferenzbandbeitragseinreichung erstellen"
+
+msgid "metadata.property.displayName.article-title"
+msgstr "Konferenzbandbeitrags/Paper-Titel"
+
+msgid "metadata.property.validationMessage.article-title"
+msgstr "Bitte geben Sie einen gültigen Konferenzbandbeitrags/Paper-Titel ein."
+
+msgid "metadata.property.displayName.issue"
+msgstr "Konferenzbandbeitragsausgabe"
+
+msgid "metadata.property.validationMessage.issue"
+msgstr "Bitte geben Sie eine gültige Ausgabe ein."
+
+msgid "common.queue.long.submissionsArchived"
+msgstr "Archivierte Konferenzbeiträge"
+
+msgid "submission.backToSubmissionEditing"
+msgstr "Zurück zur Konferenzbandbeitragsbearbeitung"
+
+msgid "submission.email.confirmClearLog"
+msgstr "Sind Sie sicher, dass Sie das E-Mail-Protokoll zu diesem Konferenzbandbeitrag löschen wollen?"
+
+msgid "submission.event.confirmClearLog"
+msgstr "Sind Sie sicher, dass Sie das Ereignisprotokoll zu diesem Konferenzbandbeitrag löschen wollen?"
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Erst-Konferenzbandbeitragseinreichung abgeschlossen."
+
+msgid "submission.event.fileRevised"
+msgstr "Die Revision \"{$filename}\" für Datei {$submissionFileId} wurde hochgeladen."
+
+msgid "submission.event.general.metadataUpdated"
+msgstr "Metadaten des Konferenzbandbeitrags aktualisiert"
+
+msgid "submission.event.general.suppFileUpdated"
+msgstr "Konferenzbandbeitrags-Anlagedatei aktualisiert"
+
+msgid "submission.event.reviewer.reviewerAssigned"
+msgstr "Konferenzbandbeitragseinreichung einer Gutachterin/einem Gutachter zugewiesen"
+
+msgid "submission.event.reviewer.reviewerUnassigned"
+msgstr "Gutachter/in nicht länger für die Konferenzbandbeitragseinreichung zuständig"
+
+msgid "submission.history.submissionNotes"
+msgstr "Einträge zu den Konferenzbandbeitragseinreichungen"
+
+msgid "submission.informationCenter.submissionInfo"
+msgstr "Informationen zur Konferenzbandbeitragseinreichung"
+
+msgid "submission.layout.viewingGalley"
+msgstr "Konferenzbandbeitragsfahne anzeigen"
+
+msgid "submission.metadata"
+msgstr "Metadaten der Konferenzbandbeitragseinreichung"
+
+msgid "submission.notes.backToSubmissionNotes"
+msgstr "Zurück zu den Anmerkungen zur Konferenzbandbeitragseinreichung"
+
+msgid "submission.notes.confirmDeleteAll"
+msgstr "Wollen Sie alle Anmerkungen zu dieser Konferenzbandbeitragseinreichung löschen?"
+
+msgid "submission.notes.confirmDelete"
+msgstr "Wollen Sie die Anmerkung zu dieser Konferenzbandbeitragseinreichung löschen?"
+
+msgid "submission.notes.noSubmissionNotes"
+msgstr "Keine Anmerkungen zur Konferenzbandbeitragseinreichung"
+
+msgid "submission.notes"
+msgstr "Anmerkungen zur Konferenzbandbeitragseinreichung"
+
+msgid "submissions.noSubmissions"
+msgstr "Keine Konferenzbandbeitragseinreichungen"
+
+msgid "submissions.queuedUnassigned"
+msgstr "Diese Konferenzbandbeitragseinreichung wurde noch kein/e Redakteur/in zugewiesen."
+
+msgid "submission.submission"
+msgstr "Konferenzbandbeitragseinreichung"
+
+msgid "submission.submissionTitle"
+msgstr "Konferenzbandbeitragstitel:"
+
+msgid "submission.submissionHistory"
+msgstr "Verlauf der Bearbeitung der Konferenzbandbeitragseinreichung"
+
+msgid "submission.submissionManuscript"
+msgstr "Konferenzbandbeitragsmanuskript"
+
+msgid "submission.submissionReview"
+msgstr "Begutachtung des Konferenzbandbeitrags"
+
+msgid "submission.submit.finishSubmission"
+msgstr "Schliesse Konferenzbandbeitragseinreichung ab"
+
+msgid "submission.submit.submissionLocale"
+msgstr "Sprache der Konferenzbandbeitragseinreichung"
+
+msgid "submission.submit.submissionFiles"
+msgstr "Konferenzbandbeitragseinreichung-Dateien"
+
+msgid "submission.submit.uploadSubmissionFile"
+msgstr "Lade Konferenzbandbeitragseinreichungs-Datei hoch"
+
+msgid "submission.upload.libraryCategory"
+msgstr "Dokumentkategorie der Konferenzbandbeitragseinreichung"
+
+msgid "editor.submission.roundStatus.resubmitForReview"
+msgstr "Die Konferenzbandbeitragseinreichung muss wieder eingereicht werden für eine neue Begutachtungsrunde."
+
+msgid "editor.submission.roundStatus.submissionResubmitted"
+msgstr "Die Konferenzbandbeitragseinreichung wurde wieder eingereicht für eine neue Begutachtungsrunde."
+
+msgid "editor.submission.roundStatus.accepted"
+msgstr "Konferenzbandbeitrag akzeptiert."
+
+msgid "editor.submission.roundStatus.declined"
+msgstr "Konferenzbandbeitrag abgelehnt."
+
+msgid "editor.submission.decision.accept"
+msgstr "Konferenzbandbeitragseinreichung annehmen"
+
+msgid "editor.submission.decision.decline"
+msgstr "Konferenzbandbeitrag ablehnen"
+
+msgid "editor.submission.recommendation.description"
+msgstr "Eine redaktionelle Entscheidung für diese Konferenzbandbeitragseinreichung empfehlen."
+
+msgid "submission.overview"
+msgstr "Überblick über die Konferenzbandbeitragseinreichung"
+
+msgid "submission.documents"
+msgstr "Dokumente der Konferenzbandbeitragseinreichung"
+
+msgid "notification.type.editorAssign"
+msgstr "Sie sind als Redakteur/in für den Konferenzbandbeitrag \"{$title}\" eingeteilt worden."
+
+msgid "notification.type.editorDecisionAccept"
+msgstr "Konferenzbandbeitragseinreichung akzeptiert."
+
+msgid "notification.type.editorDecisionDecline"
+msgstr "Konferenzbandbeitragseinreichung abgelehnt."
+
+msgid "notification.type.editorDecisionRevertDecline"
+msgstr "Abgelehnte Konferenzbandbeitragseinreichung reaktiviert."
+
+msgid "notification.type.submissionNewVersion"
+msgstr "Eine neue Version einer Konferenzbandbeitragseinreichung wurde erstellt"
+
+msgid "notification.type.revertDecline"
+msgstr "Die Entscheidung diese Konferenzbandbeitragseinreichung abzulehnen wurde revidiert."
+
+msgid "grid.action.itemWorkflow"
+msgstr "Zum Workflow für diese Konferenzbandbeitragseinreichung gehen"
+
+msgid "submission.attachPermissions"
+msgstr "Die folgenden Rechte für die Konferenzbandbeitragseinreichung festlegen:"
+
+msgid "submission.list.empty"
+msgstr "Keine Konferenzbandbeitragseinreichungen gefunden."
+
+msgid "submission.list.confirmDelete"
+msgstr "Konferenzbandbeitragseinreichung löschen?"
+
+msgid "submission.list.viewSubmission"
+msgstr "Konferenzbandbeitragseinreichung ansehen"
+
+msgid "submission.list.incompleteSubmissionNotice"
+msgstr "Diese Konferenzbandbeitragseinreichung muss vervollständigt werden, bevor sie durch eine/n Redakteur/in begutachtet wird."
