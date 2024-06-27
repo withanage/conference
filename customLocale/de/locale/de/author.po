@@ -1,0 +1,111 @@
+msgid "author.submit"
+msgstr "Neuer Beitrag"
+
+msgid "author.track"
+msgstr "Konferenzbeiträge im Begutachtungsverfahren"
+
+msgid "author.submit.submitArticle"
+msgstr "Einen Konferenzbandbeitrag einreichen"
+
+msgid "author.submit.startHereTitle"
+msgstr "Beginnen Sie eine neue Konferenzbandbeitragseinreichung"
+
+msgid "author.submit.startHereLink"
+msgstr "<a href=\{$submitUrl}\ class=\action\>Hier anklicken</a>, um zu Schritt 1 des Konferenzbandbeitragseinreichungsverfahrens zu gelangen."
+
+msgid "author.submit.step1"
+msgstr "Schritt 1. Konferenzbandbeitragseinreichung beginnen"
+
+msgid "author.submit.step2"
+msgstr "Schritt 2. Konferenzbandbeitrag hochladen"
+
+msgid "author.submit.step3"
+msgstr "Schritt 3. Metadaten des Konferenzbandbeitrages eingeben"
+
+msgid "author.submit.step5"
+msgstr "Schritt 5. Konferenzbandbeitragseinreichung bestätigen"
+
+msgid "author.submit.upload"
+msgstr "Konferenzbandbeitrag hochladen"
+
+msgid "submission.submit.cancelSubmission"
+msgstr "Sie können diesen Konferenzbandbeitrag zum Konferenzband zu einem späteren Zeitpunkt vervollständigen, indem Sie „Aktive Konferenzberichtbeiträge“ im Autoren-Startbereich auswählen."
+
+msgid "author.submit.notAccepting"
+msgstr "Die Konferenzbandreihe nimmt zur Zeit keine Beiträge an."
+
+msgid "author.submit.qualifyForWaiver"
+msgstr "Bitte ziehen Sie einen Verzicht auf die Einreichungsgebühr für diesen Konferenzbandbeitrag in Erwägung"
+
+msgid "author.submissions.confirmDelete"
+msgstr "Sind Sie sicher, dass Sie diese unvollständige Konferenzbandbeitragseinreichung löschen wollen?"
+
+msgid "author.submissions.noSubmissions"
+msgstr "Keine Konferenzbandbeitragseinreichungen."
+
+msgid "author.submit.journalSection"
+msgstr "Konferenzbandreihe-Rubrik"
+
+msgid "author.submit.journalSectionDescription"
+msgstr "Konferenzbeiträge müssen in einer der Rubriken der Konferenzbandreihe eingereicht werden."
+
+msgid "author.submit.verifyChecklist"
+msgstr "Stellen Sie sicher, dass alle Punkte der Checkliste erfüllt sind, bevor Sie fortfahren."
+
+msgid "author.submit.copyrightNoticeAgree"
+msgstr "Die Autoren stimmen den Bedingungen dieser Urheberrechtsmitteilung zu, die auf diesen Konferenzbandbeitrag angewendet werden, wenn und sobald er von dieser Konferenzbandreihe veröffentlicht wird (Anmerkungen an den Herausgeber können unten hinzugefügt werden)."
+
+msgid "author.submit.form.sectionRequired"
+msgstr "Bitte wählen Sie eine passende Rubrik der Konferenzbandreihe für diesen Konferenzbandbeitrag aus."
+
+msgid "author.submit.form.localeRequired"
+msgstr "Bitte wählen Sie eine Konferenzbandbeitragssprache."
+
+msgid "submission.submit.privacyStatement"
+msgstr "Datenschutzerklärung der Konferenzbandreihe"
+
+msgid "author.submit.submissionIndexingDescription"
+msgstr "Stellen Sie Begriffe für die Indizierung des Konferenzbandbeitrages zusammen; trennen Sie diese Begriffe durch ein Semikolon (Begriff1; Begriff2; Begriff3)."
+
+msgid "author.submit.form.titleRequired"
+msgstr "Bitte den Titel Ihres Konferenzbandbeitrages eingeben."
+
+msgid "author.submit.form.abstractRequired"
+msgstr "Geben Sie bitte ein Abstract Ihres Konferenzbandbeitrages ein."
+
+msgid "author.submit.submissionFile"
+msgstr "Konferenzbandbeitragsdatei"
+
+msgid "author.submit.uploadSubmissionFile"
+msgstr "Konferenzbandbeitragsdatei hochladen"
+
+msgid "author.submit.replaceSubmissionFile"
+msgstr "Konferenzbandbeitragsdatei ersetzen"
+
+msgid "author.submit.noSubmissionFile"
+msgstr "Keine Konferenzbandbeitragsdatei hochgeladen."
+
+msgid "author.submit.noSubmissionConfirm"
+msgstr "Sind Sie sicher, dass Sie fortfahren wollen, ohne eine Konferenzbandbeitragsdatei hochgeladen zu haben?"
+
+msgid "author.submit.supplementaryFilesInstructions"
+msgstr "Dieser optionale Schritt ermöglicht das Hinzufügen zusätzlicher Dateien zum Konferenzbandbeitrag. Die Dateien, die in jedem Format vorliegen können, können (a) Forschungsinstrumente, (b) Datensätze, die mit der Forschungsethik der Untersuchung übereinstimmen, (c) Quellen, die den Leser/innen sonst nicht zugänglich wären, (d) Zahlen und Tabellen, die nicht in den Text selbst eingebaut werden können, oder anderes Material, das zu der Arbeit beiträgt, enthalten."
+
+msgid "author.submit.noSupplementaryFiles"
+msgstr "Der Konferenzbandbeitragseinreichung wurden keine Zusatzdateien angefügt."
+
+msgid "author.submit.confirmationDescription"
+msgstr "Um Ihr Manuskript an {$journalTitle} zu übermitteln, klicken Sie auf „Einreichung abschließen“. Die Hauptkontaktperson der Einreichung wird eine Bestätigung per E-Mail erhalten und kann ihren Fortschritt durch den redaktionellen Prozess verfolgen, indem sie sich auf der Website der Konferenzbandreihe anmeldet. Vielen Dank für Ihr Interesse daran, mit {$journalTitle} zu veröffentlichen."
+
+msgid "author.submit.noFiles"
+msgstr "Es wurden keine Dateien an diese Konferenzbandbeitragseinreichung angehängt."
+
+msgid "author.submit.finishSubmission"
+msgstr "Konferenzbandbeitragseinreichung abschließen"
+
+msgid "author.submit.submissionComplete"
+msgstr "Die Konferenzbandbeitragseinreichung ist abgeschlossen. Vielen Dank für Ihr Interesse an einer Veröffentlichung bei {$journalTitle}."
+
+msgid "author.submit.authorSubmitLoginMessage"
+msgstr "Um Beiträge bei dieser Konferenzbandreihe einzureichen, ist ein Benutzer/innen-Konto erforderlich. Dies ermöglicht es unserer Redaktion, Ihre Beiträge zu verfolgen und Sie zu kontaktieren, wenn sich der Status Ihres Beitrags ändert oder wenn zusätzliche Informationen von Ihnen benötigt werden."
+

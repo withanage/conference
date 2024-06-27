@@ -1,0 +1,419 @@
+msgid "user.authorization.journalDoesNotPublish"
+msgstr "Diese Konferenzbandreihe veröffentlicht seinen Inhalt nicht online."
+
+msgid "context.current"
+msgstr "Aktuelle Konferenzbandreihe:"
+
+msgid "context.select"
+msgstr "Zu einer anderen Zeitschrift/Konferenzbandreihe wechseln:"
+
+msgid "common.software"
+msgstr "Open Journal Systems"
+
+msgid "common.journalHomepageImage.altText"
+msgstr "Bild auf der Startseite der Konferenzbandreihe"
+
+msgid "navigation.journalHelp"
+msgstr "Navigationshilfe"
+
+msgid "navigation.otherJournals"
+msgstr "Andere Zeitschriften/Konferenzbandreihe"
+
+msgid "navigation.browseByIssue"
+msgstr "Nach Konferenzband"
+
+msgid "navigation.skip.about"
+msgstr "Zu \Über uns\ springen"
+
+msgid "navigation.skip.issue"
+msgstr "Zum aktuellen Konferenzband springen"
+
+msgid "common.queue.long.submissionsInEditing"
+msgstr "In redaktioneller Bearbeitung"
+
+msgid "common.queue.long.submissionsInReview"
+msgstr "Konferenzbeiträge in Begutachtung"
+
+msgid "section.abbreviation.example"
+msgstr "(Zum Beispiel, Konferenzbandbeitrag=ART)"
+
+msgid "article.article"
+msgstr "Konferenzbandbeitrag"
+
+msgid "article.articles"
+msgstr "Konferenzbandbeitrag"
+
+msgid "common.publication"
+msgstr "Konferenzbandbeitrag"
+
+msgid "common.publications"
+msgstr "Konferenzbandbeitrag"
+
+msgid "article.submissionId"
+msgstr "Konferenzbandbeitrags-ID"
+
+msgid "section.sections"
+msgstr "Rubriken der Konferenzbandreihe"
+
+msgid "article.journalSection"
+msgstr "Rubrik"
+
+msgid "article.submission"
+msgstr "Konferenzbandbeitrag"
+
+msgid "article.submissions"
+msgstr "Konferenzbeiträge"
+
+msgid "article.return"
+msgstr "Zu Konferenzbandbeitragdetails zurückkehren"
+
+msgid "submission.submissionEditing"
+msgstr "Redaktionelle Bearbeitung des Konferenzbandbeitrags"
+
+msgid "submission.scheduledIn"
+msgstr "Veröffentlichung geplant für {$issueName}."
+
+msgid "submission.search"
+msgstr "Konferenzbandbeitragsuche"
+
+msgid "journal.currentIssue"
+msgstr "Aktueller Konferenzband"
+
+msgid "context.contexts"
+msgstr "Zeitschriften/Konferenzbandreihen"
+
+msgid "context.context"
+msgstr "Konferenzbandreihe"
+
+msgid "journal.viewAllIssues"
+msgstr "Alle Konferenzbände anzeigen"
+
+msgid "user.noRoles.selectUsersWithoutRoles"
+msgstr "Nutzer/innen ohne Rolle in diese Konferenzbandreihe mit aufnehmen."
+
+msgid "user.showAllJournals"
+msgstr "Alle Zeitschriften/Konferenzbandreihen anzeigen"
+
+msgid "user.registerForOtherJournals"
+msgstr "Für andere Zeitschriften/Konferenzbandreihen registrieren"
+
+msgid "user.reviewerPrompt"
+msgstr "Wären Sie daran interessiert, Konferenzbeiträge in dieser Konferenzbandreihe zu begutachten?"
+
+msgid "user.register.contextsPrompt"
+msgstr "Bei welchen Konferenzbandreihen auf dieser Website möchten Sie sich registrieren?"
+
+msgid "user.myJournals"
+msgstr "Meine Konferenzbandreihen"
+
+msgid "user.noRoles.submitArticleRegClosed"
+msgstr "Einen Vorschlag einreichen: Registrierung als Autor/in ist momentan ausgeschaltet."
+
+msgid "user.role.manager"
+msgstr "Konferenzbandreihen-Verwalter/in"
+
+msgid "user.role.managers"
+msgstr "Konferenzbandreihen-Verwalter/innen"
+
+msgid "user.role.journalAssistant"
+msgstr "Konferenzbandreihen-Assistent/in"
+
+msgid "user.role.journalAssistants"
+msgstr "Konferenzbandreihen-Assistent/innen"
+
+msgid "issue.issue"
+msgstr "Konferenzband"
+
+msgid "issue.issues"
+msgstr "Konferenzbände"
+
+msgid "issue.noIssues"
+msgstr "Keine Konferenzbände"
+
+msgid "issue.fullIssue"
+msgstr "Kompletter Konferenzband"
+
+msgid "issue.nonpdf.title"
+msgstr "Konferenzbände-Download"
+
+msgid "issue.viewIssue"
+msgstr "Konferenzband ansehen"
+
+msgid "issue.return"
+msgstr "Zu Konferenzbanddetails zurückkehren"
+
+msgid "submission.event.general.defaultEvent"
+msgstr "Neuzugang"
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Konferenzbandbeitrag eingereicht"
+
+msgid "submission.event.general.issueScheduled"
+msgstr "Konferenzbandbeitrag an die Warteliste für die Konferenzbandplanung geschickt"
+
+msgid "submission.event.general.issueAssigned"
+msgstr "Konferenzbandbeitrag einem Konferenzband zugewiesen"
+
+msgid "submission.event.general.articlePublished"
+msgstr "Konferenzbandbeitrag veröffentlicht"
+
+msgid "submission.event.editor.editorAssigned"
+msgstr "Konferenzbandbeitrag einer Redakteurin/einem Redakteur zugeteilt"
+
+msgid "submission.event.editor.editorUnassigned"
+msgstr "Redakteur/in nicht länger für den Konferenzbandbeitrag zuständig"
+
+msgid "submission.event.editor.submissionArchived"
+msgstr "Konferenzbandbeitrag ans Archiv geschickt"
+
+msgid "submission.event.editor.submissionRestored"
+msgstr "Konferenzbandbeitrag aus dem Archiv wiederhergestellt"
+
+msgid "submission.event.copyedit.copyeditorAssigned"
+msgstr "Konferenzbandbeitrag einer Lektorin/einem Lektor zugeteilt"
+
+msgid "submission.event.copyedit.copyeditorUnassigned"
+msgstr "Lektor/in nicht länger für den Konferenzbandbeitrag zuständig"
+
+msgid "submission.event.proofread.proofreaderAssigned"
+msgstr "Konferenzbandbeitrag einer Korrekturlektorin/einem Korrekturlektor zugeteilt"
+
+msgid "submission.event.proofread.proofreaderUnassigned"
+msgstr "Korrekturlektor/in nicht länger für den Konferenzbandbeitrag zuständig"
+
+msgid "submission.event.layout.layoutEditorAssigned"
+msgstr "Konferenzbandbeitrag einer Layoutredakteurin/einem Layoutredakteur zugeteilt"
+
+msgid "submission.event.layout.layoutEditorUnassigned"
+msgstr "Layoutredakteur/in nicht länger für den Konferenzbandbeitrag zuständig"
+
+msgid "comments.commentsOnArticle"
+msgstr "Kommentare zu diesem Konferenzbandbeitrag"
+
+msgid "search.results.orderBy.article"
+msgstr "Konferenzbandbeitragtitel"
+
+msgid "search.results.orderBy.issue"
+msgstr "Konferenzbandtitel"
+
+msgid "search.results.orderBy.journal"
+msgstr "Konferenzbandreihentitel"
+
+msgid "plugins.categories.viewableFiles"
+msgstr "Plugins für Konferenzbandbeitragfahnen"
+
+msgid "sectionEditor.noneAssigned"
+msgstr "Keine Konferenzbeiträge zugewiesen."
+
+msgid "sectionEditor.regrets.title"
+msgstr "#{$submissionId} Absagen durch Gutachter/innen, Abbrüche & Frühere Durchgänge"
+
+msgid "reviewer.pendingReviews"
+msgstr "Konferenzbeiträge in Begutachtung"
+
+msgid "reviewer.article.submissionEditor"
+msgstr "Zuständige/r Redakteur/in"
+
+msgid "reviewer.article.decision.accept"
+msgstr "Konferenzbandbeitrag annehmen"
+
+msgid "reviewer.article.decision.decline"
+msgstr "Konferenzbandbeitrag ablehnen"
+
+msgid "reviewer.article.submissionToBeReviewed"
+msgstr "Konferenzbandbeitrag zur Begutachtung"
+
+msgid "reviewer.article.notifyEditorA"
+msgstr "Die Redakteurin/den Redakteur"
+
+msgid "reviewer.article.enterReviewA"
+msgstr "Bitte klicken Sie auf das Symbol, um Ihr Gutachten zu diesem Konferenzbandbeitrag einzugeben."
+
+msgid "submission.logType.article"
+msgstr "Konferenzbandbeitrag"
+
+msgid "user.register.selectContext"
+msgstr "Eine Konferenzbandreihe auswählen, bei der Sie sich registrieren möchten:"
+
+msgid "user.register.noJournals"
+msgstr "Auf dieser Seite gibt es keine Konferenzbandreihen, bei denen Sie sich eintragen könnten."
+
+msgid "user.register.registrationDisabled"
+msgstr "Gegenwärtig nimmt diese Konferenzband keine Registrierung von Benutzer/innen entgegen."
+
+msgid "user.register.readerDescription"
+msgstr "Sie werden per E-Mail über neue Bände der Konferenzberichteihe informiert."
+
+msgid "user.register.openAccessNotificationDescription"
+msgstr "Sie werden per E-Mail benachrichtigt, wenn ein Band der Konferenzbandreihe frei zugänglich gemacht wird."
+
+msgid "user.register.authorDescription"
+msgstr "Sie können Konferenzbeiträge bei dieser Konferenzbandreihe einreichen."
+
+msgid "user.register.reviewerDescriptionNoInterests"
+msgstr "Sie sind bereit, bei dem Konferenzbandreihe eingereichte Beiträge im Peer Review zu begutachten."
+
+msgid "user.register.reviewerDescription"
+msgstr "Sie sind bereit, bei der Website eingereichte Konferenzbeiträge im Rahmen des Peer Review zu begutachten."
+
+msgid "search.searchFor"
+msgstr "Konferenzbandbeitrag durchsuchen nach"
+
+msgid "search.allJournals"
+msgstr "allen Zeitschriften/Konferenzbandreihen"
+
+msgid "article.nonpdf.title"
+msgstr "Konferenzbandbeitrag herunterladen"
+
+msgid "current.noCurrentIssue"
+msgstr "Kein aktueller Konferenzband"
+
+msgid "current.noCurrentIssueDesc"
+msgstr "Von dieser Konferenzbandreihe ist kein Konferenzband erschienen."
+
+msgid "archive.browse"
+msgstr "Ältere Konferenzbände durchblättern"
+
+msgid "archive.issueUnavailable"
+msgstr "Konferenzband nicht verfügbar"
+
+msgid "about.aboutContext"
+msgstr "Über die Konferenzbandreihe"
+
+msgid "about.history"
+msgstr "Konferenzbandreihen-Geschichte"
+
+msgid "about.submissions"
+msgstr "Beitragseinreichung"
+
+msgid "about.onlineSubmissions.registrationRequired"
+msgstr "Um Konferenzbandbeiträge online einzureichen oder den aktuellen Status eines eingereichten Beitrags zu überprüfen, müssen Sie registriert und eingeloggt sein. In einen existierenden Account {$login} oder einen neuen Account {$register}."
+
+msgid "about.onlineSubmissions.submissionActions"
+msgstr "{$newSubmission} oder {$viewSubmissions}."
+
+msgid "about.onlineSubmissions.submitToSection"
+msgstr "Eine neue Konferenzbandbeitragseinreichung in Rubrik <a href=\{$url}\>{$name}</a> machen."
+
+msgid "about.onlineSubmissions.newSubmission"
+msgstr "Neuen Konferenzbandbeitrag einreichen"
+
+msgid "about.onlineSubmissions.viewSubmissions"
+msgstr "Konferenzbeiträge in Bearbeitung ansehen"
+
+msgid "about.submissionPreparationChecklist"
+msgstr "Checkliste für Konferenzbandbeitragseinreichungen"
+
+msgid "about.authorFeesMessage"
+msgstr "Dieser Konferenzbandreihe erhebt die folgenden Autor/innen-Gebühren."
+
+msgid "about.delayedOpenAccessDescription2"
+msgstr "Monat(e) nach der Veröffentlichung eines Konferenzbands."
+
+msgid "about.aboutSoftware"
+msgstr "Über Open Journal Systems"
+
+msgid "help.ojsHelp"
+msgstr "Hilfe zu Open Journal Systems"
+
+msgid "payment.type.submission"
+msgstr "Gebühr für das Einreichen eines Konferenzbandbeitrags"
+
+msgid "payment.type.purchaseArticle"
+msgstr "Konferenzbandbeitragsgebühr"
+
+msgid "payment.type.purchaseIssue"
+msgstr "Konferenzbandegebühr"
+
+msgid "payment.submission.paySubmission"
+msgstr "Konferenzbandbeitragseinreichungsgebühr zahlen"
+
+msgid "installer.installApplication"
+msgstr "Open Journal Systems installieren"
+
+msgid "installer.upgradeApplication"
+msgstr "Open Journal Systems upgraden"
+
+msgid "log.review.resubmit"
+msgstr "Konferenzbandbeitrag {$submissionId} wurde erneut zur Begutachtung eingereicht."
+
+msgid "log.copyedit.copyeditorFile"
+msgstr "Eine Lektoratsversion des Konferenzbandbeitrags wurde hochgeladen."
+
+msgid "log.editor.metadataModified"
+msgstr "Die Metadaten für den Konferenzbandbeitrag wurden von {$editorName} verändert."
+
+msgid "log.editor.editorFile"
+msgstr "Eine Redaktionsversion des Konferenzbandbeitrags wurde hochgeladen."
+
+msgid "log.editor.archived"
+msgstr "Konferenzbandbeitrag {$submissionId} wurde archiviert."
+
+msgid "log.editor.restored"
+msgstr "Konferenzbandbeitrag {$submissionId} wurde wieder auf die Liste gesetzt."
+
+msgid "log.proofread.complete"
+msgstr "{$proofreaderName} hat Konferenzbandbeitrag {$submissionId} auf den Zeitplan gesetzt."
+
+msgid "log.imported"
+msgstr "{$userName} hat Konferenzbandbeitrag {$submissionId} importiert."
+
+msgid "metadata.pkp.peerReviewed"
+msgstr "Im Peer Review begutachteter Konferenzbandbeitrag"
+
+msgid "notification.type.submissionSubmitted"
+msgstr "Ein neuer Konferenzbandbeitrag wurde eingereicht: \{$title}\."
+
+msgid "notification.type.issuePublished"
+msgstr "Ein Konferenzband wurde veröffentlicht."
+
+msgid "notification.type.submissions"
+msgstr "Konferenzbandbeitragseinreichungsereignisse"
+
+msgid "notification.savedIssueMetadata"
+msgstr "Konferenzbandmetadaten gespeichert."
+
+msgid "user.authorization.noContext"
+msgstr "Es konnte keine Konferenzbandreihe gefunden werden, die mit Ihrer Anfrage übereinstimmt."
+
+msgid "user.authorization.sectionAssignment"
+msgstr "Sie versuchen auf einen Konferenzbandbeitrag zuzugreifen, der nicht Teil Ihrer Rubrik ist."
+
+msgid "user.authorization.invalidIssue"
+msgstr "Ungültigen Konferenzband angefordert!"
+
+msgid "user.authorization.invalidCopyditorSubmission"
+msgstr "Ungültige Lektor/innenfassung oder keine Lektor/innenfassung angefordert!"
+
+msgid "grid.action.createContext"
+msgstr "Neue Konferenzbandreihe anlegen"
+
+msgid "editor.navigation.issues"
+msgstr "Konferenzbände"
+
+msgid "user.profile.form.showOtherContexts"
+msgstr "Bei anderen Zeitschriften/Konferenzbandreihen registrieren"
+
+msgid "user.profile.form.hideOtherContexts"
+msgstr "Andere Zeitschriften/Konferenzbandreihen ausblenden"
+
+msgid "article.view.interstitial"
+msgstr "Bitte wählen Sie eine Konferenzbandbeitragsdatei zum Download aus."
+
+msgid "search.cli.rebuildIndex.indexing"
+msgstr "Indiziere \{$journalName\}"
+
+msgid "search.cli.rebuildIndex.indexingByJournalNotSupported"
+msgstr "Diese Implementierung der Suche erlaubt keine Neuindizierung pro Konferenzbandreihe."
+
+msgid "editor.issues.backIssues"
+msgstr "Frühere Konferenzbände"
+
+msgid "editor.issues.futureIssues"
+msgstr "Zukünftige Konferenzbände"
+
+msgid "catalog.sortBy"
+msgstr "Konferenzbandbeitragreihenfolge"
+
+msgid "catalog.sortBy.categoryDescription"
+msgstr "Wählen Sie, wie die Konferenzbeiträge in dieser Kategorie sortiert sein sollen."

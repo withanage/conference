@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T11:05:16+00:00\n"
+"PO-Revision-Date: 2019-11-19T11:05:16+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.conference.metadata.conferenceDate.title"
+msgstr "Conference Dates"
+
+msgid "plugins.generic.conference.metadata.conferenceDateBegin"
+msgstr "Start Date"
+
+msgid "plugins.generic.conference.metadata.conferenceDateEnd"
+msgstr "End Date"
+
+msgid "plugins.generic.conference.metadata.conferencePlace.title"
+msgstr "Conference Location"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceStreet"
+msgstr "Street / Place"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceCity"
+msgstr "City"
+
+msgid "plugins.generic.conference.metadata.conferencePlaceCountry"
+msgstr "Country"
+
+msgid "plugins.generic.conference.displayName"
+msgstr "Conference publishing"
+
+msgid "plugins.generic.conference.description"
+msgstr "Enables Conference Proceedings to be hosted in OJS. When enabled, conference-related metadata gets added automatically and the backend and frontend will be changed to reflect conference proceedings contributions."
+
+msgid "plugins.generic.conference.metadata.conferenceOnline.title"
+msgstr "Online Conference"
+
+msgid "plugins.generic.conference.metadata.conferenceOnline.checkBox"
+msgstr "This is an online conference"

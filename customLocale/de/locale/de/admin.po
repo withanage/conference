@@ -1,0 +1,33 @@
+msgid "admin.hostedContexts"
+msgstr "Zeitschriften/Konferenzbandreihen auf dieser Website"
+
+msgid "admin.settings.redirect"
+msgstr "Umleitung zur Zeitschrift/Konferenzbandreihe"
+
+msgid "admin.journals.journalSettings"
+msgstr "Konferenzbandreihe-Einstellungen"
+
+msgid "admin.journals.noneCreated"
+msgstr "Es wurde keine Konferenzbandreihe eingerichtet."
+
+msgid "admin.contexts.create"
+msgstr "Einen Konferenzbandreihe einrichten"
+
+msgid "admin.contexts.form.pathExists"
+msgstr "Der gewählte Zugangspfad wird bereits für eine andere Zeitschrift/Konferenzbandreihe verwendet."
+
+msgid "admin.contexts.form.primaryLocaleNotSupported"
+msgstr "Die primäre Regionaleinstellung muss aus einer Regionaleinstellung der Konferenzbandreihe ausgewählt werden."
+
+msgid "admin.journals.enableJournalInstructions"
+msgstr "Einstellen, dass diese Konferenzbandreihe öffentlich auf der Website auftaucht"
+
+msgid "admin.contexts.contextDescription"
+msgstr "Beschreibung der Konferenzbandreihe"
+
+msgid "admin.journal.pathImportInstructions"
+msgstr "Existierender oder einzurichtender Zugangspfad zur Konferenzbandreihe (z.B. \ojs\)."
+
+msgid "admin.journals.transcode"
+msgstr "Metadaten der Konferenzbandreihe aus ISO 8859-1 umkodieren"
+
